@@ -1,0 +1,5 @@
+{
+  "_how_to_edit": "Deal feeds to read. 'reddit' entries are subreddit names. 'slickdeals' entries are search phrases.",
+  "reddit": ["buildapcsales"],
+  "slickdeals": ["5060 ti 16gb", "9060 xt 16gb", "rtx 3090", "7900 xtx", "5800x3d", "ddr4 32gb", "b550", "2tb nvme", "750w gold", "gaming desktop 16gb"]
+}

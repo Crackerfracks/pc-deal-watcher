@@ -1,0 +1,41 @@
+name: Watch for PC part deals
+
+on:
+  schedule:
+    # UTC times. 09, 11 and 13 UTC are 5, 7 and 9 AM Eastern in summer and
+    # 4, 6 and 8 AM in winter, inside Stephen's 4:00 to 9:30 AM window.
+    - cron: "0 9,11,13 * * *"
+  workflow_dispatch:
+    inputs:
+      send_test:
+        description: "Also send a test alert to the phone"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check deal feeds
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SEND_TEST: ${{ inputs.send_test }}
+        run: python watcher.py
+      - name: Remember which deals were already seen
+        run: |
+          git config user.name "deal-watcher"
+          git config user.email "deal-watcher@users.noreply.github.com"
+          git add state/seen.json
+          git diff --cached --quiet || (git commit -m "Update seen deals" && git push)
