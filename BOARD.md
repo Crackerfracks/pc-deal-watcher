@@ -1,8 +1,9 @@
 # Deals board
 
-Updated 2026-10-15 07:28 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-15 13:28 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
-sent a phone alert). Prices come from deal titles, so open the link to confirm.
+sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
+worth $250+ more than its parts). Prices come from deal titles, so open the link to confirm.
 
 ## Graphics cards
 
@@ -59,8 +60,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
-| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 41h ago | live as far as known |
+| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 40h ago | live as far as known |
+| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 47h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -76,7 +77,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 24h ago | live as far as known |
+| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 30h ago | live as far as known |
 
 ### 64GB DDR5 (2x32) (target $560) — in Build B (AM5) later upgrade
 
@@ -106,7 +107,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $65.27 | [Refurb: Corsair RM850x 850W 80 Plus Gold Fully Modular Zero RPM ATX 3.1 Certified Refurb - $65.27 + FS](https://slickdeals.net/f/20131434-refurb-corsair-rm850x-850w-80-plus-gold-fully-modular-zero-rpm-atx-3-1-certified-refurb-65-27-fs?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
+| ✅ $65.27 | [Refurb: Corsair RM850x 850W 80 Plus Gold Fully Modular Zero RPM ATX 3.1 Certified Refurb - $65.27 + FS](https://slickdeals.net/f/20131434-refurb-corsair-rm850x-850w-80-plus-gold-fully-modular-zero-rpm-atx-3-1-certified-refurb-65-27-fs?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | ✅ $75.9 | [$75.90* / Thermaltake GF1 850W Fully Modular 80 Plus Gold ATX Power Supply at Amazon](https://slickdeals.net/f/20135418-75-90-thermaltake-gf1-850w-fully-modular-80-plus-gold-atx-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### 1000W Gold power supply (target $140) — in Only if adding a 3090 later
