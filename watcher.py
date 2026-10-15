@@ -281,6 +281,12 @@ def main():
     def alert_topic(channel):
         return f"{topic}-{channel}" if per_part else topic
 
+    if os.environ.get("SEND_CHANNEL_NAMES") == "true":
+        # One message per channel, body is just the name, so it's easy to copy
+        # into the ntfy app's subscribe box.
+        for channel, label in CHANNELS.items():
+            notify(topic, f"Subscribe: {label}", f"{topic}-{channel}", tags="bell")
+            time.sleep(1)
     if os.environ.get("SEND_TEST") == "true" and not per_part:
         notify(topic, "[TEST] PC deal watcher", "Alerts work. Deals will arrive here with the part type at the start, like [GPU] or [RAM].")
     elif os.environ.get("SEND_TEST") == "true":

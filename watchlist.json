@@ -1,6 +1,6 @@
 {
  "_how_to_edit": "Each entry is one part to watch. A deal title must contain every word in 'all', at least one word in 'any' (if given), and none of the words in 'exclude'. You get a phone alert when the price is at or below 'max_price'. Prices below 'min_price' are ignored as rebates or shipping. Spaces and capitals don't matter when matching. 'channel' picks which phone alert channel the part uses (gpu, cpu, motherboard, ram, storage, power, case-cooling, prebuilt). 'builds' lists which planned builds use it. 'alert_channels' is 'single' (everything to the main phone channel) or 'per-part' (one channel per part type).",
- "alert_channels": "single",
+ "alert_channels": "per-part",
  "parts": [
   {
    "name": "RTX 5060 Ti 16GB",

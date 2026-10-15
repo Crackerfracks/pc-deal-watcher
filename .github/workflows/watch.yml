@@ -11,6 +11,10 @@ on:
         description: "Also send a test alert to every phone channel"
         type: boolean
         default: false
+      send_channel_names:
+        description: "Send each per-part channel name to the main channel, to copy into ntfy"
+        type: boolean
+        default: false
       backfill:
         description: "Fill the deals board from the last 7 days without sending alerts"
         type: boolean
@@ -37,6 +41,7 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           SEND_TEST: ${{ inputs.send_test }}
           BACKFILL: ${{ inputs.backfill }}
+          SEND_CHANNEL_NAMES: ${{ inputs.send_channel_names }}
         run: python watcher.py
       - name: Save the deals board and history
         run: |
