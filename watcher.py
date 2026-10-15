@@ -13,11 +13,14 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).parent
 SEEN_PATH = ROOT / "state" / "seen.json"
 SEEN_MAX_AGE_DAYS = 30
+# Slickdeals searches also return deals from months ago; skip anything older.
+DEAL_MAX_AGE_DAYS = 3
 USER_AGENT = "pc-deal-watcher/1.0 (personal price alerts; github.com/Crackerfracks)"
 PRICE_RE = re.compile(r"\$\s?(\d[\d,]*(?:\.\d{1,2})?)")
 # Single parts shouldn't match whole-computer deals unless the entry says so.
@@ -41,6 +44,7 @@ def reddit_deals(sub):
             "thread": "https://www.reddit.com" + post["permalink"],
             "expired": post.get("link_flair_text", "") in ("Expired", "Out of Stock")
             or post.get("over_18", False),
+            "posted": post.get("created_utc"),
         }
 
 
@@ -56,6 +60,7 @@ def reddit_rss_deals(sub):
             "url": link,
             "thread": link,
             "expired": False,
+            "posted": None,
         }
 
 
@@ -65,12 +70,17 @@ def slickdeals_deals(query):
     root = ET.fromstring(fetch(url))
     for item in root.iter("item"):
         link = item.findtext("link") or ""
+        try:
+            posted = parsedate_to_datetime(item.findtext("pubDate")).timestamp()
+        except (TypeError, ValueError):
+            posted = None
         yield {
             "id": "slickdeals:" + (item.findtext("guid") or link),
             "title": item.findtext("title") or "",
             "url": link,
             "thread": link,
             "expired": False,
+            "posted": posted,
         }
 
 
@@ -165,6 +175,9 @@ def main():
     for deal in deals:
         if deal["id"] in seen or deal["expired"]:
             continue
+        seen[deal["id"]] = now
+        if deal["posted"] and now - deal["posted"] > DEAL_MAX_AGE_DAYS * 86400:
+            continue
         for part in parts:
             if not matches(part, deal["title"]):
                 continue
@@ -181,7 +194,6 @@ def main():
             )
             alerts += 1
             break
-        seen[deal["id"]] = now
 
     # Every feed failing means alerts have silently stopped; say so.
     total = len(sources.get("reddit", [])) + len(sources.get("slickdeals", []))
