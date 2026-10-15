@@ -19,10 +19,16 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+import judge
+
 ROOT = Path(__file__).parent
 SEEN_PATH = ROOT / "state" / "seen.json"
 DEALS_PATH = ROOT / "state" / "deals.json"
 BOARD_PATH = ROOT / "BOARD.md"
+ACKS_PATH = ROOT / "state" / "acks.json"
+FLAGS_PATH = ROOT / "state" / "flags.json"
+# Great deals re-alert every run until acknowledged, for at most this long.
+URGENT_REPEAT_DAYS = 2
 SEEN_MAX_AGE_DAYS = 30
 # Slickdeals searches also return deals from months ago; skip anything older.
 DEAL_MAX_AGE_DAYS = 3
@@ -231,7 +237,8 @@ def write_board(history, parts, now):
         "",
         f"Updated {stamp}. Every deal from the last {BOARD_DAYS} days that matched a part on the",
         "watch list, cheapest first. ✅ means at or under the target price (those also",
-        "sent a phone alert). Prices come from deal titles, so open the link to confirm.",
+        "sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt",
+        "worth $250+ more than its parts). Prices come from deal titles, so open the link to confirm.",
         "",
     ]
     recent = [d for d in history if now - (d.get("posted") or d["first_seen"]) <= BOARD_DAYS * 86400]
@@ -253,19 +260,43 @@ def write_board(history, parts, now):
                 continue
             lines += ["| Price | Deal | Posted | Status |", "|---|---|---|---|"]
             for d in rows:
-                hit = "✅ " if d["price"] <= part["max_price"] else ""
+                hit = "🚨 " if d.get("great") else ("✅ " if d["price"] <= part["max_price"] else "")
                 status = (
                     f"expired after ~{hours(d['expired_at'] - d['posted'])}"
                     if d.get("expired_at") and d.get("posted")
                     else ("expired" if d.get("expired_at") else "live as far as known")
                 )
                 title = d["title"].replace("|", "/")
+                if d.get("verdict"):
+                    title += f" — parts ~${d['verdict']['parts_value']:,}, saves ~${d['verdict']['savings']:,}"
                 lines.append(f"| {hit}${d['price']:g} | [{title}]({d['url']}) | {ago(d.get('posted'), now)} | {status} |")
             lines.append("")
         lives = lifetimes(history, channel)
         if len(lives) >= 3:
             lines += [f"_{lifetime_note(history, channel)}_", ""]
     BOARD_PATH.write_text("\n".join(lines))
+
+
+def verdict_text(v):
+    return (
+        f"Same parts bought separately: ~${v['parts_value']:,} (estimate), "
+        f"so this saves ~${v['savings']:,}. " + "; ".join(v["notes"]) + "."
+    )
+
+
+def send_urgent(topic, d, part, reminder=False):
+    why = verdict_text(d["verdict"]) if d.get("verdict") else (
+        f"{(1 - d['price'] / part['max_price']) * 100:.0f}% under your ${part['max_price']} target."
+    )
+    builds = f" Part of: {', '.join(part['builds'])}." if part.get("builds") else ""
+    notify(
+        topic,
+        f"{'REMINDER: ' if reminder else ''}GREAT DEAL [{SHORT[d['channel']]}] {d['part']}: ${d['price']:g}",
+        f"{d['title']}\n\n{why}{builds}\n\nThis repeats each run until you tell Claude in the PC parts thread that you've seen it.\nDiscussion: {d['thread']}",
+        click=d["url"],
+        priority="urgent",
+        tags="rotating_light",
+    )
 
 
 def main():
@@ -322,23 +353,35 @@ def main():
             if not matches(part, deal["title"]):
                 continue
             price = deal_price(part, deal["title"])
+            if price is None:
+                continue
+            verdict = judge.judge_prebuilt(deal["title"], price) if part.get("whole_pc") else None
+            great = verdict["great"] if verdict else judge.is_great_part(part, price)
             # Keep near misses on the board so it shows what the market is doing.
-            if price is None or price > part["max_price"] * 1.25:
+            if price > part["max_price"] * 1.25 and not great:
                 continue
             channel = part.get("channel", "gpu")
-            history.append({
+            entry = {
                 "id": deal["id"], "part": part["name"], "channel": channel, "price": price,
                 "title": deal["title"], "url": deal["url"], "thread": deal["thread"],
-                "posted": deal["posted"], "first_seen": now,
-            })
+                "posted": deal["posted"], "first_seen": now, "great": great,
+            }
+            if verdict:
+                entry["verdict"] = verdict
+            history.append(entry)
             known.add(deal["id"])
-            if price <= part["max_price"] and not backfill:
+            if great and not backfill:
+                print(f"GREAT {part['name']} ${price}: {deal['title']}")
+                send_urgent(alert_topic(channel), entry, part)
+                alerts += 1
+            elif (price <= part["max_price"] or great) and not backfill:
                 print(f"ALERT {part['name']} ${price}: {deal['title']}")
                 builds = f"\nPart of: {', '.join(part['builds'])}" if part.get("builds") else ""
+                value = f"\n{verdict_text(verdict)}" if verdict else ""
                 notify(
                     alert_topic(channel),
                     f"[{SHORT[channel]}] {part['name']}: ${price:g} (target ${part['max_price']})",
-                    f"{deal['title']}{builds}\n\n{lifetime_note(history, channel)}\nDiscussion: {deal['thread']}",
+                    f"{deal['title']}{builds}{value}\n\n{lifetime_note(history, channel)}\nDiscussion: {deal['thread']}",
                     click=deal["url"],
                     priority="high",
                 )
@@ -361,7 +404,27 @@ def main():
     # Every feed failing means alerts have silently stopped; say so.
     total = len(sources.get("reddit", [])) + len(sources.get("slickdeals", []))
     if total and len(failures) == total:
-        notify(topic, "PC deal watcher: all feeds failed", "\n".join(failures)[:3000], priority="high")
+        notify(alert_topic("gpu"), "[WATCHER BROKEN] all deal feeds failed", "\n".join(failures)[:3000], priority="high")
+
+    # Re-send great deals that haven't been acknowledged and haven't expired.
+    acks = set(load_json(ACKS_PATH, []))
+    by_name = {p["name"]: p for p in parts}
+    pending = [
+        d for d in history
+        if d.get("great") and d["id"] not in acks and not d.get("expired_at")
+        and now - d["first_seen"] <= URGENT_REPEAT_DAYS * 86400 and d["part"] in by_name
+    ]
+    for d in pending:
+        if d["first_seen"] != now and not backfill:
+            send_urgent(alert_topic(d["channel"]), d, by_name[d["part"]], reminder=True)
+    # For the daily check-in that tells Claude what needs a human.
+    FLAGS_PATH.write_text(json.dumps({
+        "checked_at": now,
+        "great_unacknowledged": pending,
+        "prebuilts_last_day": [
+            d for d in history if d.get("verdict") and now - d["first_seen"] <= 86400
+        ],
+    }, indent=1))
 
     cutoff = now - SEEN_MAX_AGE_DAYS * 86400
     seen = {k: v for k, v in seen.items() if v >= cutoff}
