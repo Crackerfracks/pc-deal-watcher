@@ -75,25 +75,30 @@ def reddit_rss_deals(sub):
     ns = {"a": "http://www.w3.org/2005/Atom"}
     for entry in root.findall("a:entry", ns):
         link = entry.find("a:link", ns).get("href")
+        stamp = entry.findtext("a:published", namespaces=ns) or entry.findtext("a:updated", namespaces=ns)
+        try:
+            posted = datetime.fromisoformat(stamp).timestamp()
+        except (TypeError, ValueError):
+            posted = None
         yield {
             "id": "reddit:" + entry.find("a:id", ns).text.split("_")[-1],
             "title": entry.find("a:title", ns).text,
             "url": link,
             "thread": link,
             "expired": False,
-            "posted": None,
+            "posted": posted,
         }
 
 
-def reddit_expired_ids(ids):
-    """Return which of these reddit deal ids are now flaired expired."""
+def reddit_expired_ids(subs):
+    """Ids of the newest posts the subreddits have flaired expired."""
     expired = set()
-    for i in range(0, len(ids), 100):
-        names = ",".join("t3_" + d.split(":", 1)[1] for d in ids[i : i + 100])
-        data = json.loads(fetch(f"https://www.reddit.com/by_id/{names}.json"))
-        for child in data["data"]["children"]:
-            if reddit_post(child["data"])["expired"]:
-                expired.add("reddit:" + child["data"]["id"])
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    for sub in subs:
+        url = f"https://www.reddit.com/r/{sub}/search.rss?q=flair%3AExpired&restrict_sr=1&sort=new&limit=100"
+        root = ET.fromstring(fetch(url))
+        for entry in root.findall("a:entry", ns):
+            expired.add("reddit:" + entry.find("a:id", ns).text.split("_")[-1])
     return expired
 
 
@@ -324,13 +329,12 @@ def main():
 
     # Check which reddit deals have since been flaired expired, to learn how
     # long deals last.
-    open_reddit = [d["id"] for d in history if d["id"].startswith("reddit:") and not d.get("expired_at")]
-    if open_reddit:
+    if any(d["id"].startswith("reddit:") and not d.get("expired_at") for d in history):
         try:
-            for d_id in reddit_expired_ids(open_reddit):
-                for d in history:
-                    if d["id"] == d_id:
-                        d["expired_at"] = now
+            expired = reddit_expired_ids(sources.get("reddit", []))
+            for d in history:
+                if d["id"] in expired and not d.get("expired_at"):
+                    d["expired_at"] = now
         except Exception as e:
             print("  FAILED expiry check:", e)
 
