@@ -1,21 +1,261 @@
 {
-  "_how_to_edit": "Each entry is one part to watch. A deal title must contain every word in 'all', at least one word in 'any' (if given), and none of the words in 'exclude'. You get a phone alert when the price is at or below 'max_price'. Prices below 'min_price' are ignored as rebates or shipping. Spaces and capitals don't matter when matching.",
-  "parts": [
-    {"name": "RTX 5060 Ti 16GB", "all": ["5060 ti"], "any": ["16gb", "16 gb"], "exclude": ["8gb"], "max_price": 550, "min_price": 300},
-    {"name": "RX 9060 XT 16GB", "all": ["9060 xt"], "any": ["16gb", "16 gb"], "exclude": ["8gb"], "max_price": 400, "min_price": 250},
-    {"name": "RTX 4060 Ti 16GB", "all": ["4060 ti"], "any": ["16gb", "16 gb"], "exclude": ["8gb"], "max_price": 400, "min_price": 250},
-    {"name": "RTX 3090 (24GB)", "all": ["3090"], "exclude": ["laptop", "waterblock"], "max_price": 800, "min_price": 400},
-    {"name": "RX 7900 XTX (24GB)", "all": ["7900 xtx"], "exclude": ["laptop", "waterblock"], "max_price": 750, "min_price": 400},
-    {"name": "Ryzen 7 5800X3D", "all": ["5800x3d"], "max_price": 300, "min_price": 150},
-    {"name": "Ryzen 7 5700X3D", "all": ["5700x3d"], "max_price": 230, "min_price": 120},
-    {"name": "Ryzen 7 5700 / 5700X", "any": ["ryzen 7 5700 ", "ryzen 7 5700x ", "r7 5700x", "5700x "], "exclude": ["5700x3d", "5700g"], "max_price": 150, "min_price": 80},
-    {"name": "B550 motherboard", "all": ["b550"], "exclude": ["prebuilt", "desktop"], "max_price": 100, "min_price": 50},
-    {"name": "32GB DDR4", "all": ["ddr4"], "any": ["32gb", "2x16", "2 x 16"], "exclude": ["sodimm", "so-dimm", "laptop"], "max_price": 130, "min_price": 40},
-    {"name": "64GB DDR4", "all": ["ddr4"], "any": ["64gb", "2x32", "2 x 32"], "exclude": ["sodimm", "so-dimm", "laptop"], "max_price": 220, "min_price": 80},
-    {"name": "2TB NVMe SSD", "all": ["2tb"], "any": ["nvme", "m.2", "pcie", "gen4", "gen 4"], "exclude": ["external", "portable", "sata", "hdd", "enclosure"], "max_price": 170, "min_price": 80},
-    {"name": "750-850W Gold power supply", "any": ["750w", "750 w", "850w", "850 w"], "all": ["gold"], "exclude": ["sfx"], "max_price": 80, "min_price": 40},
-    {"name": "Airflow case", "all": ["[case]"], "exclude": ["itx"], "max_price": 55, "min_price": 25},
-    {"name": "CPU air cooler", "all": ["[cooler]"], "exclude": ["aio", "liquid", "360mm", "280mm", "240mm"], "max_price": 25, "min_price": 10},
-    {"name": "Prebuilt with 16GB+ GPU", "whole_pc": true, "any": ["[prebuilt]", "prebuilt", "gaming desktop", "gaming pc"], "also_any": ["5060 ti 16", "9060 xt 16", "4060 ti 16", "3090", "4070 ti super", "5070 ti", "9070", "7900 xt", "4080", "5080"], "exclude": ["laptop"], "max_price": 1300, "min_price": 600}
-  ]
+ "_how_to_edit": "Each entry is one part to watch. A deal title must contain every word in 'all', at least one word in 'any' (if given), and none of the words in 'exclude'. You get a phone alert when the price is at or below 'max_price'. Prices below 'min_price' are ignored as rebates or shipping. Spaces and capitals don't matter when matching. 'channel' picks which phone alert channel the part uses (gpu, cpu, motherboard, ram, storage, power, case-cooling, prebuilt). 'builds' lists which planned builds use it.",
+ "parts": [
+  {
+   "name": "RTX 5060 Ti 16GB",
+   "all": [
+    "5060 ti"
+   ],
+   "any": [
+    "16gb",
+    "16 gb"
+   ],
+   "exclude": [
+    "8gb"
+   ],
+   "max_price": 550,
+   "min_price": 300,
+   "channel": "gpu"
+  },
+  {
+   "name": "RX 9060 XT 16GB",
+   "all": [
+    "9060 xt"
+   ],
+   "any": [
+    "16gb",
+    "16 gb"
+   ],
+   "exclude": [
+    "8gb"
+   ],
+   "max_price": 400,
+   "min_price": 250,
+   "channel": "gpu"
+  },
+  {
+   "name": "RTX 4060 Ti 16GB",
+   "all": [
+    "4060 ti"
+   ],
+   "any": [
+    "16gb",
+    "16 gb"
+   ],
+   "exclude": [
+    "8gb"
+   ],
+   "max_price": 400,
+   "min_price": 250,
+   "channel": "gpu"
+  },
+  {
+   "name": "RTX 3090 (24GB)",
+   "all": [
+    "3090"
+   ],
+   "exclude": [
+    "laptop",
+    "waterblock"
+   ],
+   "max_price": 800,
+   "min_price": 400,
+   "channel": "gpu"
+  },
+  {
+   "name": "RX 7900 XTX (24GB)",
+   "all": [
+    "7900 xtx"
+   ],
+   "exclude": [
+    "laptop",
+    "waterblock"
+   ],
+   "max_price": 750,
+   "min_price": 400,
+   "channel": "gpu"
+  },
+  {
+   "name": "Ryzen 7 5800X3D",
+   "all": [
+    "5800x3d"
+   ],
+   "max_price": 300,
+   "min_price": 150,
+   "channel": "cpu"
+  },
+  {
+   "name": "Ryzen 7 5700X3D",
+   "all": [
+    "5700x3d"
+   ],
+   "max_price": 230,
+   "min_price": 120,
+   "channel": "cpu"
+  },
+  {
+   "name": "Ryzen 7 5700 / 5700X",
+   "any": [
+    "ryzen 7 5700 ",
+    "ryzen 7 5700x ",
+    "r7 5700x",
+    "5700x "
+   ],
+   "exclude": [
+    "5700x3d",
+    "5700g"
+   ],
+   "max_price": 150,
+   "min_price": 80,
+   "channel": "cpu"
+  },
+  {
+   "name": "B550 motherboard",
+   "all": [
+    "b550"
+   ],
+   "exclude": [
+    "prebuilt",
+    "desktop"
+   ],
+   "max_price": 100,
+   "min_price": 50,
+   "channel": "motherboard"
+  },
+  {
+   "name": "32GB DDR4",
+   "all": [
+    "ddr4"
+   ],
+   "any": [
+    "32gb",
+    "2x16",
+    "2 x 16"
+   ],
+   "exclude": [
+    "sodimm",
+    "so-dimm",
+    "laptop"
+   ],
+   "max_price": 130,
+   "min_price": 40,
+   "channel": "ram"
+  },
+  {
+   "name": "64GB DDR4",
+   "all": [
+    "ddr4"
+   ],
+   "any": [
+    "64gb",
+    "2x32",
+    "2 x 32"
+   ],
+   "exclude": [
+    "sodimm",
+    "so-dimm",
+    "laptop"
+   ],
+   "max_price": 220,
+   "min_price": 80,
+   "channel": "ram"
+  },
+  {
+   "name": "2TB NVMe SSD",
+   "all": [
+    "2tb"
+   ],
+   "any": [
+    "nvme",
+    "m.2",
+    "pcie",
+    "gen4",
+    "gen 4"
+   ],
+   "exclude": [
+    "external",
+    "portable",
+    "sata",
+    "hdd",
+    "enclosure"
+   ],
+   "max_price": 170,
+   "min_price": 80,
+   "channel": "storage"
+  },
+  {
+   "name": "750-850W Gold power supply",
+   "any": [
+    "750w",
+    "750 w",
+    "850w",
+    "850 w"
+   ],
+   "all": [
+    "gold"
+   ],
+   "exclude": [
+    "sfx"
+   ],
+   "max_price": 80,
+   "min_price": 40,
+   "channel": "power"
+  },
+  {
+   "name": "Airflow case",
+   "all": [
+    "[case]"
+   ],
+   "exclude": [
+    "itx"
+   ],
+   "max_price": 55,
+   "min_price": 25,
+   "channel": "case-cooling"
+  },
+  {
+   "name": "CPU air cooler",
+   "all": [
+    "[cooler]"
+   ],
+   "exclude": [
+    "aio",
+    "liquid",
+    "360mm",
+    "280mm",
+    "240mm"
+   ],
+   "max_price": 25,
+   "min_price": 10,
+   "channel": "case-cooling"
+  },
+  {
+   "name": "Prebuilt with 16GB+ GPU",
+   "whole_pc": true,
+   "any": [
+    "[prebuilt]",
+    "prebuilt",
+    "gaming desktop",
+    "gaming pc"
+   ],
+   "also_any": [
+    "5060 ti 16",
+    "9060 xt 16",
+    "4060 ti 16",
+    "3090",
+    "4070 ti super",
+    "5070 ti",
+    "9070",
+    "7900 xt",
+    "4080",
+    "5080"
+   ],
+   "exclude": [
+    "laptop"
+   ],
+   "max_price": 1300,
+   "min_price": 600,
+   "channel": "prebuilt"
+  }
+ ]
 }

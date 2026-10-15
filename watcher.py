@@ -1,30 +1,48 @@
 """Overnight PC parts deal watcher.
 
-Reads deal feeds, matches titles against watchlist.json, and sends a phone
-alert through ntfy for each new deal at or under its target price.
-Standard library only, so GitHub Actions needs no installs.
+Reads deal feeds, matches titles against watchlist.json, sends a phone alert
+through ntfy for each new deal at or under its target price (one ntfy channel
+per part type), and rewrites BOARD.md with every recent matching deal grouped
+by part. Standard library only, so GitHub Actions needs no installs.
 """
 
 import json
 import os
 import re
+import statistics
 import sys
 import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).parent
 SEEN_PATH = ROOT / "state" / "seen.json"
+DEALS_PATH = ROOT / "state" / "deals.json"
+BOARD_PATH = ROOT / "BOARD.md"
 SEEN_MAX_AGE_DAYS = 30
 # Slickdeals searches also return deals from months ago; skip anything older.
 DEAL_MAX_AGE_DAYS = 3
+BOARD_DAYS = 7
+HISTORY_DAYS = 90
 USER_AGENT = "pc-deal-watcher/1.0 (personal price alerts; github.com/Crackerfracks)"
 PRICE_RE = re.compile(r"\$\s?(\d[\d,]*(?:\.\d{1,2})?)")
 # Single parts shouldn't match whole-computer deals unless the entry says so.
 WHOLE_PC_WORDS = ["prebuilt", "laptop", "gaming desktop", "gaming pc"]
+EXPIRED_FLAIRS = ("Expired", "Out of Stock", "Sold Out")
+CHANNELS = {
+    "gpu": "Graphics cards",
+    "cpu": "Processors",
+    "motherboard": "Motherboards",
+    "ram": "Memory (RAM)",
+    "storage": "Storage (SSD)",
+    "power": "Power supplies",
+    "case-cooling": "Cases and cooling",
+    "prebuilt": "Prebuilt PCs",
+}
 
 
 def fetch(url):
@@ -33,19 +51,22 @@ def fetch(url):
         return resp.read()
 
 
+def reddit_post(post):
+    return {
+        "id": "reddit:" + post["id"],
+        "title": post["title"],
+        "url": post.get("url_overridden_by_dest") or post.get("url"),
+        "thread": "https://www.reddit.com" + post["permalink"],
+        "expired": (post.get("link_flair_text") or "") in EXPIRED_FLAIRS
+        or post.get("over_18", False),
+        "posted": post.get("created_utc"),
+    }
+
+
 def reddit_deals(sub):
     data = json.loads(fetch(f"https://www.reddit.com/r/{sub}/new.json?limit=100"))
     for child in data["data"]["children"]:
-        post = child["data"]
-        yield {
-            "id": "reddit:" + post["id"],
-            "title": post["title"],
-            "url": post.get("url_overridden_by_dest") or post.get("url"),
-            "thread": "https://www.reddit.com" + post["permalink"],
-            "expired": post.get("link_flair_text", "") in ("Expired", "Out of Stock")
-            or post.get("over_18", False),
-            "posted": post.get("created_utc"),
-        }
+        yield reddit_post(child["data"])
 
 
 def reddit_rss_deals(sub):
@@ -62,6 +83,18 @@ def reddit_rss_deals(sub):
             "expired": False,
             "posted": None,
         }
+
+
+def reddit_expired_ids(ids):
+    """Return which of these reddit deal ids are now flaired expired."""
+    expired = set()
+    for i in range(0, len(ids), 100):
+        names = ",".join("t3_" + d.split(":", 1)[1] for d in ids[i : i + 100])
+        data = json.loads(fetch(f"https://www.reddit.com/by_id/{names}.json"))
+        for child in data["data"]["children"]:
+            if reddit_post(child["data"])["expired"]:
+                expired.add("reddit:" + child["data"]["id"])
+    return expired
 
 
 def slickdeals_deals(query):
@@ -117,8 +150,8 @@ def deal_price(part, title):
     return prices[-1] if prices else None
 
 
-def notify(topic, title, message, click=None, priority="default"):
-    headers = {"Title": title, "Priority": priority, "Tags": "computer"}
+def notify(topic, title, message, click=None, priority="default", tags="computer"):
+    headers = {"Title": title, "Priority": priority, "Tags": tags}
     if click:
         headers["Click"] = click
     req = urllib.request.Request(
@@ -154,16 +187,91 @@ def gather(sources):
     return deals, failures
 
 
+def hours(seconds):
+    h = seconds / 3600
+    return f"{h:.0f}h" if h < 48 else f"{h / 24:.0f} days"
+
+
+def lifetimes(history, channel):
+    """Hours that past deals in this channel stayed live before expiring."""
+    return [
+        d["expired_at"] - d["posted"]
+        for d in history
+        if d["channel"] == channel and d.get("expired_at") and d.get("posted")
+    ]
+
+
+def lifetime_note(history, channel):
+    lives = lifetimes(history, channel)
+    if len(lives) < 3:
+        return "Not enough history yet to say how long deals like this last."
+    return (
+        f"Past {CHANNELS[channel].lower()} deals stayed live about "
+        f"{hours(statistics.median(lives))} (median of {len(lives)})."
+    )
+
+
+def ago(ts, now):
+    return hours(now - ts) + " ago" if ts else "unknown"
+
+
+def write_board(history, parts, now):
+    stamp = datetime.fromtimestamp(now, timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        "# Deals board",
+        "",
+        f"Updated {stamp}. Every deal from the last {BOARD_DAYS} days that matched a part on the",
+        "watch list, cheapest first. ✅ means at or under the target price (those also",
+        "sent a phone alert). Prices come from deal titles, so open the link to confirm.",
+        "",
+    ]
+    recent = [d for d in history if now - (d.get("posted") or d["first_seen"]) <= BOARD_DAYS * 86400]
+    for channel, label in CHANNELS.items():
+        lines += [f"## {label}", ""]
+        channel_parts = [p for p in parts if p.get("channel") == channel]
+        if not channel_parts:
+            lines += ["Nothing watched here yet.", ""]
+            continue
+        for part in channel_parts:
+            rows = sorted((d for d in recent if d["part"] == part["name"]), key=lambda d: d["price"])
+            low = [d["price"] for d in history if d["part"] == part["name"]]
+            low_note = f", lowest seen in {HISTORY_DAYS} days ${min(low):g}" if low else ""
+            builds = f" — in {', '.join(part['builds'])}" if part.get("builds") else ""
+            lines.append(f"### {part['name']} (target ${part['max_price']}{low_note}){builds}")
+            lines.append("")
+            if not rows:
+                lines += ["No recent deals.", ""]
+                continue
+            lines += ["| Price | Deal | Posted | Status |", "|---|---|---|---|"]
+            for d in rows:
+                hit = "✅ " if d["price"] <= part["max_price"] else ""
+                status = (
+                    f"expired after ~{hours(d['expired_at'] - d['posted'])}"
+                    if d.get("expired_at") and d.get("posted")
+                    else ("expired" if d.get("expired_at") else "live as far as known")
+                )
+                title = d["title"].replace("|", "/")
+                lines.append(f"| {hit}${d['price']:g} | [{title}]({d['url']}) | {ago(d.get('posted'), now)} | {status} |")
+            lines.append("")
+        lives = lifetimes(history, channel)
+        if len(lives) >= 3:
+            lines += [f"_{lifetime_note(history, channel)}_", ""]
+    BOARD_PATH.write_text("\n".join(lines))
+
+
 def main():
     topic = os.environ.get("NTFY_TOPIC")
     if not topic:
         sys.exit("NTFY_TOPIC is not set")
     if os.environ.get("SEND_TEST") == "true":
-        notify(topic, "PC deal watcher test", "Alerts work. Real deals will show up here overnight.")
+        for channel, label in CHANNELS.items():
+            notify(f"{topic}-{channel}", f"Test: {label}", f"This is the {label.lower()} channel. Alerts work.")
+            time.sleep(1)
 
     parts = load_json(ROOT / "watchlist.json", {})["parts"]
     sources = load_json(ROOT / "sources.json", {})
     seen = load_json(SEEN_PATH, {})
+    history = load_json(DEALS_PATH, [])
     now = time.time()
 
     deals, failures = gather(sources)
@@ -171,29 +279,60 @@ def main():
     for f in failures:
         print("  FAILED", f)
 
+    # A backfill run fills the board from everything currently in the feeds
+    # without sending alerts.
+    backfill = os.environ.get("BACKFILL") == "true"
+    known = {d["id"] for d in history}
     alerts = 0
     for deal in deals:
-        if deal["id"] in seen or deal["expired"]:
+        if deal["expired"] or deal["id"] in known:
+            continue
+        if deal["id"] in seen and not backfill:
             continue
         seen[deal["id"]] = now
-        if deal["posted"] and now - deal["posted"] > DEAL_MAX_AGE_DAYS * 86400:
+        max_age = BOARD_DAYS if backfill else DEAL_MAX_AGE_DAYS
+        if deal["posted"] and now - deal["posted"] > max_age * 86400:
             continue
         for part in parts:
             if not matches(part, deal["title"]):
                 continue
             price = deal_price(part, deal["title"])
-            if price is None or price > part["max_price"]:
+            # Keep near misses on the board so it shows what the market is doing.
+            if price is None or price > part["max_price"] * 1.25:
                 continue
-            print(f"MATCH {part['name']} ${price}: {deal['title']}")
-            notify(
-                topic,
-                f"{part['name']}: ${price:g} (target ${part['max_price']})",
-                f"{deal['title']}\n\nDiscussion: {deal['thread']}",
-                click=deal["url"],
-                priority="high",
-            )
-            alerts += 1
+            channel = part.get("channel", "gpu")
+            history.append({
+                "id": deal["id"], "part": part["name"], "channel": channel, "price": price,
+                "title": deal["title"], "url": deal["url"], "thread": deal["thread"],
+                "posted": deal["posted"], "first_seen": now,
+            })
+            known.add(deal["id"])
+            if price <= part["max_price"] and not backfill:
+                print(f"ALERT {part['name']} ${price}: {deal['title']}")
+                builds = f"\nPart of: {', '.join(part['builds'])}" if part.get("builds") else ""
+                notify(
+                    f"{topic}-{channel}",
+                    f"{part['name']}: ${price:g} (target ${part['max_price']})",
+                    f"{deal['title']}{builds}\n\n{lifetime_note(history, channel)}\nDiscussion: {deal['thread']}",
+                    click=deal["url"],
+                    priority="high",
+                )
+                alerts += 1
+            else:
+                print(f"BOARD {part['name']} ${price}: {deal['title']}")
             break
+
+    # Check which reddit deals have since been flaired expired, to learn how
+    # long deals last.
+    open_reddit = [d["id"] for d in history if d["id"].startswith("reddit:") and not d.get("expired_at")]
+    if open_reddit:
+        try:
+            for d_id in reddit_expired_ids(open_reddit):
+                for d in history:
+                    if d["id"] == d_id:
+                        d["expired_at"] = now
+        except Exception as e:
+            print("  FAILED expiry check:", e)
 
     # Every feed failing means alerts have silently stopped; say so.
     total = len(sources.get("reddit", [])) + len(sources.get("slickdeals", []))
@@ -202,8 +341,11 @@ def main():
 
     cutoff = now - SEEN_MAX_AGE_DAYS * 86400
     seen = {k: v for k, v in seen.items() if v >= cutoff}
+    history = [d for d in history if now - d["first_seen"] <= HISTORY_DAYS * 86400]
     SEEN_PATH.parent.mkdir(exist_ok=True)
     SEEN_PATH.write_text(json.dumps(seen, indent=0, sort_keys=True))
+    DEALS_PATH.write_text(json.dumps(history, indent=1))
+    write_board(history, parts, now)
     print(f"Sent {alerts} alerts")
 
 

@@ -8,7 +8,11 @@ on:
   workflow_dispatch:
     inputs:
       send_test:
-        description: "Also send a test alert to the phone"
+        description: "Also send a test alert to every phone channel"
+        type: boolean
+        default: false
+      backfill:
+        description: "Fill the deals board from the last 7 days without sending alerts"
         type: boolean
         default: false
 
@@ -32,10 +36,11 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           SEND_TEST: ${{ inputs.send_test }}
+          BACKFILL: ${{ inputs.backfill }}
         run: python watcher.py
-      - name: Remember which deals were already seen
+      - name: Save the deals board and history
         run: |
           git config user.name "deal-watcher"
           git config user.email "deal-watcher@users.noreply.github.com"
-          git add state/seen.json
-          git diff --cached --quiet || (git commit -m "Update seen deals" && git push)
+          git add state BOARD.md
+          git diff --cached --quiet || (git commit -m "Update deals board" && git push)
