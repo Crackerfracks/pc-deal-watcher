@@ -4,7 +4,9 @@ on:
   schedule:
     # UTC times. 09, 11 and 13 UTC are 5, 7 and 9 AM Eastern in summer and
     # 4, 6 and 8 AM in winter, inside Stephen's 4:00 to 9:30 AM window.
-    - cron: "0 9,11,13 * * *"
+    # Minute 7, not 0: GitHub delays or drops scheduled runs at the top of
+    # the hour when it's busy.
+    - cron: "7 9,11,13 * * *"
   workflow_dispatch:
     inputs:
       send_test:
