@@ -43,6 +43,10 @@ CHANNELS = {
     "case-cooling": "Cases and cooling",
     "prebuilt": "Prebuilt PCs",
 }
+SHORT = {
+    "gpu": "GPU", "cpu": "CPU", "motherboard": "BOARD", "ram": "RAM",
+    "storage": "SSD", "power": "PSU", "case-cooling": "CASE/COOLER", "prebuilt": "PREBUILT",
+}
 
 
 def fetch(url):
@@ -268,12 +272,20 @@ def main():
     topic = os.environ.get("NTFY_TOPIC")
     if not topic:
         sys.exit("NTFY_TOPIC is not set")
+    watchlist = load_json(ROOT / "watchlist.json", {})
+    parts = watchlist["parts"]
+    # "single" sends everything to the main channel with the part type in the
+    # title; "per-part" sends to <topic>-<channel>.
+    per_part = watchlist.get("alert_channels", "single") == "per-part"
+
+    def alert_topic(channel):
+        return f"{topic}-{channel}" if per_part else topic
+
     if os.environ.get("SEND_TEST") == "true":
         for channel, label in CHANNELS.items():
-            notify(f"{topic}-{channel}", f"Test: {label}", f"This is the {label.lower()} channel. Alerts work.")
+            notify(alert_topic(channel), f"[{SHORT[channel]}] Test", f"Test alert for {label.lower()}. Alerts work.")
             time.sleep(1)
 
-    parts = load_json(ROOT / "watchlist.json", {})["parts"]
     sources = load_json(ROOT / "sources.json", {})
     seen = load_json(SEEN_PATH, {})
     history = load_json(DEALS_PATH, [])
@@ -316,8 +328,8 @@ def main():
                 print(f"ALERT {part['name']} ${price}: {deal['title']}")
                 builds = f"\nPart of: {', '.join(part['builds'])}" if part.get("builds") else ""
                 notify(
-                    f"{topic}-{channel}",
-                    f"{part['name']}: ${price:g} (target ${part['max_price']})",
+                    alert_topic(channel),
+                    f"[{SHORT[channel]}] {part['name']}: ${price:g} (target ${part['max_price']})",
                     f"{deal['title']}{builds}\n\n{lifetime_note(history, channel)}\nDiscussion: {deal['thread']}",
                     click=deal["url"],
                     priority="high",
