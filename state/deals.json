@@ -75,5 +75,93 @@
   "thread": "https://slickdeals.net/f/20145858-69-99-msi-pro-b550m-p-matx-motherboard-am4-ryzen-5000-4000g-3000-ddr4-pcie-4-0-m-2-gen4-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1791811058.0,
   "first_seen": 1792047487.0193965
+ },
+ {
+  "id": "reddit:1x1qgsx",
+  "part": "Prebuilt with 16GB+ card",
+  "channel": "prebuilt",
+  "price": 1699.0,
+  "title": "[PREBUILT] Acer Nitro 85: Ryzen 9 9900X, Radeon RX 9070 XT 16GB, 16GB DDR5, 1TB SSD, Liquid Cooling for $1,699 @ Walmart",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x1qgsx/prebuilt_acer_nitro_85_ryzen_9_9900x_radeon_rx/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x1qgsx/prebuilt_acer_nitro_85_ryzen_9_9900x_radeon_rx/",
+  "posted": 1791564592.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "reddit:1x1nj7t",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 692.99,
+  "title": "[GPU] OPEN BOX GIGABYTE 9070XT - Excellent: $692.99 (BestBuy)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x1nj7t/gpu_open_box_gigabyte_9070xt_excellent_69299/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x1nj7t/gpu_open_box_gigabyte_9070xt_excellent_69299/",
+  "posted": 1791557786.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20134677",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 693.0,
+  "title": "[Open-Box] GIGABYTE Radeon RX 9070 XT GAMING OC 16GB GDDR6 Graphics Card $693 + Free Store Pickup",
+  "url": "https://slickdeals.net/f/20134677-open-box-gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-gddr6-graphics-card-693-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20134677-open-box-gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-gddr6-graphics-card-693-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791561653.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20154588",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 132.99,
+  "title": "ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791928103.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20152548",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 173.99,
+  "title": "ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791903201.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20156331",
+  "part": "32GB DDR5 (2x16)",
+  "channel": "ram",
+  "price": 323.99,
+  "title": "$323.99 | Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon",
+  "url": "https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791962585.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20135418",
+  "part": "850W Gold power supply",
+  "channel": "power",
+  "price": 75.9,
+  "title": "$75.90* | Thermaltake GF1 850W Fully Modular 80 Plus Gold ATX Power Supply at Amazon",
+  "url": "https://slickdeals.net/f/20135418-75-90-thermaltake-gf1-850w-fully-modular-80-plus-gold-atx-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20135418-75-90-thermaltake-gf1-850w-fully-modular-80-plus-gold-atx-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791571873.0,
+  "first_seen": 1792048262.2126844
+ },
+ {
+  "id": "slickdeals:thread-20131434",
+  "part": "850W Gold power supply",
+  "channel": "power",
+  "price": 65.27,
+  "title": "Refurb: Corsair RM850x 850W 80 Plus Gold Fully Modular Zero RPM ATX 3.1 Certified Refurb - $65.27 + FS",
+  "url": "https://slickdeals.net/f/20131434-refurb-corsair-rm850x-850w-80-plus-gold-fully-modular-zero-rpm-atx-3-1-certified-refurb-65-27-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20131434-refurb-corsair-rm850x-850w-80-plus-gold-fully-modular-zero-rpm-atx-3-1-certified-refurb-65-27-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1791498940.0,
+  "first_seen": 1792048262.2126844
  }
 ]
