@@ -1,5 +1,26 @@
 {
-  "_how_to_edit": "Deal feeds to read. 'reddit' entries are subreddit names. 'slickdeals' entries are search phrases.",
-  "reddit": ["buildapcsales"],
-  "slickdeals": ["5060 ti 16gb", "9060 xt 16gb", "rtx 3090", "7900 xtx", "5800x3d", "ddr4 32gb", "b550", "2tb nvme", "750w gold", "gaming desktop 16gb"]
+ "_how_to_edit": "Deal feeds to read. 'reddit' entries are subreddit names. 'slickdeals' entries are search phrases.",
+ "reddit": [
+  "buildapcsales"
+ ],
+ "slickdeals": [
+  "5060 ti 16gb",
+  "9060 xt 16gb",
+  "5070 ti",
+  "9070 xt",
+  "rtx 3090",
+  "8700g",
+  "9800x3d",
+  "5700g",
+  "5800x3d",
+  "b650",
+  "b850",
+  "b550",
+  "ddr5 32gb",
+  "ddr4 32gb",
+  "2tb nvme",
+  "1tb nvme",
+  "850w gold",
+  "gaming desktop 16gb"
+ ]
 }
