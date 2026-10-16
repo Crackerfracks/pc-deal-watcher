@@ -1,9 +1,10 @@
 # Deals board
 
-Updated 2026-10-16 13:26 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-16 13:30 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
-worth $250+ more than its parts). Prices come from deal titles, so open the link to confirm.
+worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
+Prices come from deal titles, so open the link to confirm.
 
 ## Graphics cards
 
@@ -15,8 +16,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $499.99 | [[GPU] (Microcenter In Store Only) ASUS Radeon RX 9060 XT 16GB - $499.99](https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/) | unknown | live as far as known |
-| $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 21h ago | live as far as known |
+| 🏬 $499.99 | [[GPU] (Microcenter In Store Only) ASUS Radeon RX 9060 XT 16GB - $499.99](https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/) | unknown | live as far as known |
+| 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 21h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900) — in Stretch card
 
@@ -117,7 +118,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 22h ago | live as far as known |
+| 🏬 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 22h ago | live as far as known |
 
 ## Cases and cooling
 

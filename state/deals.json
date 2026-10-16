@@ -20,7 +20,9 @@
   "url": "https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/",
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/",
   "posted": null,
-  "first_seen": 1792047487.0193965
+  "first_seen": 1792047487.0193965,
+  "in_store": true,
+  "great": false
  },
  {
   "id": "reddit:1x4g9dx",
@@ -189,7 +191,8 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/",
   "posted": 1792078616.0,
   "first_seen": 1792157212.9315085,
-  "great": true
+  "great": false,
+  "in_store": true
  },
  {
   "id": "slickdeals:thread-20163543",
@@ -201,7 +204,8 @@
   "thread": "https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1792080920.0,
   "first_seen": 1792157212.9315085,
-  "great": false
+  "great": false,
+  "in_store": true
  },
  {
   "id": "slickdeals:thread-20166195",
