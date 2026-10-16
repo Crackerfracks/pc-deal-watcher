@@ -39,6 +39,10 @@ PRICE_RE = re.compile(r"\$\s?(\d[\d,]*(?:\.\d{1,2})?)")
 # Single parts shouldn't match whole-computer deals unless the entry says so.
 WHOLE_PC_WORDS = ["prebuilt", "laptop", "gaming desktop", "gaming pc"]
 EXPIRED_FLAIRS = ("Expired", "Out of Stock", "Sold Out")
+# Stephen doesn't drive and the nearest Micro Center is in Cambridge, MA, so
+# in-store-only deals go on the board but don't alert unless the watchlist's
+# "alert_in_store_only" is true.
+IN_STORE_RE = re.compile(r"in[\s-]?store(?:\s+pickup)?\s+only", re.I)
 CHANNELS = {
     "gpu": "Graphics cards",
     "cpu": "Processors",
@@ -238,7 +242,8 @@ def write_board(history, parts, now):
         f"Updated {stamp}. Every deal from the last {BOARD_DAYS} days that matched a part on the",
         "watch list, cheapest first. ✅ means at or under the target price (those also",
         "sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt",
-        "worth $250+ more than its parts). Prices come from deal titles, so open the link to confirm.",
+        "worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).",
+        "Prices come from deal titles, so open the link to confirm.",
         "",
     ]
     recent = [d for d in history if now - (d.get("posted") or d["first_seen"]) <= BOARD_DAYS * 86400]
@@ -260,7 +265,9 @@ def write_board(history, parts, now):
                 continue
             lines += ["| Price | Deal | Posted | Status |", "|---|---|---|---|"]
             for d in rows:
-                hit = "🚨 " if d.get("great") else ("✅ " if d["price"] <= part["max_price"] else "")
+                hit = "🏬 " if d.get("in_store") else (
+                    "🚨 " if d.get("great") else ("✅ " if d["price"] <= part["max_price"] else "")
+                )
                 status = (
                     f"expired after ~{hours(d['expired_at'] - d['posted'])}"
                     if d.get("expired_at") and d.get("posted")
@@ -308,6 +315,7 @@ def main():
     # "single" sends everything to the main channel with the part type in the
     # title; "per-part" sends to <topic>-<channel>.
     per_part = watchlist.get("alert_channels", "single") == "per-part"
+    alert_in_store = watchlist.get("alert_in_store_only", False)
 
     def alert_topic(channel):
         return f"{topic}-{channel}" if per_part else topic
@@ -328,6 +336,10 @@ def main():
     sources = load_json(ROOT / "sources.json", {})
     seen = load_json(SEEN_PATH, {})
     history = load_json(DEALS_PATH, [])
+    if not alert_in_store:
+        for d in history:
+            if IN_STORE_RE.search(d["title"]):
+                d["in_store"], d["great"] = True, False
     now = time.time()
 
     deals, failures = gather(sources)
@@ -357,6 +369,9 @@ def main():
                 continue
             verdict = judge.judge_prebuilt(deal["title"], price) if part.get("whole_pc") else None
             great = verdict["great"] if verdict else judge.is_great_part(part, price)
+            in_store = bool(IN_STORE_RE.search(deal["title"])) and not alert_in_store
+            if in_store:
+                great = False
             # Keep near misses on the board so it shows what the market is doing.
             if price > part["max_price"] * 1.25 and not great:
                 continue
@@ -368,13 +383,17 @@ def main():
             }
             if verdict:
                 entry["verdict"] = verdict
+            if in_store:
+                entry["in_store"] = True
             history.append(entry)
             known.add(deal["id"])
-            if great and not backfill:
+            if in_store or backfill:
+                print(f"BOARD {part['name']} ${price}: {deal['title']}")
+            elif great:
                 print(f"GREAT {part['name']} ${price}: {deal['title']}")
                 send_urgent(alert_topic(channel), entry, part)
                 alerts += 1
-            elif (price <= part["max_price"] or great) and not backfill:
+            elif price <= part["max_price"]:
                 print(f"ALERT {part['name']} ${price}: {deal['title']}")
                 builds = f"\nPart of: {', '.join(part['builds'])}" if part.get("builds") else ""
                 value = f"\n{verdict_text(verdict)}" if verdict else ""
@@ -411,7 +430,7 @@ def main():
     by_name = {p["name"]: p for p in parts}
     pending = [
         d for d in history
-        if d.get("great") and d["id"] not in acks and not d.get("expired_at")
+        if d.get("great") and not d.get("in_store") and d["id"] not in acks and not d.get("expired_at")
         and now - d["first_seen"] <= URGENT_REPEAT_DAYS * 86400 and d["part"] in by_name
     ]
     for d in pending:
