@@ -218,5 +218,18 @@
   "posted": 1792124305.0,
   "first_seen": 1792157212.9315085,
   "great": false
+ },
+ {
+  "id": "reddit:1x8e55b",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 779.99,
+  "title": "[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/",
+  "posted": 1792253609.0,
+  "first_seen": 1792253953.1873484,
+  "great": false,
+  "in_store": true
  }
 ]

@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-17 12:54 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-17 16:19 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -17,7 +17,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $499.99 | [[GPU] (Microcenter In Store Only) ASUS Radeon RX 9060 XT 16GB - $499.99](https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/) | unknown | live as far as known |
-| 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 45h ago | live as far as known |
+| 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900) — in Stretch card
 
@@ -27,7 +27,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 29h ago | live as far as known |
+| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 0h ago | live as far as known |
+| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 32h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -47,7 +48,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
+| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -114,7 +115,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 45h ago | live as far as known |
+| 🏬 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 2 days ago | live as far as known |
 
 ## Cases and cooling
 
