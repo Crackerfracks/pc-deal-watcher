@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-18 09:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-18 11:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -27,7 +27,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 17h ago | live as far as known |
+| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 19h ago | live as far as known |
 | $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 2 days ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
@@ -64,7 +64,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
