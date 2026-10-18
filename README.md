@@ -1,6 +1,6 @@
 # pc-deal-watcher
 
-Checks PC part deal feeds three times every morning (between 4 and 9:30 AM Eastern) and sends a phone alert through the ntfy app when a part on the list drops to its target price. It runs on GitHub's free scheduler, so no computer needs to be on, and it costs nothing.
+Checks PC part deal feeds three times every morning (between 4 and 9:30 AM Eastern) and sends a phone alert through the ntfy app when a part on the list drops to its target price. A free cron-job.org timer starts it at 5:07, 7:07 and 9:07 AM Eastern (GitHub's own scheduler skipped most runs on this private repo), so no computer needs to be on, and it costs nothing.
 
 - **See current deals:** [BOARD.md](BOARD.md), grouped by part, refreshed every run.
 - **Phone alerts:** by default everything goes to the main ntfy channel (the `NTFY_TOPIC` secret), with the part type at the start of the title, e.g. `[GPU]`. Set `"alert_channels": "per-part"` in `watchlist.json` to send each part type to its own channel instead (`-gpu`, `-cpu`, `-motherboard`, `-ram`, `-storage`, `-power`, `-case-cooling`, `-prebuilt`).

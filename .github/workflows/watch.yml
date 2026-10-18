@@ -1,12 +1,9 @@
 name: Watch for PC part deals
 
 on:
-  schedule:
-    # UTC times. 09, 11 and 13 UTC are 5, 7 and 9 AM Eastern in summer and
-    # 4, 6 and 8 AM in winter, inside Stephen's 4:00 to 9:30 AM window.
-    # Minute 7, not 0: GitHub delays or drops scheduled runs at the top of
-    # the hour when it's busy.
-    - cron: "7 9,11,13 * * *"
+  # No GitHub schedule: it skipped most runs on this private repo and ran the
+  # rest hours late. A cron-job.org job starts this workflow at 5:07, 7:07
+  # and 9:07 AM Eastern through the workflow_dispatch API instead.
   workflow_dispatch:
     inputs:
       send_test:
