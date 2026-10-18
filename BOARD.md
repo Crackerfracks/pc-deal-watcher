@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-17 16:19 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-18 01:12 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -27,8 +27,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 0h ago | live as far as known |
-| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 32h ago | live as far as known |
+| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 9h ago | live as far as known |
+| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 41h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -48,7 +48,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
+| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 45h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -81,7 +81,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### 64GB DDR5 (2x32) (target $560) — in Build B (AM5) later upgrade
 
