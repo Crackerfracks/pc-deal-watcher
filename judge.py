@@ -91,6 +91,15 @@ def judge_prebuilt(title, price):
     }
 
 
+# A great part deal must also save real money, so a $20 cooler can't set off
+# urgent alerts.
+GREAT_MIN_SAVING = 25
+
+
 def is_great_part(part, price):
-    """A part deal is 'great' when it's at least 10% under its target."""
-    return bool(part.get("builds")) and price <= part["max_price"] * 0.9
+    """A part deal is 'great' when it's at least 10% and $25 under its target."""
+    return (
+        bool(part.get("builds"))
+        and price <= part["max_price"] * 0.9
+        and part["max_price"] - price >= GREAT_MIN_SAVING
+    )

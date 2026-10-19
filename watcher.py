@@ -241,7 +241,7 @@ def write_board(history, parts, now):
         "",
         f"Updated {stamp}. Every deal from the last {BOARD_DAYS} days that matched a part on the",
         "watch list, cheapest first. ✅ means at or under the target price (those also",
-        "sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt",
+        "sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt",
         "worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).",
         "Prices come from deal titles, so open the link to confirm.",
         "",
