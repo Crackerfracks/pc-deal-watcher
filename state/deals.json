@@ -231,5 +231,41 @@
   "first_seen": 1792253953.1873484,
   "great": false,
   "in_store": true
+ },
+ {
+  "id": "reddit:1x96rbs",
+  "part": "ATX mid-tower case",
+  "channel": "case-cooling",
+  "price": 79.99,
+  "title": "[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/",
+  "posted": 1792339193.0,
+  "first_seen": 1792400833.706849,
+  "great": false
+ },
+ {
+  "id": "reddit:1x960h9",
+  "part": "Tower air cooler",
+  "channel": "case-cooling",
+  "price": 19.99,
+  "title": "[Cooler] SAMA A60B Dual Tower Cooler - $19.99",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/",
+  "posted": 1792337347.0,
+  "first_seen": 1792400833.706849,
+  "great": true
+ },
+ {
+  "id": "reddit:1x95roc",
+  "part": "Tower air cooler",
+  "channel": "case-cooling",
+  "price": 17.42,
+  "title": "[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/",
+  "posted": 1792336724.0,
+  "first_seen": 1792400833.706849,
+  "great": true
  }
 ]

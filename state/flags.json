@@ -1,5 +1,30 @@
 {
- "checked_at": 1792328831.3402612,
- "great_unacknowledged": [],
+ "checked_at": 1792400833.706849,
+ "great_unacknowledged": [
+  {
+   "id": "reddit:1x960h9",
+   "part": "Tower air cooler",
+   "channel": "case-cooling",
+   "price": 19.99,
+   "title": "[Cooler] SAMA A60B Dual Tower Cooler - $19.99",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/",
+   "posted": 1792337347.0,
+   "first_seen": 1792400833.706849,
+   "great": true
+  },
+  {
+   "id": "reddit:1x95roc",
+   "part": "Tower air cooler",
+   "channel": "case-cooling",
+   "price": 17.42,
+   "title": "[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/",
+   "posted": 1792336724.0,
+   "first_seen": 1792400833.706849,
+   "great": true
+  }
+ ],
  "prebuilts_last_day": []
 }
