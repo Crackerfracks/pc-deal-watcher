@@ -58,7 +58,8 @@ def judge_prebuilt(title, price):
     t = squash(title)
     gpu = find_gpu(t)
     cpu_price = next((p for k, p in CPUS if k in t), CPU_DEFAULT)
-    ram = re.search(r"(\d{2,3})gb(?:ddr5|ram|memory|ddr4)", t)
+    # Read RAM from the unsquashed title so "GDDR7 32GB DDR5" isn't read as 732 GB.
+    ram = re.search(r"\b(\d{2,3})\s?gb\s?(?:ddr5|ram|memory|ddr4)", title.lower())
     ram_gb = int(ram.group(1)) if ram else 16
     ssd = re.search(r"(\d)tb", t)
     ssd_tb = int(ssd.group(1)) if ssd else 1
