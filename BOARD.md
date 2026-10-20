@@ -1,8 +1,8 @@
 # Deals board
 
-Updated 2026-10-19 13:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-20 09:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
-sent a phone alert). 🚨 means a great deal (10%+ under target, or a prebuilt
+sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
 Prices come from deal titles, so open the link to confirm.
 
@@ -17,7 +17,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $499.99 | [[GPU] (Microcenter In Store Only) ASUS Radeon RX 9060 XT 16GB - $499.99](https://www.reddit.com/r/buildapcsales/comments/1x55mup/gpu_microcenter_in_store_only_asus_radeon_rx_9060/) | unknown | live as far as known |
-| 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900) — in Stretch card
 
@@ -27,8 +27,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 45h ago | live as far as known |
-| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 3 days ago | live as far as known |
+| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 3 days ago | live as far as known |
+| $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 4 days ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -48,7 +48,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -65,7 +65,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
+| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -81,7 +81,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| $323.99 | [$323.99 / Crucial 32GB DDR5 RAM Kit (2x16GB) CT2K16G56C46S5 at Amazon](https://slickdeals.net/f/20156331-323-99-crucial-32gb-ddr5-ram-kit-2x16gb-ct2k16g56c46s5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### 64GB DDR5 (2x32) (target $560) — in Build B (AM5) later upgrade
 
@@ -115,7 +115,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 4 days ago | live as far as known |
+| 🏬 $118.79 | [[PSU] Microcenter In-Store Only - Lian Li EDGE GOLD 1000 Watt 80 Plus Gold ATX Fully Modular Power Supply - ATX 3.1 Compatible - $118.79](https://www.reddit.com/r/buildapcsales/comments/1x6oyms/psu_microcenter_instore_only_lian_li_edge_gold/) | 5 days ago | live as far as known |
 
 ## Cases and cooling
 
@@ -123,17 +123,20 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 21h ago | live as far as known |
+| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 41h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 22h ago | live as far as known |
-| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 22h ago | live as far as known |
+| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 42h ago | live as far as known |
+| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 42h ago | live as far as known |
 
 ## Prebuilt PCs
 
 ### Prebuilt with 16GB+ card (target $1400, lowest seen in 90 days $1699) — in Wildcard: compare against the build
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 14h ago | live as far as known |
+| 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 14h ago | expired after ~14h |
