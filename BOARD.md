@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-20 09:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-20 11:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -64,7 +64,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
+| ✅ $132.99 | [ASUS TUF Gaming B650E-PLUS WiFi ATX Motherboard w/ AMD B650, AM5 Socket, DDR5 & Wi-Fi 6E $132.99 + Free Shipping](https://slickdeals.net/f/20154588-asus-tuf-gaming-b650e-plus-wifi-atx-motherboard-w-amd-b650-am5-socket-ddr5-wi-fi-6e-132-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard $173.99 + Free Shipping](https://slickdeals.net/f/20152548-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-173-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
@@ -123,14 +123,14 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 41h ago | live as far as known |
+| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 43h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 42h ago | live as far as known |
-| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 42h ago | live as far as known |
+| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 44h ago | live as far as known |
+| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 44h ago | live as far as known |
 
 ## Prebuilt PCs
 
@@ -138,5 +138,5 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 14h ago | live as far as known |
-| 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 14h ago | expired after ~14h |
+| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 16h ago | live as far as known |
+| 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 16h ago | expired after ~14h |
