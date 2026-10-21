@@ -1,5 +1,5 @@
 {
- "checked_at": 1792573632.6754572,
+ "checked_at": 1792580831.928465,
  "great_unacknowledged": [
   {
    "id": "reddit:1xb2qgr",
@@ -24,49 +24,6 @@
   }
  ],
  "prebuilts_last_day": [
-  {
-   "id": "reddit:1xa5b9k",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1899.99,
-   "title": "[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel\u00ae Core\u2122 Ultra 9 285 2.5 - 5.4GHz NVIDIA\u00ae GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/",
-   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/",
-   "posted": 1792435546.0,
-   "first_seen": 1792487234.0622914,
-   "great": true,
-   "verdict": {
-    "parts_value": 12473,
-    "savings": 10573,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (NVIDIA, best for AI and Blender)"
-    ],
-    "great": true
-   },
-   "expired_at": 1792487234.0622914
-  },
-  {
-   "id": "slickdeals:thread-20179764",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1899.0,
-   "title": "[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping",
-   "url": "https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1792437799.0,
-   "first_seen": 1792487234.0622914,
-   "great": true,
-   "verdict": {
-    "parts_value": 2673,
-    "savings": 774,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (NVIDIA, best for AI and Blender)"
-    ],
-    "great": true
-   }
-  },
   {
    "id": "reddit:1xbe79g",
    "part": "Prebuilt with 16GB+ card",
