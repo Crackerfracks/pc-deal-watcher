@@ -1,20 +1,20 @@
 {
- "checked_at": 1792501632.8279502,
+ "checked_at": 1792573632.6754572,
  "great_unacknowledged": [
   {
-   "id": "slickdeals:thread-20179764",
+   "id": "reddit:1xb2qgr",
    "part": "Prebuilt with 16GB+ card",
    "channel": "prebuilt",
-   "price": 1899.0,
-   "title": "[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping",
-   "url": "https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1792437799.0,
-   "first_seen": 1792487234.0622914,
+   "price": 2310.0,
+   "title": "[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/",
+   "posted": 1792526896.0,
+   "first_seen": 1792573632.6754572,
    "great": true,
    "verdict": {
-    "parts_value": 2673,
-    "savings": 774,
+    "parts_value": 2653,
+    "savings": 343,
     "suitable": true,
     "notes": [
      "16 GB graphics card (NVIDIA, best for AI and Blender)"
@@ -60,6 +60,49 @@
    "verdict": {
     "parts_value": 2673,
     "savings": 774,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (NVIDIA, best for AI and Blender)"
+    ],
+    "great": true
+   }
+  },
+  {
+   "id": "reddit:1xbe79g",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 1149.99,
+   "title": "[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel\u00ae Core\u2122 i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA\u00ae GeForce RTX 5060 Ti 16G - $1,149.99",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/",
+   "posted": 1792558970.0,
+   "first_seen": 1792573632.6754572,
+   "great": true,
+   "verdict": {
+    "parts_value": 2083,
+    "savings": 933,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (NVIDIA, best for AI and Blender)"
+    ],
+    "great": true
+   },
+   "expired_at": 1792573632.6754572
+  },
+  {
+   "id": "reddit:1xb2qgr",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 2310.0,
+   "title": "[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/",
+   "posted": 1792526896.0,
+   "first_seen": 1792573632.6754572,
+   "great": true,
+   "verdict": {
+    "parts_value": 2653,
+    "savings": 343,
     "suitable": true,
     "notes": [
      "16 GB graphics card (NVIDIA, best for AI and Blender)"
