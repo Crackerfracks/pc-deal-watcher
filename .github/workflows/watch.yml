@@ -2,8 +2,8 @@ name: Watch for PC part deals
 
 on:
   # No GitHub schedule: it skipped most runs on this private repo and ran the
-  # rest hours late. A cron-job.org job starts this workflow at 5:07, 7:07
-  # and 9:07 AM Eastern through the workflow_dispatch API instead.
+  # rest hours late. A cron-job.org job starts this workflow every 2 hours
+  # (7 past each odd hour, Eastern) through the workflow_dispatch API instead.
   workflow_dispatch:
     inputs:
       send_test:

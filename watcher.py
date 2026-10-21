@@ -29,6 +29,9 @@ ACKS_PATH = ROOT / "state" / "acks.json"
 FLAGS_PATH = ROOT / "state" / "flags.json"
 # Great deals re-alert every run until acknowledged, for at most this long.
 URGENT_REPEAT_DAYS = 2
+# Checks run every 2 hours, so space reminders out rather than sending one
+# every run.
+REMIND_EVERY_HOURS = 6
 SEEN_MAX_AGE_DAYS = 30
 # Slickdeals searches also return deals from months ago; skip anything older.
 DEAL_MAX_AGE_DAYS = 3
@@ -434,8 +437,10 @@ def main():
         and now - d["first_seen"] <= URGENT_REPEAT_DAYS * 86400 and d["part"] in by_name
     ]
     for d in pending:
-        if d["first_seen"] != now and not backfill:
+        last = d.get("last_alerted", d["first_seen"])
+        if d["first_seen"] != now and not backfill and now - last >= REMIND_EVERY_HOURS * 3600:
             send_urgent(alert_topic(d["channel"]), d, by_name[d["part"]], reminder=True)
+            d["last_alerted"] = now
     # For the daily check-in that tells Claude what needs a human.
     FLAGS_PATH.write_text(json.dumps({
         "checked_at": now,
