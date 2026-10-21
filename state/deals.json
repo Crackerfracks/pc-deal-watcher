@@ -366,5 +366,17 @@
   "posted": 1792591274.0,
   "first_seen": 1792595231.773413,
   "great": false
+ },
+ {
+  "id": "reddit:1xc1mkb",
+  "part": "RX 9060 XT 16GB",
+  "channel": "gpu",
+  "price": 449.99,
+  "title": "[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/",
+  "posted": 1792622080.0,
+  "first_seen": 1792624031.528217,
+  "great": false
  }
 ]
