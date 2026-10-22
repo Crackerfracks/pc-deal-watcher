@@ -1,5 +1,72 @@
 {
- "checked_at": 1792696033.6693914,
- "great_unacknowledged": [],
- "prebuilts_last_day": []
+ "checked_at": 1792703232.98958,
+ "great_unacknowledged": [
+  {
+   "id": "slickdeals:thread-20194287",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 1799.99,
+   "title": "LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop \u2014 AMD Ryzen 7 9800X3D \u2014 AMD Radeon RX 9070 GRE, 12GB \u2014 32GB DDR5 RAM \u2014 2TB NVMe SSD",
+   "url": "https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "thread": "https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "posted": 1792697181.0,
+   "first_seen": 1792703232.98958,
+   "great": true,
+   "verdict": {
+    "parts_value": 2117,
+    "savings": 317,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
+    ],
+    "great": true
+   }
+  }
+ ],
+ "prebuilts_last_day": [
+  {
+   "id": "reddit:1xcsf6y",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 1099.0,
+   "title": "[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/",
+   "posted": 1792697695.0,
+   "first_seen": 1792703232.98958,
+   "great": false,
+   "verdict": {
+    "parts_value": 1459,
+    "savings": 360,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
+     "16 GB RAM, add ~$224 to reach 32 GB"
+    ],
+    "great": true
+   },
+   "in_store": true
+  },
+  {
+   "id": "slickdeals:thread-20194287",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 1799.99,
+   "title": "LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop \u2014 AMD Ryzen 7 9800X3D \u2014 AMD Radeon RX 9070 GRE, 12GB \u2014 32GB DDR5 RAM \u2014 2TB NVMe SSD",
+   "url": "https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "thread": "https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "posted": 1792697181.0,
+   "first_seen": 1792703232.98958,
+   "great": true,
+   "verdict": {
+    "parts_value": 2117,
+    "savings": 317,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
+    ],
+    "great": true
+   }
+  }
+ ]
 }
