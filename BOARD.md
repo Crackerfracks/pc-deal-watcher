@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-22 07:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-22 09:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -12,13 +12,13 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 17h ago | live as far as known |
+| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 19h ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $449.99 | [[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy](https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/) | 9h ago | live as far as known |
+| $449.99 | [[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy](https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/) | 11h ago | live as far as known |
 | 🏬 $499.99 | [ASUS AMD Radeon RX 9060 XT Dual Fan 16GB $499.99 (In-Store Pickup Only) at Micro Center](https://slickdeals.net/f/20163543-asus-amd-radeon-rx-9060-xt-dual-fan-16gb-499-99-in-store-pickup-only-at-micro-center?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900) — in Stretch card
@@ -108,7 +108,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5h ago | live as far as known |
+| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $118.79) — in Only if adding a 3090 later
 
@@ -137,7 +137,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 26h ago | expired after ~4h |
-| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 28h ago | expired after ~4h |
+| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 3 days ago | expired after ~14h |
-| 🚨 $2310 | [[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310 — parts ~$2,653, saves ~$343](https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/) | 35h ago | live as far as known |
+| 🚨 $2310 | [[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310 — parts ~$2,653, saves ~$343](https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/) | 37h ago | live as far as known |
