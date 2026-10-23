@@ -447,5 +447,17 @@
   "first_seen": 1792710432.6370878,
   "great": false,
   "in_store": true
+ },
+ {
+  "id": "slickdeals:thread-20194956",
+  "part": "RTX 5060 Ti 16GB",
+  "channel": "gpu",
+  "price": 599.99,
+  "title": "MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only",
+  "url": "https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1792710704.0,
+  "first_seen": 1792717631.6666954,
+  "great": false
  }
 ]
