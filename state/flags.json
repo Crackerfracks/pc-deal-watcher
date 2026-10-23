@@ -1,5 +1,5 @@
 {
- "checked_at": 1792724832.4979246,
+ "checked_at": 1792732032.3069944,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20194287",
@@ -20,7 +20,8 @@
      "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
     ],
     "great": true
-   }
+   },
+   "last_alerted": 1792732032.3069944
   }
  ],
  "prebuilts_last_day": [
@@ -66,7 +67,8 @@
      "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
     ],
     "great": true
-   }
+   },
+   "last_alerted": 1792732032.3069944
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-23 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-23 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -12,15 +12,15 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $599.99 | [[GPU] (Microcenter In Store Only) MSI GeForce RTX 5060 Ti VENTUS 2X BLACK PLUS Overclocked Dual Fan 16GB - $599.99](https://www.reddit.com/r/buildapcsales/comments/1xcvl92/gpu_microcenter_in_store_only_msi_geforce_rtx/) | 6h ago | live as far as known |
-| ✅ $599.99 | [MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only](https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4h ago | live as far as known |
-| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 37h ago | live as far as known |
+| 🏬 $599.99 | [[GPU] (Microcenter In Store Only) MSI GeForce RTX 5060 Ti VENTUS 2X BLACK PLUS Overclocked Dual Fan 16GB - $599.99](https://www.reddit.com/r/buildapcsales/comments/1xcvl92/gpu_microcenter_in_store_only_msi_geforce_rtx/) | 8h ago | live as far as known |
+| ✅ $599.99 | [MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only](https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6h ago | live as far as known |
+| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 39h ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $449.99 | [[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy](https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/) | 29h ago | live as far as known |
+| $449.99 | [[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy](https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/) | 31h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900) — in Stretch card
 
@@ -30,7 +30,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 5 days ago | expired after ~4 days |
+| 🏬 $779.99 | [[GPU] (Microcenter In Store Only) PowerColor Radeon RX 9070 XT Reaper Triple Fan 16GB - $779.99](https://www.reddit.com/r/buildapcsales/comments/1x8e55b/gpu_microcenter_in_store_only_powercolor_radeon/) | 6 days ago | expired after ~4 days |
 | $799 | [[GPU] PowerColor Reaper RX 9070 XT 16GB + Onimusha: Way Of The Sword ($70) - $799 (Newegg)](https://www.reddit.com/r/buildapcsales/comments/1x7ahzn/gpu_powercolor_reaper_rx_9070_xt_16gb_onimusha/) | 7 days ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
@@ -49,9 +49,7 @@ No recent deals.
 
 ### Ryzen 7 9800X3D (target $400, lowest seen in 90 days $444) — in Build B (AM5) later upgrade
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| $444 | [AMD Ryzen 7 9800X3D + Free Cooler Master Elite Liquid 240mm AIO and Onimusha Game Bundle $444](https://slickdeals.net/f/20166195-amd-ryzen-7-9800x3d-free-cooler-master-elite-liquid-240mm-aio-and-onimusha-game-bundle-444?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
+No recent deals.
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -109,7 +107,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 25h ago | live as far as known |
+| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $118.79) — in Only if adding a 3090 later
 
@@ -121,14 +119,14 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 4 days ago | live as far as known |
+| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 5 days ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 4 days ago | live as far as known |
-| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 4 days ago | live as far as known |
+| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 5 days ago | live as far as known |
+| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 5 days ago | live as far as known |
 
 ## Prebuilt PCs
 
@@ -136,9 +134,9 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $1099 | [[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099 — parts ~$1,459, saves ~$360](https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/) | 8h ago | live as far as known |
-| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 46h ago | expired after ~4h |
-| 🚨 $1799.99 | [LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD — parts ~$2,117, saves ~$317](https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2) | 8h ago | live as far as known |
+| 🏬 $1099 | [[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099 — parts ~$1,459, saves ~$360](https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/) | 10h ago | live as far as known |
+| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 2 days ago | expired after ~4h |
+| 🚨 $1799.99 | [LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD — parts ~$2,117, saves ~$317](https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2) | 10h ago | live as far as known |
 | 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 3 days ago | expired after ~14h |
 | 🚨 $2310 | [[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310 — parts ~$2,653, saves ~$343](https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/) | 2 days ago | live as far as known |
