@@ -1,5 +1,5 @@
 {
- "checked_at": 1792746431.2779071,
+ "checked_at": 1792753633.2980194,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20194287",
@@ -21,7 +21,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1792732032.3069944
+   "last_alerted": 1792753633.2980194
   }
  ],
  "prebuilts_last_day": [
@@ -68,7 +68,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1792732032.3069944
+   "last_alerted": 1792753633.2980194
   }
  ]
 }
