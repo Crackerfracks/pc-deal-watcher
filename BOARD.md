@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-25 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-25 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -118,14 +118,14 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 6 days ago | live as far as known |
+| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 7 days ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 6 days ago | live as far as known |
-| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 6 days ago | live as far as known |
+| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 7 days ago | live as far as known |
+| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 7 days ago | live as far as known |
 
 ## Prebuilt PCs
 
