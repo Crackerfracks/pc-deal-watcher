@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-25 15:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-25 17:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -116,16 +116,11 @@ No recent deals.
 
 ### ATX mid-tower case (target $70, lowest seen in 90 days $79.99) — in Build A (AM4), Build B (AM5)
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| $79.99 | [[Case] Corsair FRAME 4000D Vault Series Nova ATX Mid-Tower is $79.99 @ Woot](https://www.reddit.com/r/buildapcsales/comments/1x96rbs/case_corsair_frame_4000d_vault_series_nova_atx/) | 7 days ago | live as far as known |
+No recent deals.
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| 🚨 $17.42 | [[Cooler] Thermalright Assassin Spirit 120 EVO CPU Cooler, TL-S12-S ($17.42)](https://www.reddit.com/r/buildapcsales/comments/1x95roc/cooler_thermalright_assassin_spirit_120_evo_cpu/) | 7 days ago | live as far as known |
-| 🚨 $19.99 | [[Cooler] SAMA A60B Dual Tower Cooler - $19.99](https://www.reddit.com/r/buildapcsales/comments/1x960h9/cooler_sama_a60b_dual_tower_cooler_1999/) | 7 days ago | live as far as known |
+No recent deals.
 
 ## Prebuilt PCs
 
@@ -134,7 +129,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $1099 | [[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099 — parts ~$1,459, saves ~$360](https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/) | 3 days ago | live as far as known |
-| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 4 days ago | expired after ~4h |
+| 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 5 days ago | expired after ~4h |
 | 🚨 $1799.99 | [LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD — parts ~$2,117, saves ~$317](https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 | 🚨 $1899.99 | [[Prebuilt] Certified REFURBISHED MSI Aegis R2 AI B2NVR9-1450US Intel® Core™ Ultra 9 285 2.5 - 5.4GHz NVIDIA® GeForce RTX 5070 Ti 16GB GDDR7 32GB DDR5 RAM 2TB M.2 NVMe SSD - $1899.99 — parts ~$12,473, saves ~$10,573](https://www.reddit.com/r/buildapcsales/comments/1xa5b9k/prebuilt_certified_refurbished_msi_aegis_r2_ai/) | 6 days ago | expired after ~14h |
