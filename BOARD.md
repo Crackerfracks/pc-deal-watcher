@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-25 17:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-25 19:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -108,9 +108,11 @@ No recent deals.
 |---|---|---|---|
 | $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
-### 1000W Gold power supply (target $140, lowest seen in 90 days $118.79) — in Only if adding a 3090 later
+### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 0h ago | live as far as known |
 
 ## Cases and cooling
 
