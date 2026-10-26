@@ -1,5 +1,5 @@
 {
- "checked_at": 1792976831.707936,
+ "checked_at": 1792984031.9060595,
  "great_unacknowledged": [
   {
    "id": "reddit:1xfam9j",
@@ -11,7 +11,8 @@
    "thread": "https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/",
    "posted": 1792954712.0,
    "first_seen": 1792955233.7842205,
-   "great": true
+   "great": true,
+   "last_alerted": 1792984031.9060595
   }
  ],
  "prebuilts_last_day": []
