@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-26 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-26 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -22,9 +22,11 @@ Prices come from deal titles, so open the link to confirm.
 |---|---|---|---|
 | $449.99 | [[GPU] ASRock Radeon RX 9060 XT 16GB GDDR6 is $449.99 @ BestBuy](https://www.reddit.com/r/buildapcsales/comments/1xc1mkb/gpu_asrock_radeon_rx_9060_xt_16gb_gddr6_is_44999/) | 4 days ago | live as far as known |
 
-### RTX 5070 Ti 16GB (target $900) — in Stretch card
+### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 1h ago | expired after ~1h |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
@@ -34,7 +36,7 @@ No recent deals.
 
 No recent deals.
 
-_Past graphics cards deals stayed live about 4 days (median of 3)._
+_Past graphics cards deals stayed live about 2 days (median of 4)._
 
 ## Processors
 
@@ -112,7 +114,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 8h ago | live as far as known |
+| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 10h ago | live as far as known |
 
 ## Cases and cooling
 

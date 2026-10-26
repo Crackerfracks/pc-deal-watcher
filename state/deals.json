@@ -474,5 +474,18 @@
   "first_seen": 1792955233.7842205,
   "great": true,
   "last_alerted": 1792984031.9060595
+ },
+ {
+  "id": "reddit:1xfmrxq",
+  "part": "RTX 5070 Ti 16GB",
+  "channel": "gpu",
+  "price": 990.0,
+  "title": "[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/",
+  "posted": 1792987328.0,
+  "first_seen": 1792991232.5946925,
+  "great": false,
+  "expired_at": 1792991232.5946925
  }
 ]
