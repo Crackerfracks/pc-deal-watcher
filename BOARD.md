@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-26 19:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-26 21:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -26,7 +26,7 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 15h ago | expired after ~1h |
+| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 17h ago | expired after ~1h |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
@@ -52,7 +52,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4h ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -90,7 +90,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4h ago | live as far as known |
+| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6h ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -118,7 +118,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 24h ago | live as far as known |
+| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 26h ago | live as far as known |
 
 ## Cases and cooling
 
@@ -139,5 +139,4 @@ No recent deals.
 | 🏬 $1099 | [[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099 — parts ~$1,459, saves ~$360](https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/) | 4 days ago | live as far as known |
 | 🚨 $1149.99 | [[Prebuilt] MSI CODEX R2 B14NVN7-440US Desktop PC, Intel® Core™ i7-14700F, 32GB DDR5, 2TB M.2 NVMe Gen4 SSD, NVIDIA® GeForce RTX 5060 Ti 16G - $1,149.99 — parts ~$2,083, saves ~$933](https://www.reddit.com/r/buildapcsales/comments/1xbe79g/prebuilt_msi_codex_r2_b14nvn7440us_desktop_pc/) | 6 days ago | expired after ~4h |
 | 🚨 $1799.99 | [LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD — parts ~$2,117, saves ~$317](https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
-| 🚨 $1899 | [[Refurbished] MSI Aegis R2 AI Gaming Desktop: Core Ultra 9 285, RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD $1899 + Free Shipping — parts ~$2,673, saves ~$774](https://slickdeals.net/f/20179764-refurbished-msi-aegis-r2-ai-gaming-desktop-core-ultra-9-285-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-1899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | 🚨 $2310 | [[Prebuilt] Acer Nitro 60 Gaming Desktop PC Intel i7-14700F, GeForce RTX 5080 16GB GDDR7, 32GB DDR5, 2TB SSD- $2310 — parts ~$2,653, saves ~$343](https://www.reddit.com/r/buildapcsales/comments/1xb2qgr/prebuilt_acer_nitro_60_gaming_desktop_pc_intel/) | 6 days ago | live as far as known |
