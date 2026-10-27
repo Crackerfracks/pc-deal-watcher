@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-27 01:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-27 03:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -14,7 +14,7 @@ Prices come from deal titles, so open the link to confirm.
 |---|---|---|---|
 | 🏬 $599.99 | [[GPU] (Microcenter In Store Only) MSI GeForce RTX 5060 Ti VENTUS 2X BLACK PLUS Overclocked Dual Fan 16GB - $599.99](https://www.reddit.com/r/buildapcsales/comments/1xcvl92/gpu_microcenter_in_store_only_msi_geforce_rtx/) | 4 days ago | expired after ~24h |
 | ✅ $599.99 | [MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only](https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
-| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 5 days ago | live as far as known |
+| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 6 days ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
@@ -26,7 +26,7 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 21h ago | expired after ~1h |
+| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 23h ago | expired after ~1h |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
@@ -52,7 +52,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 10h ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 12h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -90,7 +90,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 10h ago | live as far as known |
+| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 12h ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -118,7 +118,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 30h ago | live as far as known |
+| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 32h ago | live as far as known |
 
 ## Cases and cooling
 
