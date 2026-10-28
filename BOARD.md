@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-28 13:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-28 15:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -14,7 +14,6 @@ Prices come from deal titles, so open the link to confirm.
 |---|---|---|---|
 | 🏬 $599.99 | [[GPU] (Microcenter In Store Only) MSI GeForce RTX 5060 Ti VENTUS 2X BLACK PLUS Overclocked Dual Fan 16GB - $599.99](https://www.reddit.com/r/buildapcsales/comments/1xcvl92/gpu_microcenter_in_store_only_msi_geforce_rtx/) | 6 days ago | expired after ~24h |
 | ✅ $599.99 | [MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only](https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| $614.99 | [[GPU] PNY NVIDIA GeForce RTX™ 5060 Ti OC Dual Fan, Graphics Card 16GB is $614.99 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xbnzdb/gpu_pny_nvidia_geforce_rtx_5060_ti_oc_dual_fan/) | 7 days ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
@@ -30,7 +29,9 @@ Prices come from deal titles, so open the link to confirm.
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 2h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -52,7 +53,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 46h ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 48h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -62,7 +63,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 23h ago | live as far as known |
+| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 25h ago | live as far as known |
 
 ## Motherboards
 
@@ -92,7 +93,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 46h ago | live as far as known |
+| $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -114,7 +115,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
+| $99.99 | [PowerSpec 850W Fully Modular Power Supply 80 PLUS Gold $99.99](https://slickdeals.net/f/20190345-powerspec-850w-fully-modular-power-supply-80-plus-gold-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
@@ -132,7 +133,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 20h ago | expired after ~2h |
+| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 22h ago | expired after ~2h |
 
 ## Prebuilt PCs
 

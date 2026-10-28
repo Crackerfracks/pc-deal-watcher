@@ -537,5 +537,17 @@
   "first_seen": 1793120832.9904385,
   "great": false,
   "expired_at": 1793128033.228476
+ },
+ {
+  "id": "reddit:1xhnl8n",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 829.99,
+  "title": "[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/",
+  "posted": 1793192861.0,
+  "first_seen": 1793200032.037729,
+  "great": false
  }
 ]
