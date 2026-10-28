@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-28 19:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-28 21:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -31,7 +31,7 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 6h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 8h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -63,7 +63,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 29h ago | live as far as known |
+| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 31h ago | live as far as known |
 
 ## Motherboards
 
@@ -133,7 +133,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 26h ago | expired after ~2h |
+| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 28h ago | expired after ~2h |
 
 ## Prebuilt PCs
 
