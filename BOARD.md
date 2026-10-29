@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-29 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-29 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -29,7 +29,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 14h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 16h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -51,7 +51,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -61,7 +61,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 37h ago | live as far as known |
+| $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 39h ago | live as far as known |
 
 ## Motherboards
 
@@ -129,7 +129,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 34h ago | expired after ~2h |
+| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 36h ago | expired after ~2h |
 
 ## Prebuilt PCs
 
