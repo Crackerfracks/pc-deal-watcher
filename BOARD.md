@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-29 19:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-29 21:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -29,7 +29,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 30h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 32h ago | live as far as known |
+| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -135,7 +136,4 @@ No recent deals.
 
 ### Prebuilt with 16GB+ card (target $1400, lowest seen in 90 days $1099) — in Wildcard: compare against the build
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| 🏬 $1099 | [[Prebuilt] Micro Center in store only - PowerSpec G538 Gaming PC - AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1099 — parts ~$1,459, saves ~$360](https://www.reddit.com/r/buildapcsales/comments/1xcsf6y/prebuilt_micro_center_in_store_only_powerspec/) | 7 days ago | live as far as known |
-| 🚨 $1799.99 | [LIVE 10/30 $1799.99 COSTCO iBUYPOWER Element Gaming PC Desktop — AMD Ryzen 7 9800X3D — AMD Radeon RX 9070 GRE, 12GB — 32GB DDR5 RAM — 2TB NVMe SSD — parts ~$2,117, saves ~$317](https://slickdeals.net/f/20194287-live-10-30-1799-99-costco-ibuypower-element-gaming-pc-desktop-amd-ryzen-7-9800x3d-amd-radeon-rx-9070-gre-12gb-32gb-ddr5-ram-2tb-nvme-ssd?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
+No recent deals.
