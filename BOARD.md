@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-29 21:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-29 23:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -12,7 +12,6 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $599.99 | [[GPU] (Microcenter In Store Only) MSI GeForce RTX 5060 Ti VENTUS 2X BLACK PLUS Overclocked Dual Fan 16GB - $599.99](https://www.reddit.com/r/buildapcsales/comments/1xcvl92/gpu_microcenter_in_store_only_msi_geforce_rtx/) | 7 days ago | expired after ~24h |
 | ✅ $599.99 | [MSI NVIDIA GeForce RTX 5060 Ti VENTUS 2X 16GB $599.99 - Micro Center pickup only](https://slickdeals.net/f/20194956-msi-nvidia-geforce-rtx-5060-ti-ventus-2x-16gb-599-99-micro-center-pickup-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
@@ -29,8 +28,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 32h ago | live as far as known |
-| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 34h ago | live as far as known |
+| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
