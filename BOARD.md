@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-30 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-30 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -26,8 +26,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 38h ago | live as far as known |
-| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 40h ago | live as far as known |
+| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 9h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -49,7 +49,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -123,13 +123,13 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 2h ago | live as far as known |
+| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 4h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 2 days ago | expired after ~2h |
+| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 3 days ago | expired after ~2h |
 
 ## Prebuilt PCs
 
