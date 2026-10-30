@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-30 11:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-30 13:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -26,8 +26,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 46h ago | live as far as known |
-| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 15h ago | live as far as known |
+| $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 48h ago | live as far as known |
+| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 17h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -123,7 +123,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 10h ago | live as far as known |
+| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 12h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
