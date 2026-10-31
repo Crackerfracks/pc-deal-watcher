@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-10-31 15:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-10-31 17:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -14,20 +14,22 @@ No recent deals.
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 5 days ago | expired after ~1h |
+| $990 | [[GPU] Supermicro MSI GeForce RTX 5070Ti 16GB SHADOW 3X OC Graphics Card (GPU-NVRTX5070T-16M3-OC) - $990](https://www.reddit.com/r/buildapcsales/comments/1xfmrxq/gpu_supermicro_msi_geforce_rtx_5070ti_16gb_shadow/) | 6 days ago | expired after ~1h |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | $829.99 | [[GPU] Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $829.99](https://www.reddit.com/r/buildapcsales/comments/1xhnl8n/gpu_yeston_amd_radeon_rx_9070_xt_sakura_atlantis/) | 3 days ago | live as far as known |
-| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 43h ago | live as far as known |
+| $829.99 | [Yeston AMD Radeon RX 9070 XT Sakura Atlantis Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $829.99](https://slickdeals.net/f/20229153-yeston-amd-radeon-rx-9070-xt-sakura-atlantis-overclocked-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-829-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 45h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -67,7 +69,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 22h ago | live as far as known |
+| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 24h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -125,7 +127,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 38h ago | expired after ~28h |
+| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 40h ago | expired after ~28h |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
