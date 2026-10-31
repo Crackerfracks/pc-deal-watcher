@@ -586,7 +586,7 @@
   "posted": 1793380441.0,
   "first_seen": 1793387232.8004162,
   "great": true,
-  "last_alerted": 1793459241.6572714
+  "last_alerted": 1793488032.9973154
  },
  {
   "id": "slickdeals:thread-20236431",
@@ -599,5 +599,27 @@
   "posted": 1793461250.0,
   "first_seen": 1793466431.6576757,
   "great": false
+ },
+ {
+  "id": "reddit:1xklkbj",
+  "part": "Prebuilt with 16GB+ card",
+  "channel": "prebuilt",
+  "price": 800.0,
+  "title": "[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/",
+  "posted": 1793481214.0,
+  "first_seen": 1793488032.9973154,
+  "great": true,
+  "verdict": {
+   "parts_value": 2271,
+   "savings": 1471,
+   "suitable": true,
+   "notes": [
+    "16 GB graphics card (NVIDIA, best for AI and Blender)",
+    "24 GB RAM, add ~$112 to reach 32 GB"
+   ],
+   "great": true
+  }
  }
 ]
