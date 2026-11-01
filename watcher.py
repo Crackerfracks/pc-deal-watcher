@@ -167,8 +167,12 @@ def deal_price(part, title):
     # Titles often list several prices (list price, rebate, final). Ignore ones
     # too small to be the part price and take the last remaining one, which is
     # usually the final price.
-    prices = [float(p.replace(",", "")) for p in PRICE_RE.findall(title)]
-    prices = [p for p in prices if p >= part.get("min_price", 0)]
+    # Prices in parentheses are usually the breakdown, as in
+    # "$2199.99 ($2999.99-$800)", so prefer prices outside them.
+    def found(text):
+        prices = [float(p.replace(",", "")) for p in PRICE_RE.findall(text)]
+        return [p for p in prices if p >= part.get("min_price", 0)]
+    prices = found(re.sub(r"\([^)]*\)", " ", title)) or found(title)
     return prices[-1] if prices else None
 
 
