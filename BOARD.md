@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-01 06:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-01 08:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -16,7 +16,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 14h ago | live as far as known |
+| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 16h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
@@ -69,7 +69,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 37h ago | live as far as known |
+| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 39h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -111,15 +111,17 @@ No recent deals.
 
 ## Power supplies
 
-### 850W Gold power supply (target $90, lowest seen in 90 days $65.27) — in Build A (AM4), Build B (AM5)
+### 850W Gold power supply (target $90, lowest seen in 90 days $57) — in Build A (AM4), Build B (AM5)
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| 🚨 $57 | [850W ASRock SL-850G 850 80 Plus Gold Power Supply (Black) $57 + Free Shipping](https://slickdeals.net/f/20238867-850w-asrock-sl-850g-850-80-plus-gold-power-supply-black-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 6 days ago | live as far as known |
+| 🚨 $110 | [[PSU] HP OMEN 1000W PSU - ATX 3.1, Fully Modular, 80+ Gold, Cybernetics Platinum, 10 Year Warranty - $110 @ HP](https://www.reddit.com/r/buildapcsales/comments/1xfam9j/psu_hp_omen_1000w_psu_atx_31_fully_modular_80/) | 7 days ago | live as far as known |
 
 ## Cases and cooling
 
@@ -141,4 +143,4 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $800 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$1,471](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 9h ago | live as far as known |
+| 🚨 $800 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$1,471](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 11h ago | live as far as known |
