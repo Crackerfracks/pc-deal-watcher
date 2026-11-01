@@ -586,7 +586,7 @@
   "posted": 1793380441.0,
   "first_seen": 1793387232.8004162,
   "great": true,
-  "last_alerted": 1793488032.9973154
+  "last_alerted": 1793513242.5469394
  },
  {
   "id": "slickdeals:thread-20236431",
@@ -620,6 +620,7 @@
     "24 GB RAM, add ~$112 to reach 32 GB"
    ],
    "great": true
-  }
+  },
+  "last_alerted": 1793513242.5469394
  }
 ]
