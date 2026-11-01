@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-01 03:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-01 05:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -16,7 +16,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 11h ago | live as far as known |
+| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 13h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
@@ -51,7 +51,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| $424 | [AMD Ryzen 7 9800X3D Zen 5 8-Core 5.2GHz AM5 Desktop Processor + 240mm AIO Cooler (Black) $424 + Free Shipping](https://slickdeals.net/f/20210628-amd-ryzen-7-9800x3d-zen-5-8-core-5-2ghz-am5-desktop-processor-240mm-aio-cooler-black-424-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -69,7 +69,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
+| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -133,7 +133,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 4 days ago | expired after ~2h |
+| $28.66 | [[COOLER] Scythe Mugen 6 CPU Cooler $28.66](https://www.reddit.com/r/buildapcsales/comments/1xgy71g/cooler_scythe_mugen_6_cpu_cooler_2866/) | 5 days ago | expired after ~2h |
 
 ## Prebuilt PCs
 
@@ -141,4 +141,4 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $800 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$1,471](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 6h ago | live as far as known |
+| 🚨 $800 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$1,471](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 8h ago | live as far as known |
