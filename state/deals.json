@@ -634,7 +634,7 @@
   "posted": 1793517735.0,
   "first_seen": 1793520433.3424034,
   "great": true,
-  "last_alerted": 1793599635.0835912
+  "last_alerted": 1793628432.6786764
  },
  {
   "id": "slickdeals:thread-20239320",
@@ -670,6 +670,18 @@
   "thread": "https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1793560490.0,
   "first_seen": 1793563632.193449,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20243721",
+  "part": "32GB DDR4 (2x16)",
+  "channel": "ram",
+  "price": 160.8,
+  "title": "[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping",
+  "url": "https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1793625475.0,
+  "first_seen": 1793628432.6786764,
   "great": false
  }
 ]

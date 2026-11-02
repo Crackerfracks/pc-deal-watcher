@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-02 12:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-02 14:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -16,7 +16,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 44h ago | live as far as known |
+| $499.99 | [PowerColor AMD Radeon RX 9060 XT Reaper Dual Fan 16GB GDDR6 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/20236431-powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-5-0-graphics-card-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 46h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
@@ -59,7 +59,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $319.99 | [[CPU] AMD Ryzen 7 5800X3D 10th Anniversary Edition - $319.99 w/ Free ASRock PRO-850B PSU](https://www.reddit.com/r/buildapcsales/comments/1xlazyd/cpu_amd_ryzen_7_5800x3d_10th_anniversary_edition/) | 17h ago | live as far as known |
+| $319.99 | [[CPU] AMD Ryzen 7 5800X3D 10th Anniversary Edition - $319.99 w/ Free ASRock PRO-850B PSU](https://www.reddit.com/r/buildapcsales/comments/1xlazyd/cpu_amd_ryzen_7_5800x3d_10th_anniversary_edition/) | 19h ago | live as far as known |
 | $329 | [AMD Ryzen 7 5800X3D 10th Anniversary Edition AM4 Desktop CPU + Free 850W ASRock PRO Series ATX 3.1 PSU $329 + Free S&H](https://slickdeals.net/f/20216586-amd-ryzen-7-5800x3d-10th-anniversary-edition-am4-desktop-cpu-free-850w-asrock-pro-series-atx-3-1-psu-329-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ## Motherboards
@@ -69,7 +69,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
-| ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 17h ago | live as far as known |
+| ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 19h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -79,7 +79,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $96.06 | [ASUS TUF Gaming B550-PLUS WIFI II AM4 ATX AMD Motherboard; free s&h $96.06](https://slickdeals.net/f/20239320-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-free-s-h-96-06?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
+| ✅ $96.06 | [ASUS TUF Gaming B550-PLUS WIFI II AM4 ATX AMD Motherboard; free s&h $96.06](https://slickdeals.net/f/20239320-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-free-s-h-96-06?utm_source=rss&utm_content=def&utm_medium=RSS2) | 29h ago | live as far as known |
 
 ## Memory (RAM)
 
@@ -91,10 +91,11 @@ No recent deals.
 
 No recent deals.
 
-### 32GB DDR4 (2x16) (target $140, lowest seen in 90 days $175) — in Build A (AM4)
+### 32GB DDR4 (2x16) (target $140, lowest seen in 90 days $160.8) — in Build A (AM4)
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
+| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
 | $175 | [Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit $175 + Free Shipping](https://slickdeals.net/f/20210391-netac-ddr4-32gb-16gb-ddr4-3200mhz-udimm-c16-desktop-internal-memory-ram-kit-175-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
@@ -117,7 +118,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $57 | [850W ASRock SL-850G 850 80 Plus Gold Power Supply (Black) $57 + Free Shipping](https://slickdeals.net/f/20238867-850w-asrock-sl-850g-850-80-plus-gold-power-supply-black-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 29h ago | live as far as known |
+| 🚨 $57 | [850W ASRock SL-850G 850 80 Plus Gold Power Supply (Black) $57 + Free Shipping](https://slickdeals.net/f/20238867-850w-asrock-sl-850g-850-80-plus-gold-power-supply-black-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 31h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
@@ -129,7 +130,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 3 days ago | expired after ~28h |
+| ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 4 days ago | expired after ~28h |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
@@ -143,4 +144,4 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $2199.99 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$71](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 39h ago | live as far as known |
+| $2199.99 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$71](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 41h ago | live as far as known |
