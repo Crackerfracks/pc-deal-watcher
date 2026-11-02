@@ -634,7 +634,7 @@
   "posted": 1793517735.0,
   "first_seen": 1793520433.3424034,
   "great": true,
-  "last_alerted": 1793628432.6786764
+  "last_alerted": 1793650032.9460528
  },
  {
   "id": "slickdeals:thread-20239320",
@@ -704,5 +704,17 @@
    ],
    "great": false
   }
+ },
+ {
+  "id": "reddit:1xm7jyh",
+  "part": "Tower air cooler",
+  "channel": "case-cooling",
+  "price": 23.99,
+  "title": "[Cooler] Zalman CNPS20X Extreme Performance Dual-Tower 140mm ARGB Air Cooler 300W TDP, AM4/AM5/LGA1700/1851/2011 - $23.99 (KITS FOR AM5/LGA1700/1851 INCLUDED + EXTRA GREASE)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/",
+  "posted": 1793649164.0,
+  "first_seen": 1793650032.9460528,
+  "great": false
  }
 ]
