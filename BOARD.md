@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-04 20:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-04 22:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -57,7 +57,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | $319.99 | [[CPU] AMD Ryzen 7 5800X3D 10th Anniversary Edition - $319.99 w/ Free ASRock PRO-850B PSU](https://www.reddit.com/r/buildapcsales/comments/1xlazyd/cpu_amd_ryzen_7_5800x3d_10th_anniversary_edition/) | 3 days ago | live as far as known |
-| $326.99 | [[Processor] AMD Ryzen 7 5800X3D 10th Anniversary Edition and ASRock PRO Series PRO-850B 850W PSU Bundle - $326.99 with code](https://www.reddit.com/r/buildapcsales/comments/1xnw7wp/processor_amd_ryzen_7_5800x3d_10th_anniversary/) | 1h ago | live as far as known |
+| $326.99 | [[Processor] AMD Ryzen 7 5800X3D 10th Anniversary Edition and ASRock PRO Series PRO-850B 850W PSU Bundle - $326.99 with code](https://www.reddit.com/r/buildapcsales/comments/1xnw7wp/processor_amd_ryzen_7_5800x3d_10th_anniversary/) | 3h ago | live as far as known |
 
 ## Motherboards
 
@@ -67,7 +67,7 @@ No recent deals.
 |---|---|---|---|
 | 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
-| ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2h ago | live as far as known |
+| ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -77,7 +77,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $96.06 | [ASUS TUF Gaming B550-PLUS WIFI II AM4 ATX AMD Motherboard; free s&h $96.06](https://slickdeals.net/f/20239320-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-free-s-h-96-06?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| ✅ $96.06 | [ASUS TUF Gaming B550-PLUS WIFI II AM4 ATX AMD Motherboard; free s&h $96.06](https://slickdeals.net/f/20239320-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-free-s-h-96-06?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ## Memory (RAM)
 
@@ -116,7 +116,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $57 | [850W ASRock SL-850G 850 80 Plus Gold Power Supply (Black) $57 + Free Shipping](https://slickdeals.net/f/20238867-850w-asrock-sl-850g-850-80-plus-gold-power-supply-black-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
-| ✅ $72.99 | [CORSAIR RM850e (2025) ATX 3.1 PCIe 5.1 Ready 850W Power Supply – Black / Native 12V-2x6 Cable Included, Low-Noise, Fully Modular, Cybenetics Gold, Modern Standby Mode, NA $72.99](https://slickdeals.net/f/20249943-corsair-rm850e-2025-atx-3-1-pcie-5-1-ready-850w-power-supply-black-native-12v-2x6-cable-included-low-noise-fully-modular-cybenetics-gold-modern-standby-mode-na-72-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 28h ago | live as far as known |
+| ✅ $72.99 | [CORSAIR RM850e (2025) ATX 3.1 PCIe 5.1 Ready 850W Power Supply – Black / Native 12V-2x6 Cable Included, Low-Noise, Fully Modular, Cybenetics Gold, Modern Standby Mode, NA $72.99](https://slickdeals.net/f/20249943-corsair-rm850e-2025-atx-3-1-pcie-5-1-ready-850w-power-supply-black-native-12v-2x6-cable-included-low-noise-fully-modular-cybenetics-gold-modern-standby-mode-na-72-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 30h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
@@ -128,7 +128,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 48h ago | expired after ~2h |
+| ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 2 days ago | expired after ~2h |
 | ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 6 days ago | expired after ~28h |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
