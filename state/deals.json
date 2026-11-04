@@ -741,5 +741,29 @@
   "posted": 1793720959.0,
   "first_seen": 1793722036.6176348,
   "great": false
+ },
+ {
+  "id": "reddit:1xnw7wp",
+  "part": "Ryzen 7 5800X3D",
+  "channel": "cpu",
+  "price": 326.99,
+  "title": "[Processor] AMD Ryzen 7 5800X3D 10th Anniversary Edition and ASRock PRO Series PRO-850B 850W PSU Bundle - $326.99 with code",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xnw7wp/processor_amd_ryzen_7_5800x3d_10th_anniversary/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xnw7wp/processor_amd_ryzen_7_5800x3d_10th_anniversary/",
+  "posted": 1793817756.0,
+  "first_seen": 1793822833.231463,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20255865",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 149.99,
+  "title": "GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99",
+  "url": "https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1793816588.0,
+  "first_seen": 1793822833.231463,
+  "great": false
  }
 ]
