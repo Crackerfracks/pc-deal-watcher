@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-04 04:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-04 06:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -65,7 +65,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| 🚨 $90.99 | [Open Box Excellent: Gigabyte B650 EAGLE AX AM5 ATX DDR5 Wi-Fi 6E Motherboard $90.99 + Free Shipping](https://slickdeals.net/f/20233239-open-box-excellent-gigabyte-b650-eagle-ax-am5-atx-ddr5-wi-fi-6e-motherboard-90-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
@@ -92,7 +92,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 39h ago | live as far as known |
+| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 41h ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -115,7 +115,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $57 | [850W ASRock SL-850G 850 80 Plus Gold Power Supply (Black) $57 + Free Shipping](https://slickdeals.net/f/20238867-850w-asrock-sl-850g-850-80-plus-gold-power-supply-black-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
-| ✅ $72.99 | [CORSAIR RM850e (2025) ATX 3.1 PCIe 5.1 Ready 850W Power Supply – Black / Native 12V-2x6 Cable Included, Low-Noise, Fully Modular, Cybenetics Gold, Modern Standby Mode, NA $72.99](https://slickdeals.net/f/20249943-corsair-rm850e-2025-atx-3-1-pcie-5-1-ready-850w-power-supply-black-native-12v-2x6-cable-included-low-noise-fully-modular-cybenetics-gold-modern-standby-mode-na-72-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 12h ago | live as far as known |
+| ✅ $72.99 | [CORSAIR RM850e (2025) ATX 3.1 PCIe 5.1 Ready 850W Power Supply – Black / Native 12V-2x6 Cable Included, Low-Noise, Fully Modular, Cybenetics Gold, Modern Standby Mode, NA $72.99](https://slickdeals.net/f/20249943-corsair-rm850e-2025-atx-3-1-pcie-5-1-ready-850w-power-supply-black-native-12v-2x6-cable-included-low-noise-fully-modular-cybenetics-gold-modern-standby-mode-na-72-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 14h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $110) — in Only if adding a 3090 later
 
@@ -127,14 +127,14 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 32h ago | expired after ~2h |
+| ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 34h ago | expired after ~2h |
 | ✅ $50.81 | [[Case] Nzxt H6 Flow Cc-h61fw-01 Compact Case X White $50.81](https://www.reddit.com/r/buildapcsales/comments/1xj1v31/case_nzxt_h6_flow_cch61fw01_compact_case_x_white/) | 5 days ago | expired after ~28h |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $23.99 | [[Cooler] Zalman CNPS20X Extreme Performance Dual-Tower 140mm ARGB Air Cooler 300W TDP, AM4/AM5/LGA1700/1851/2011 - $23.99 (KITS FOR AM5/LGA1700/1851 INCLUDED + EXTRA GREASE)](https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/) | 32h ago | live as far as known |
+| ✅ $23.99 | [[Cooler] Zalman CNPS20X Extreme Performance Dual-Tower 140mm ARGB Air Cooler 300W TDP, AM4/AM5/LGA1700/1851/2011 - $23.99 (KITS FOR AM5/LGA1700/1851 INCLUDED + EXTRA GREASE)](https://www.reddit.com/r/buildapcsales/comments/1xm7jyh/cooler_zalman_cnps20x_extreme_performance/) | 34h ago | live as far as known |
 
 _Past cases and cooling deals stayed live about 2h (median of 3)._
 
@@ -144,5 +144,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $1699.99 | [PowerSpec G740 Gaming PC AMD Ryzen 7 7700X 4.5GHz; NVIDIA GeForce RTX 5060 Ti 16GB; 32GB DDR5 RAM; 1TB SSD $1699.99 — parts ~$1,913, saves ~$213](https://slickdeals.net/f/20244690-powerspec-g740-gaming-pc-amd-ryzen-7-7700x-4-5ghz-nvidia-geforce-rtx-5060-ti-16gb-32gb-ddr5-ram-1tb-ssd-1699-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
+| $1699.99 | [PowerSpec G740 Gaming PC AMD Ryzen 7 7700X 4.5GHz; NVIDIA GeForce RTX 5060 Ti 16GB; 32GB DDR5 RAM; 1TB SSD $1699.99 — parts ~$1,913, saves ~$213](https://slickdeals.net/f/20244690-powerspec-g740-gaming-pc-amd-ryzen-7-7700x-4-5ghz-nvidia-geforce-rtx-5060-ti-16gb-32gb-ddr5-ram-1tb-ssd-1699-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 38h ago | live as far as known |
 | $2199.99 | [[Prebuilt] MSI Desktop: RTX 5070TI + Ryzen 9700X + 24GB RAM - $2199.99 ($2999.99-$800) — parts ~$2,271, saves ~$71](https://www.reddit.com/r/buildapcsales/comments/1xklkbj/prebuilt_msi_desktop_rtx_5070ti_ryzen_9700x_24gb/) | 3 days ago | live as far as known |
