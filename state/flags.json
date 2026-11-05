@@ -1,5 +1,18 @@
 {
- "checked_at": 1793858837.0670087,
- "great_unacknowledged": [],
+ "checked_at": 1793866032.0565975,
+ "great_unacknowledged": [
+  {
+   "id": "slickdeals:thread-20259393",
+   "part": "850W Gold power supply",
+   "channel": "power",
+   "price": 57.99,
+   "title": "$57.99* | 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon",
+   "url": "https://slickdeals.net/f/20259393-57-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "thread": "https://slickdeals.net/f/20259393-57-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "posted": 1793865936.0,
+   "first_seen": 1793866032.0565975,
+   "great": true
+  }
+ ],
  "prebuilts_last_day": []
 }
