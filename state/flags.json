@@ -1,5 +1,5 @@
 {
- "checked_at": 1793880432.5892482,
+ "checked_at": 1793887632.523876,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20259393",
@@ -11,7 +11,8 @@
    "thread": "https://slickdeals.net/f/20259393-57-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "posted": 1793865936.0,
    "first_seen": 1793866032.0565975,
-   "great": true
+   "great": true,
+   "last_alerted": 1793887632.523876
   },
   {
    "id": "reddit:1xoeaxl",
