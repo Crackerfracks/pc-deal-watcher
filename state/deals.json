@@ -829,5 +829,17 @@
   "first_seen": 1793902033.824248,
   "great": true,
   "last_alerted": 1793959632.8546827
+ },
+ {
+  "id": "slickdeals:thread-20266911",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 161.0,
+  "title": "[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping",
+  "url": "https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1793974567.0,
+  "first_seen": 1793981232.014245,
+  "great": false
  }
 ]
