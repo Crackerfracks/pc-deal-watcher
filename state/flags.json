@@ -1,5 +1,5 @@
 {
- "checked_at": 1793923631.5645745,
+ "checked_at": 1793930835.8327477,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20259393",
@@ -37,7 +37,8 @@
    "thread": "https://slickdeals.net/f/20261910-850w-asrock-challenger-cl-850g-80-plus-gold-non-modular-psu-black-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "posted": 1793898177.0,
    "first_seen": 1793902033.824248,
-   "great": true
+   "great": true,
+   "last_alerted": 1793930835.8327477
   }
  ],
  "prebuilts_last_day": []
