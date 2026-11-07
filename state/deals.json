@@ -828,7 +828,7 @@
   "posted": 1793898177.0,
   "first_seen": 1793902033.824248,
   "great": true,
-  "last_alerted": 1793988434.434313
+  "last_alerted": 1794017231.0660417
  },
  {
   "id": "slickdeals:thread-20266911",
@@ -840,6 +840,18 @@
   "thread": "https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1793974567.0,
   "first_seen": 1793981232.014245,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20269545",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 132.99,
+  "title": "ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99",
+  "url": "https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794010431.0,
+  "first_seen": 1794017231.0660417,
   "great": false
  }
 ]
