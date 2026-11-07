@@ -1,19 +1,5 @@
 {
- "checked_at": 1794074832.869945,
- "great_unacknowledged": [
-  {
-   "id": "slickdeals:thread-20261910",
-   "part": "850W Gold power supply",
-   "channel": "power",
-   "price": 59.99,
-   "title": "850W ASRock Challenger CL-850G 80 Plus Gold Non-Modular PSU (Black) $59.99 + Free Shipping",
-   "url": "https://slickdeals.net/f/20261910-850w-asrock-challenger-cl-850g-80-plus-gold-non-modular-psu-black-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20261910-850w-asrock-challenger-cl-850g-80-plus-gold-non-modular-psu-black-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1793898177.0,
-   "first_seen": 1793902033.824248,
-   "great": true,
-   "last_alerted": 1794060433.5183232
-  }
- ],
+ "checked_at": 1794082030.917874,
+ "great_unacknowledged": [],
  "prebuilts_last_day": []
 }
