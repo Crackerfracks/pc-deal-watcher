@@ -865,5 +865,18 @@
   "posted": 1794068975.0,
   "first_seen": 1794074832.869945,
   "great": false
+ },
+ {
+  "id": "reddit:1xr3dmu",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 109.99,
+  "title": "[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/",
+  "posted": 1794157725.0,
+  "first_seen": 1794161233.24748,
+  "great": true,
+  "expired_at": 1794161233.24748
  }
 ]

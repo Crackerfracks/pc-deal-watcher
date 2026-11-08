@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-08 16:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-08 18:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -63,8 +63,9 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
+| 🚨 $109.99 | [[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)](https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/) | 1h ago | expired after ~1h |
 | ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
-| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 40h ago | live as far as known |
+| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 42h ago | live as far as known |
 | ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 | $161 | [[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping](https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
 
@@ -129,7 +130,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 6 days ago | expired after ~2h |
-| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 24h ago | live as far as known |
+| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 26h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
