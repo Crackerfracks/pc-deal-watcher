@@ -878,5 +878,29 @@
   "first_seen": 1794161233.24748,
   "great": true,
   "expired_at": 1794161233.24748
+ },
+ {
+  "id": "reddit:1xr4y93",
+  "part": "1000W Gold power supply",
+  "channel": "power",
+  "price": 94.71,
+  "title": "[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/",
+  "posted": 1794161608.0,
+  "first_seen": 1794168433.3218918,
+  "great": true
+ },
+ {
+  "id": "slickdeals:thread-20276049",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 399.0,
+  "title": "Ryzen 7 9800X3Dc $399",
+  "url": "https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794165596.0,
+  "first_seen": 1794168433.3218918,
+  "great": false
  }
 ]
