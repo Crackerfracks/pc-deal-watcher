@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-08 00:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-08 02:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -52,8 +52,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $279.99 | [[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99](https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/) | 2 days ago | live as far as known |
-| ✅ $279.99 | [AMD Ryzen 7 5800X3D - $279.99 @ Microcenter](https://slickdeals.net/f/20260326-amd-ryzen-7-5800x3d-279-99-microcenter?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| 🏬 $279.99 | [[CPU] Microcenter in store only, AMD Ryzen 7 5800X3D Vermeer AM4 3.40GHz 8-Core Boxed Processor $279.99](https://www.reddit.com/r/buildapcsales/comments/1xohdzb/cpu_microcenter_in_store_only_amd_ryzen_7_5800x3d/) | 3 days ago | live as far as known |
+| ✅ $279.99 | [AMD Ryzen 7 5800X3D - $279.99 @ Microcenter](https://slickdeals.net/f/20260326-amd-ryzen-7-5800x3d-279-99-microcenter?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | $319.99 | [[CPU] AMD Ryzen 7 5800X3D 10th Anniversary Edition - $319.99 w/ Free ASRock PRO-850B PSU](https://www.reddit.com/r/buildapcsales/comments/1xlazyd/cpu_amd_ryzen_7_5800x3d_10th_anniversary_edition/) | 6 days ago | live as far as known |
 | $326.99 | [[Processor] AMD Ryzen 7 5800X3D 10th Anniversary Edition and ASRock PRO Series PRO-850B 850W PSU Bundle - $326.99 with code](https://www.reddit.com/r/buildapcsales/comments/1xnw7wp/processor_amd_ryzen_7_5800x3d_10th_anniversary/) | 3 days ago | live as far as known |
 
@@ -64,9 +64,9 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $129.99 | [$129.99* / ASUS ROG Strix B650-A Gaming WiFi AMD B650 AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20240790-129-99-asus-rog-strix-b650-a-gaming-wifi-amd-b650-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 24h ago | live as far as known |
+| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 26h ago | live as far as known |
 | ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
-| $161 | [[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping](https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
+| $161 | [[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping](https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -92,7 +92,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -132,7 +132,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 5 days ago | expired after ~2h |
-| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 8h ago | live as far as known |
+| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 10h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
