@@ -1,5 +1,5 @@
 {
- "checked_at": 1794240436.6120248,
+ "checked_at": 1794247638.395592,
  "great_unacknowledged": [
   {
    "id": "reddit:1xr4y93",
@@ -12,7 +12,7 @@
    "posted": 1794161608.0,
    "first_seen": 1794168433.3218918,
    "great": true,
-   "last_alerted": 1794218842.706704
+   "last_alerted": 1794247638.395592
   }
  ],
  "prebuilts_last_day": []

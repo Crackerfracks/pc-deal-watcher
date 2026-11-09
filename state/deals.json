@@ -890,7 +890,7 @@
   "posted": 1794161608.0,
   "first_seen": 1794168433.3218918,
   "great": true,
-  "last_alerted": 1794218842.706704
+  "last_alerted": 1794247638.395592
  },
  {
   "id": "slickdeals:thread-20276049",
@@ -926,6 +926,18 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/",
   "posted": 1794184117.0,
   "first_seen": 1794190035.895742,
+  "great": false
+ },
+ {
+  "id": "reddit:1xrw23d",
+  "part": "850W Gold power supply",
+  "channel": "power",
+  "price": 72.99,
+  "title": "[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/",
+  "posted": 1794241338.0,
+  "first_seen": 1794247638.395592,
   "great": false
  }
 ]
