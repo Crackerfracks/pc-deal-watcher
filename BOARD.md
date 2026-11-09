@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-09 12:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-09 14:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -24,7 +24,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $789.99 | [[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times](https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/) | 11h ago | live as far as known |
+| $789.99 | [[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times](https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/) | 13h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -46,8 +46,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $399 | [Ryzen 7 9800X3Dc $399](https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2) | 17h ago | live as far as known |
-| ✅ $399.99 | [[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36](https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/) | 12h ago | live as far as known |
+| ✅ $399 | [Ryzen 7 9800X3Dc $399](https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2) | 19h ago | live as far as known |
+| ✅ $399.99 | [[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36](https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/) | 14h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -67,8 +67,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $109.99 | [[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)](https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/) | 19h ago | expired after ~1h |
-| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| 🚨 $109.99 | [[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)](https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/) | 21h ago | expired after ~1h |
+| ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | $161 | [[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping](https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
@@ -92,9 +92,7 @@ No recent deals.
 
 ### 32GB DDR4 (2x16) (target $140, lowest seen in 90 days $160.8) — in Build A (AM4)
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| $160.8 | [[Newegg] GeIL Orion 32GB 2x16GB DDR4 3200MHz PC4-25600 Desktop Gaming Memory RAM $160.80 + Free Shipping](https://slickdeals.net/f/20243721-newegg-geil-orion-32gb-2x16gb-ddr4-3200mhz-pc4-25600-desktop-gaming-memory-ram-160-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
+No recent deals.
 
 ### 64GB DDR4 (2x32) (target $230) — in Build A (AM4) later upgrade
 
@@ -125,7 +123,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $89.99 | [[PSU] Rosewill CMG5 1000W, ATX 3.0 & 3.1 Compatible, 80+ Gold 1000W Full Modular Gaming Power Supply, PCIe 5.0 $69.99 ($89.99 - $20 w/ code SSF74442)](https://www.reddit.com/r/buildapcsales/comments/1xoeaxl/psu_rosewill_cmg5_1000w_atx_30_31_compatible_80/) | 4 days ago | live as far as known |
-| 🚨 $94.71 | [[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/) | 18h ago | live as far as known |
+| 🚨 $94.71 | [[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/) | 20h ago | live as far as known |
 
 ## Cases and cooling
 
@@ -134,7 +132,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $49.99 | [[Case] Thermaltake View 380 WS ARGB; Mid Tower Chassis; Side Wood Trim; 4x120mm ARGB Lite Fans Included; 360mm Radiator Support; 415mm GPU Clearance; 200mm Max PSU Length; 160mm Air Cooler Max Height - $49.99](https://www.reddit.com/r/buildapcsales/comments/1xm83tc/case_thermaltake_view_380_ws_argb_mid_tower/) | 7 days ago | expired after ~2h |
-| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 44h ago | live as far as known |
+| $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 46h ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
