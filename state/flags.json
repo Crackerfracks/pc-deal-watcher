@@ -1,5 +1,5 @@
 {
- "checked_at": 1794182832.639189,
+ "checked_at": 1794190035.895742,
  "great_unacknowledged": [
   {
    "id": "reddit:1xr4y93",
@@ -11,7 +11,8 @@
    "thread": "https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/",
    "posted": 1794161608.0,
    "first_seen": 1794168433.3218918,
-   "great": true
+   "great": true,
+   "last_alerted": 1794190035.895742
   }
  ],
  "prebuilts_last_day": []

@@ -889,7 +889,8 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/",
   "posted": 1794161608.0,
   "first_seen": 1794168433.3218918,
-  "great": true
+  "great": true,
+  "last_alerted": 1794190035.895742
  },
  {
   "id": "slickdeals:thread-20276049",
@@ -901,6 +902,30 @@
   "thread": "https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1794165596.0,
   "first_seen": 1794168433.3218918,
+  "great": false
+ },
+ {
+  "id": "reddit:1xre3xt",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 789.99,
+  "title": "[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/",
+  "posted": 1794185546.0,
+  "first_seen": 1794190035.895742,
+  "great": false
+ },
+ {
+  "id": "reddit:1xrdm0r",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 399.99,
+  "title": "[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/",
+  "posted": 1794184117.0,
+  "first_seen": 1794190035.895742,
   "great": false
  }
 ]
