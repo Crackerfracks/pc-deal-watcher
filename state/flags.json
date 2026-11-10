@@ -1,5 +1,5 @@
 {
- "checked_at": 1794276433.6776335,
+ "checked_at": 1794283632.6409912,
  "great_unacknowledged": [
   {
    "id": "reddit:1xr4y93",
@@ -13,18 +13,6 @@
    "first_seen": 1794168433.3218918,
    "great": true,
    "last_alerted": 1794276433.6776335
-  },
-  {
-   "id": "reddit:1xs7xcu",
-   "part": "B650/B850 ATX Wi-Fi board",
-   "channel": "motherboard",
-   "price": 104.99,
-   "title": "[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/",
-   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/",
-   "posted": 1794268467.0,
-   "first_seen": 1794269233.9089346,
-   "great": true
   }
  ],
  "prebuilts_last_day": []
