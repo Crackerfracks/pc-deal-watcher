@@ -890,7 +890,7 @@
   "posted": 1794161608.0,
   "first_seen": 1794168433.3218918,
   "great": true,
-  "last_alerted": 1794305232.7852976
+  "last_alerted": 1794326833.7651548
  },
  {
   "id": "slickdeals:thread-20276049",
@@ -998,5 +998,17 @@
    "great": true
   },
   "last_alerted": 1794319633.9269297
+ },
+ {
+  "id": "reddit:1xsp3bn",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 379.99,
+  "title": "[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
+  "posted": 1794322872.0,
+  "first_seen": 1794326833.7651548,
+  "great": false
  }
 ]
