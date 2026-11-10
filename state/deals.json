@@ -951,5 +951,29 @@
   "posted": 1794255107.0,
   "first_seen": 1794262033.4420044,
   "great": false
+ },
+ {
+  "id": "reddit:1xs7xcu",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 104.99,
+  "title": "[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/",
+  "posted": 1794268467.0,
+  "first_seen": 1794269233.9089346,
+  "great": true
+ },
+ {
+  "id": "reddit:1xs6b9z",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 400.0,
+  "title": "[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/",
+  "posted": 1794264424.0,
+  "first_seen": 1794269233.9089346,
+  "great": false
  }
 ]
