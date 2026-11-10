@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-10 18:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-10 20:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -24,8 +24,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $789.99 | [[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times](https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/) | 41h ago | live as far as known |
-| $799 | [[GPU] - GIGABYTE GIGABYTE Radeon RX 9070 XT Gaming OC - $799 (WOOT)](https://www.reddit.com/r/buildapcsales/comments/1xssulj/gpu_gigabyte_gigabyte_radeon_rx_9070_xt_gaming_oc/) | 1h ago | expired after ~1h |
+| $789.99 | [[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times](https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/) | 43h ago | live as far as known |
+| $799 | [[GPU] - GIGABYTE GIGABYTE Radeon RX 9070 XT Gaming OC - $799 (WOOT)](https://www.reddit.com/r/buildapcsales/comments/1xssulj/gpu_gigabyte_gigabyte_radeon_rx_9070_xt_gaming_oc/) | 3h ago | expired after ~1h |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -47,11 +47,11 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $379.99 | [[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)](https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/) | 3h ago | live as far as known |
-| ✅ $399 | [Ryzen 7 9800X3Dc $399](https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2) | 47h ago | live as far as known |
-| ✅ $399.99 | [[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36](https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/) | 42h ago | live as far as known |
-| ✅ $399.99 | [[AC] $399.99 / AMD Ryzen 7 9800X3D AM5 8-Core Processor at Amazon](https://slickdeals.net/f/20280777-ac-399-99-amd-ryzen-7-9800x3d-am5-8-core-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 22h ago | live as far as known |
-| ✅ $400 | [[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400](https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/) | 19h ago | live as far as known |
+| ✅ $379.99 | [[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)](https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/) | 5h ago | live as far as known |
+| ✅ $399 | [Ryzen 7 9800X3Dc $399](https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| ✅ $399.99 | [[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36](https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/) | 44h ago | live as far as known |
+| ✅ $399.99 | [[AC] $399.99 / AMD Ryzen 7 9800X3D AM5 8-Core Processor at Amazon](https://slickdeals.net/f/20280777-ac-399-99-amd-ryzen-7-9800x3d-am5-8-core-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 24h ago | live as far as known |
+| ✅ $400 | [[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400](https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/) | 21h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -71,7 +71,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $104.99 | [[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)](https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/) | 18h ago | expired after ~4h |
+| 🚨 $104.99 | [[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)](https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/) | 20h ago | expired after ~4h |
 | 🚨 $109.99 | [[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)](https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/) | 2 days ago | expired after ~1h |
 | ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 | ✅ $149.99 | [GIGABYTE B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard $149.99](https://slickdeals.net/f/20255865-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
@@ -119,16 +119,16 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $57.99 | [$57.99* / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon](https://slickdeals.net/f/20259393-57-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| 🚨 $57.99 | [$57.99* / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon](https://slickdeals.net/f/20259393-57-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 | 🚨 $59.99 | [850W ASRock Challenger CL-850G 80 Plus Gold Non-Modular PSU (Black) $59.99 + Free Shipping](https://slickdeals.net/f/20261910-850w-asrock-challenger-cl-850g-80-plus-gold-non-modular-psu-black-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
-| ✅ $72.99 | [[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/) | 26h ago | live as far as known |
+| ✅ $72.99 | [[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/) | 28h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $89.99) — in Only if adding a 3090 later
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $89.99 | [[PSU] Rosewill CMG5 1000W, ATX 3.0 & 3.1 Compatible, 80+ Gold 1000W Full Modular Gaming Power Supply, PCIe 5.0 $69.99 ($89.99 - $20 w/ code SSF74442)](https://www.reddit.com/r/buildapcsales/comments/1xoeaxl/psu_rosewill_cmg5_1000w_atx_30_31_compatible_80/) | 5 days ago | live as far as known |
-| 🚨 $94.71 | [[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/) | 48h ago | live as far as known |
+| 🚨 $94.71 | [[PSU] Thermaltake Toughpower GF3 1000W 80+ Gold, ATX 3.1, PCIe 5.1, Fully Modular, 12V-2x6, 10-Year Warranty is $94.71 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xr4y93/psu_thermaltake_toughpower_gf3_1000w_80_gold_atx/) | 2 days ago | live as far as known |
 
 ## Cases and cooling
 
@@ -136,7 +136,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $54.12 | [[Case] Lian-Li Case LANCOOL 216X Mid Tower Black $54.12](https://www.reddit.com/r/buildapcsales/comments/1xsta2u/case_lianli_case_lancool_216x_mid_tower_black_5412/) | 0h ago | live as far as known |
+| ✅ $54.12 | [[Case] Lian-Li Case LANCOOL 216X Mid Tower Black $54.12](https://www.reddit.com/r/buildapcsales/comments/1xsta2u/case_lianli_case_lancool_216x_mid_tower_black_5412/) | 2h ago | live as far as known |
 | $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 3 days ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
@@ -151,4 +151,4 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $1499.99 | [[Prebuilt] PowerSpec G740 - Ryzen 7 7700X, RTX 5060 Ti 16GB, 32GB DDR5 6000, 1TB NVMe - $1499.99 @ Micro Center — parts ~$1,913, saves ~$413](https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/) | 13h ago | live as far as known |
+| 🚨 $1499.99 | [[Prebuilt] PowerSpec G740 - Ryzen 7 7700X, RTX 5060 Ti 16GB, 32GB DDR5 6000, 1TB NVMe - $1499.99 @ Micro Center — parts ~$1,913, saves ~$413](https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/) | 15h ago | live as far as known |
