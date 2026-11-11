@@ -1,5 +1,5 @@
 {
- "checked_at": 1794427633.2501214,
+ "checked_at": 1794434834.2155344,
  "great_unacknowledged": [
   {
    "id": "reddit:1xseja7",
@@ -55,7 +55,8 @@
    "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
    "posted": 1794409284.0,
    "first_seen": 1794413232.1026924,
-   "great": true
+   "great": true,
+   "last_alerted": 1794434834.2155344
   },
   {
    "id": "reddit:1xtrt3u",
