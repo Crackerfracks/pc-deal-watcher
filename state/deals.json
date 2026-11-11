@@ -997,7 +997,7 @@
    ],
    "great": true
   },
-  "last_alerted": 1794398835.9607432
+  "last_alerted": 1794427633.2501214
  },
  {
   "id": "reddit:1xsp3bn",
@@ -1079,7 +1079,8 @@
     "16 GB graphics card (NVIDIA, best for AI and Blender)"
    ],
    "great": true
-  }
+  },
+  "last_alerted": 1794427633.2501214
  },
  {
   "id": "slickdeals:thread-20289642",
@@ -1128,5 +1129,39 @@
   "posted": 1794409284.0,
   "first_seen": 1794413232.1026924,
   "great": true
+ },
+ {
+  "id": "reddit:1xtrzid",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 749.99,
+  "title": "[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/",
+  "posted": 1794427226.0,
+  "first_seen": 1794427633.2501214,
+  "great": false
+ },
+ {
+  "id": "reddit:1xtrt3u",
+  "part": "Prebuilt with 16GB+ card",
+  "channel": "prebuilt",
+  "price": 1099.99,
+  "title": "[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
+  "posted": 1794426826.0,
+  "first_seen": 1794427633.2501214,
+  "great": true,
+  "verdict": {
+   "parts_value": 1459,
+   "savings": 359,
+   "suitable": true,
+   "notes": [
+    "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
+    "16 GB RAM, add ~$224 to reach 32 GB"
+   ],
+   "great": true
+  }
  }
 ]
