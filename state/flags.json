@@ -1,5 +1,5 @@
 {
- "checked_at": 1794406033.0268393,
+ "checked_at": 1794413232.1026924,
  "great_unacknowledged": [
   {
    "id": "reddit:1xseja7",
@@ -43,6 +43,18 @@
     ],
     "great": true
    }
+  },
+  {
+   "id": "reddit:1xtjyfd",
+   "part": "850W Gold power supply",
+   "channel": "power",
+   "price": 54.99,
+   "title": "[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99",
+   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
+   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
+   "posted": 1794409284.0,
+   "first_seen": 1794413232.1026924,
+   "great": true
   }
  ],
  "prebuilts_last_day": [

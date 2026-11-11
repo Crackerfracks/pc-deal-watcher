@@ -1104,5 +1104,29 @@
   "posted": 1794396229.0,
   "first_seen": 1794398835.9607432,
   "great": false
+ },
+ {
+  "id": "reddit:1xtk3wr",
+  "part": "ATX mid-tower case",
+  "channel": "case-cooling",
+  "price": 49.7,
+  "title": "[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case \u2013 Smoke | 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/",
+  "posted": 1794409646.0,
+  "first_seen": 1794413232.1026924,
+  "great": false
+ },
+ {
+  "id": "reddit:1xtjyfd",
+  "part": "850W Gold power supply",
+  "channel": "power",
+  "price": 54.99,
+  "title": "[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
+  "posted": 1794409284.0,
+  "first_seen": 1794413232.1026924,
+  "great": true
  }
 ]
