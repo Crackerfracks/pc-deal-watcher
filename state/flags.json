@@ -1,5 +1,5 @@
 {
- "checked_at": 1794370031.9145103,
+ "checked_at": 1794377231.8708684,
  "great_unacknowledged": [
   {
    "id": "reddit:1xseja7",
@@ -21,7 +21,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794348433.8244905
+   "last_alerted": 1794377231.8708684
   }
  ],
  "prebuilts_last_day": [
@@ -45,7 +45,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794348433.8244905
+   "last_alerted": 1794377231.8708684
   }
  ]
 }
