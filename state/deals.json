@@ -997,7 +997,7 @@
    ],
    "great": true
   },
-  "last_alerted": 1794427633.2501214
+  "last_alerted": 1794449240.0180943
  },
  {
   "id": "reddit:1xsp3bn",
@@ -1080,7 +1080,7 @@
    ],
    "great": true
   },
-  "last_alerted": 1794427633.2501214
+  "last_alerted": 1794449240.0180943
  },
  {
   "id": "slickdeals:thread-20289642",
@@ -1163,6 +1163,7 @@
     "16 GB RAM, add ~$224 to reach 32 GB"
    ],
    "great": true
-  }
+  },
+  "last_alerted": 1794449240.0180943
  }
 ]

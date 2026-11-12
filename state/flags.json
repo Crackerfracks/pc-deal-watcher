@@ -1,5 +1,5 @@
 {
- "checked_at": 1794442041.6090055,
+ "checked_at": 1794449240.0180943,
  "great_unacknowledged": [
   {
    "id": "reddit:1xseja7",
@@ -21,7 +21,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794427633.2501214
+   "last_alerted": 1794449240.0180943
   },
   {
    "id": "reddit:1xteul5",
@@ -43,7 +43,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794427633.2501214
+   "last_alerted": 1794449240.0180943
   },
   {
    "id": "reddit:1xtjyfd",
@@ -78,7 +78,8 @@
      "16 GB RAM, add ~$224 to reach 32 GB"
     ],
     "great": true
-   }
+   },
+   "last_alerted": 1794449240.0180943
   }
  ],
  "prebuilts_last_day": [
@@ -102,7 +103,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794427633.2501214
+   "last_alerted": 1794449240.0180943
   },
   {
    "id": "reddit:1xtrt3u",
@@ -124,7 +125,8 @@
      "16 GB RAM, add ~$224 to reach 32 GB"
     ],
     "great": true
-   }
+   },
+   "last_alerted": 1794449240.0180943
   }
  ]
 }
