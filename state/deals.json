@@ -1009,7 +1009,8 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/",
   "posted": 1794322872.0,
   "first_seen": 1794326833.7651548,
-  "great": false
+  "great": false,
+  "in_store": true
  },
  {
   "id": "reddit:1xsta2u",
@@ -1080,7 +1081,7 @@
    ],
    "great": true
   },
-  "last_alerted": 1794478032.227521
+  "last_alerted": 1794499634.7353883
  },
  {
   "id": "slickdeals:thread-20289642",
@@ -1141,7 +1142,8 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/",
   "posted": 1794427226.0,
   "first_seen": 1794427633.2501214,
-  "great": false
+  "great": false,
+  "in_store": true
  },
  {
   "id": "reddit:1xtrt3u",
@@ -1153,7 +1155,7 @@
   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
   "posted": 1794426826.0,
   "first_seen": 1794427633.2501214,
-  "great": true,
+  "great": false,
   "verdict": {
    "parts_value": 1459,
    "savings": 359,
@@ -1164,7 +1166,8 @@
    ],
    "great": true
   },
-  "last_alerted": 1794478032.227521
+  "last_alerted": 1794478032.227521,
+  "in_store": true
  },
  {
   "id": "reddit:1xu4iha",
