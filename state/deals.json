@@ -1165,5 +1165,29 @@
    "great": true
   },
   "last_alerted": 1794449240.0180943
+ },
+ {
+  "id": "reddit:1xu4iha",
+  "part": "RTX 5070 Ti 16GB",
+  "channel": "gpu",
+  "price": 999.0,
+  "title": "[GPU] PNY NVIDIA GeForce RTX\u2122 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/",
+  "posted": 1794461413.0,
+  "first_seen": 1794463631.9784317,
+  "great": false
+ },
+ {
+  "id": "reddit:1xu4epg",
+  "part": "RTX 5070 Ti 16GB",
+  "channel": "gpu",
+  "price": 999.99,
+  "title": "[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/",
+  "posted": 1794461050.0,
+  "first_seen": 1794463631.9784317,
+  "great": false
  }
 ]
