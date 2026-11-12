@@ -1192,5 +1192,41 @@
   "posted": 1794461050.0,
   "first_seen": 1794463631.9784317,
   "great": false
+ },
+ {
+  "id": "reddit:1xugr7q",
+  "part": "2TB NVMe SSD",
+  "channel": "storage",
+  "price": 199.0,
+  "title": "[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/",
+  "posted": 1794499709.0,
+  "first_seen": 1794506832.594331,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20298180",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 141.0,
+  "title": "ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141",
+  "url": "https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794503642.0,
+  "first_seen": 1794506832.594331,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20297928",
+  "part": "2TB NVMe SSD",
+  "channel": "storage",
+  "price": 129.99,
+  "title": "Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99",
+  "url": "https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794500641.0,
+  "first_seen": 1794506832.594331,
+  "great": true
  }
 ]
