@@ -1,5 +1,5 @@
 {
- "checked_at": 1794514031.8541245,
+ "checked_at": 1794521232.0635,
  "great_unacknowledged": [
   {
    "id": "reddit:1xteul5",
@@ -49,30 +49,5 @@
    "great": true
   }
  ],
- "prebuilts_last_day": [
-  {
-   "id": "reddit:1xtrt3u",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1099.99,
-   "title": "[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off)",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
-   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/",
-   "posted": 1794426826.0,
-   "first_seen": 1794427633.2501214,
-   "great": false,
-   "verdict": {
-    "parts_value": 1459,
-    "savings": 359,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
-     "16 GB RAM, add ~$224 to reach 32 GB"
-    ],
-    "great": true
-   },
-   "last_alerted": 1794478032.227521,
-   "in_store": true
-  }
- ]
+ "prebuilts_last_day": []
 }

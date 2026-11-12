@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-12 20:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-12 22:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -20,14 +20,14 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 15h ago | live as far as known |
-| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 15h ago | live as far as known |
+| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 17h ago | live as far as known |
+| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 17h ago | live as far as known |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $749.99 | [[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)](https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/) | 24h ago | live as far as known |
+| 🏬 $749.99 | [[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)](https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/) | 26h ago | live as far as known |
 | $789.99 | [[GPU] USED LIKE NEW ASRock Radeon RX 9070 XT Challenger 16GB OC Graphics Card - $789.99 - YMMV + Extended lead times](https://www.reddit.com/r/buildapcsales/comments/1xre3xt/gpu_used_like_new_asrock_radeon_rx_9070_xt/) | 4 days ago | live as far as known |
 | $799 | [[GPU] - GIGABYTE GIGABYTE Radeon RX 9070 XT Gaming OC - $799 (WOOT)](https://www.reddit.com/r/buildapcsales/comments/1xssulj/gpu_gigabyte_gigabyte_radeon_rx_9070_xt_gaming_oc/) | 2 days ago | expired after ~1h |
 
@@ -55,7 +55,7 @@ No recent deals.
 | ✅ $399 | [Ryzen 7 9800X3Dc $399](https://slickdeals.net/f/20276049-ryzen-7-9800x3dc-399?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 | ✅ $399.99 | [[CPU] AMD Ryzen 7 9800X3D - $399.99 with code BFF36](https://www.reddit.com/r/buildapcsales/comments/1xrdm0r/cpu_amd_ryzen_7_9800x3d_39999_with_code_bff36/) | 4 days ago | live as far as known |
 | ✅ $399.99 | [[AC] $399.99 / AMD Ryzen 7 9800X3D AM5 8-Core Processor at Amazon](https://slickdeals.net/f/20280777-ac-399-99-amd-ryzen-7-9800x3d-am5-8-core-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 32h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
 | ✅ $400 | [[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400](https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/) | 3 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
@@ -75,9 +75,9 @@ No recent deals.
 | 🚨 $104.99 | [[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)](https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/) | 3 days ago | expired after ~4h |
 | 🚨 $109.99 | [[Motherboard] MSI MAG B650 Tomahawk WiFi Motherboard - $109.99 (45% off)](https://www.reddit.com/r/buildapcsales/comments/1xr3dmu/motherboard_msi_mag_b650_tomahawk_wifi/) | 4 days ago | expired after ~1h |
 | ✅ $132.99 | [ASUS TUF GAMING B650E-E WIFI AMD AM5 B650 ATX motherboard, 8+2+1 80A DrMOS stage, DDR5, PCIe 5.0 Ready, 3x M.2, Wi-Fi 6E, 2.5 Gb LAN, DisplayPort $132.99](https://slickdeals.net/f/20269545-asus-tuf-gaming-b650e-e-wifi-amd-am5-b650-atx-motherboard-8-2-1-80a-drmos-stage-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5-gb-lan-displayport-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| ✅ $141 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141](https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3h ago | live as far as known |
+| ✅ $141 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141](https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5h ago | live as far as known |
 | $161 | [[Newegg] GIGABYTE B850 AORUS ELITE WIFI7 ICE AM5 DDR5 ATX Motherboard with PCIe 5.0 $161 + Free Shipping](https://slickdeals.net/f/20266911-newegg-gigabyte-b850-aorus-elite-wifi7-ice-am5-ddr5-atx-motherboard-with-pcie-5-0-161-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| $173.99 | [$173.99* / ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20289471-173-99-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
+| $173.99 | [$173.99* / ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20289471-173-99-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 35h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -87,7 +87,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $115.99 | [ASUS TUF Gaming B550-Plus Wi-Fi II AM4 ATX Gaming Motherboard $115.99](https://slickdeals.net/f/20287977-asus-tuf-gaming-b550-plus-wi-fi-ii-am4-atx-gaming-motherboard-115-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 40h ago | live as far as known |
+| $115.99 | [ASUS TUF Gaming B550-Plus Wi-Fi II AM4 ATX Gaming Motherboard $115.99](https://slickdeals.net/f/20287977-asus-tuf-gaming-b550-plus-wi-fi-ii-am4-atx-gaming-motherboard-115-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 42h ago | live as far as known |
 
 ## Memory (RAM)
 
@@ -113,9 +113,9 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $129.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4h ago | live as far as known |
-| $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 4h ago | live as far as known |
-| $199.24 | [[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)](https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/) | 43h ago | live as far as known |
+| 🚨 $129.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6h ago | live as far as known |
+| $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 6h ago | live as far as known |
+| $199.24 | [[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)](https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/) | 45h ago | live as far as known |
 
 ### 1TB NVMe SSD (target $90) — in Cheaper start for both builds
 
@@ -127,7 +127,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $54.99 | [[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99](https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/) | 29h ago | live as far as known |
+| 🚨 $54.99 | [[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99](https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/) | 31h ago | live as far as known |
 | ✅ $72.99 | [[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/) | 3 days ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $89.99) — in Only if adding a 3090 later
@@ -142,7 +142,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $49.7 | [[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke / 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70](https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/) | 29h ago | live as far as known |
+| ✅ $49.7 | [[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke / 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70](https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/) | 31h ago | live as far as known |
 | ✅ $54.12 | [[Case] Lian-Li Case LANCOOL 216X Mid Tower Black $54.12](https://www.reddit.com/r/buildapcsales/comments/1xsta2u/case_lianli_case_lancool_216x_mid_tower_black_5412/) | 2 days ago | live as far as known |
 | $74.99 | [[Case] CORSAIR 4000D RS ARGB Frame Customizable Mid-Tower PC Case – White - $74.99](https://www.reddit.com/r/buildapcsales/comments/1xqagbg/case_corsair_4000d_rs_argb_frame_customizable/) | 5 days ago | live as far as known |
 
@@ -158,6 +158,6 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $1099.99 | [[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off) — parts ~$1,459, saves ~$359](https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/) | 24h ago | live as far as known |
-| 🚨 $1471.04 | [[Prebuilt] Acer Nitro 60 Gaming Desktop Intel i7-14700F 32GB RAM 2TB SSD RTX 5070 Ti Refurb ($1,471.04 with coupon code) — parts ~$2,503, saves ~$1,032](https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/) | 33h ago | live as far as known |
+| 🏬 $1099.99 | [[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off) — parts ~$1,459, saves ~$359](https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/) | 26h ago | live as far as known |
+| 🚨 $1471.04 | [[Prebuilt] Acer Nitro 60 Gaming Desktop Intel i7-14700F 32GB RAM 2TB SSD RTX 5070 Ti Refurb ($1,471.04 with coupon code) — parts ~$2,503, saves ~$1,032](https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/) | 35h ago | live as far as known |
 | 🚨 $1499.99 | [[Prebuilt] PowerSpec G740 - Ryzen 7 7700X, RTX 5060 Ti 16GB, 32GB DDR5 6000, 1TB NVMe - $1499.99 @ Micro Center — parts ~$1,913, saves ~$413](https://www.reddit.com/r/buildapcsales/comments/1xseja7/prebuilt_powerspec_g740_ryzen_7_7700x_rtx_5060_ti/) | 3 days ago | live as far as known |
