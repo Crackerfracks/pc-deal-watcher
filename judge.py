@@ -86,13 +86,14 @@ def judge_prebuilt(title, price):
         notes.append(f"{gpu['vram']} GB graphics card ({'NVIDIA, best for AI and Blender' if gpu['nvidia'] else 'AMD, fine for games, weaker for AI tools and Blender'})")
     if ram_gb < 32:
         notes.append(f"{ram_gb} GB RAM, add ~${(32 - ram_gb) * RAM_PER_GB_DDR5:.0f} to reach 32 GB")
+    # Local AI is the top use, so only NVIDIA prebuilts count as great.
     savings = parts - price
     return {
         "parts_value": round(parts),
         "savings": round(savings),
         "suitable": suitable,
         "notes": notes,
-        "great": suitable and savings >= 250 and price <= PREBUILT_GREAT_MAX,
+        "great": suitable and bool(gpu and gpu["nvidia"]) and savings >= 250 and price <= PREBUILT_GREAT_MAX,
     }
 
 
