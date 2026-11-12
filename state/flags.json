@@ -1,5 +1,5 @@
 {
- "checked_at": 1794470831.807449,
+ "checked_at": 1794478032.227521,
  "great_unacknowledged": [
   {
    "id": "reddit:1xteul5",
@@ -21,7 +21,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794449240.0180943
+   "last_alerted": 1794478032.227521
   },
   {
    "id": "reddit:1xtjyfd",
@@ -57,7 +57,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794449240.0180943
+   "last_alerted": 1794478032.227521
   }
  ],
  "prebuilts_last_day": [
@@ -81,7 +81,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794449240.0180943
+   "last_alerted": 1794478032.227521
   },
   {
    "id": "reddit:1xtrt3u",
@@ -104,7 +104,7 @@
     ],
     "great": true
    },
-   "last_alerted": 1794449240.0180943
+   "last_alerted": 1794478032.227521
   }
  ]
 }
