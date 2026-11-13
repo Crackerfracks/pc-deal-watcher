@@ -38,6 +38,7 @@ DEAL_MAX_AGE_DAYS = 3
 BOARD_DAYS = 7
 HISTORY_DAYS = 90
 USER_AGENT = "pc-deal-watcher/1.0 (personal price alerts; github.com/Crackerfracks)"
+SIZE_RE = re.compile(r"\b\d+\s?tb\b", re.I)
 PRICE_RE = re.compile(r"\$\s?(\d[\d,]*(?:\.\d{1,2})?)")
 # Single parts shouldn't match whole-computer deals unless the entry says so.
 WHOLE_PC_WORDS = ["prebuilt", "laptop", "gaming desktop", "gaming pc"]
@@ -179,6 +180,17 @@ def deal_price(part, title):
     def found(text):
         prices = [float(p.replace(",", "")) for p in PRICE_RE.findall(text)]
         return [p for p in prices if p >= part.get("min_price", 0)]
+    # Titles that list several sizes ("2TB $199.99, 1TB $129.99") give each
+    # size its own price: use the prices between this part's size and the next.
+    sizes = list(SIZE_RE.finditer(title))
+    if len({m.group(0).lower().replace(" ", "") for m in sizes}) > 1:
+        want = {w.lower() for w in part.get("all", [])}
+        for i, m in enumerate(sizes):
+            if m.group(0).lower().replace(" ", "") in want:
+                end = sizes[i + 1].start() if i + 1 < len(sizes) else len(title)
+                prices = found(title[m.end():end])
+                if prices:
+                    return prices[0]
     prices = found(re.sub(r"\([^)]*\)", " ", title)) or found(title)
     return prices[-1] if prices else None
 
