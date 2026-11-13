@@ -1,33 +1,6 @@
 {
- "checked_at": 1794578834.2764268,
- "great_unacknowledged": [
-  {
-   "id": "reddit:1xtjyfd",
-   "part": "850W Gold power supply",
-   "channel": "power",
-   "price": 54.99,
-   "title": "[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
-   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/",
-   "posted": 1794409284.0,
-   "first_seen": 1794413232.1026924,
-   "great": true,
-   "last_alerted": 1794564441.8145306
-  },
-  {
-   "id": "slickdeals:thread-20297928",
-   "part": "2TB NVMe SSD",
-   "channel": "storage",
-   "price": 129.99,
-   "title": "Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99",
-   "url": "https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1794500641.0,
-   "first_seen": 1794506832.594331,
-   "great": true,
-   "last_alerted": 1794564441.8145306
-  }
- ],
+ "checked_at": 1794586034.2497854,
+ "great_unacknowledged": [],
  "prebuilts_last_day": [
   {
    "id": "reddit:1xv1hw7",
