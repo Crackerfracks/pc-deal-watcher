@@ -1,5 +1,5 @@
 {
- "checked_at": 1794557232.5801554,
+ "checked_at": 1794564441.8145306,
  "great_unacknowledged": [
   {
    "id": "reddit:1xteul5",
@@ -34,7 +34,7 @@
    "posted": 1794409284.0,
    "first_seen": 1794413232.1026924,
    "great": true,
-   "last_alerted": 1794535642.5850341
+   "last_alerted": 1794564441.8145306
   },
   {
    "id": "slickdeals:thread-20297928",
@@ -47,7 +47,7 @@
    "posted": 1794500641.0,
    "first_seen": 1794506832.594331,
    "great": true,
-   "last_alerted": 1794535642.5850341
+   "last_alerted": 1794564441.8145306
   }
  ],
  "prebuilts_last_day": [
