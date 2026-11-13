@@ -1130,7 +1130,7 @@
   "posted": 1794409284.0,
   "first_seen": 1794413232.1026924,
   "great": true,
-  "last_alerted": 1794514031.8541245
+  "last_alerted": 1794535642.5850341
  },
  {
   "id": "reddit:1xtrzid",
@@ -1227,6 +1227,7 @@
   "thread": "https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1794500641.0,
   "first_seen": 1794506832.594331,
-  "great": true
+  "great": true,
+  "last_alerted": 1794535642.5850341
  }
 ]
