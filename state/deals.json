@@ -1296,5 +1296,53 @@
   "posted": 1794585433.0,
   "first_seen": 1794586034.2497854,
   "great": false
+ },
+ {
+  "id": "reddit:1xvdtyo",
+  "part": "RTX 5070 Ti 16GB",
+  "channel": "gpu",
+  "price": 1058.83,
+  "title": "[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 \u2013 $1,058.83 @ Amazon",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/",
+  "posted": 1794590499.0,
+  "first_seen": 1794593233.2432384,
+  "great": false
+ },
+ {
+  "id": "reddit:1xvd2cb",
+  "part": "ATX mid-tower case",
+  "channel": "case-cooling",
+  "price": 69.99,
+  "title": "[Case] White CORSAIR iCUE Link 3500X RGB Case $69.99",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/",
+  "posted": 1794588836.0,
+  "first_seen": 1794593233.2432384,
+  "great": false
+ },
+ {
+  "id": "reddit:1xvcrvp",
+  "part": "Ryzen 7 5800X3D",
+  "channel": "cpu",
+  "price": 269.0,
+  "title": "[CPU] R7 5800x3d 10th anniversary edition $269.00 Newegg Doorbuster Deal 9am PT",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/",
+  "posted": 1794588197.0,
+  "first_seen": 1794593233.2432384,
+  "great": true
+ },
+ {
+  "id": "slickdeals:thread-20304810",
+  "part": "RTX 5070 Ti 16GB",
+  "channel": "gpu",
+  "price": 1059.0,
+  "title": "MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping",
+  "url": "https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794591160.0,
+  "first_seen": 1794593233.2432384,
+  "great": false
  }
 ]
