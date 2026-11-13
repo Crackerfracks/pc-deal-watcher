@@ -1271,5 +1271,18 @@
    ],
    "great": false
   }
+ },
+ {
+  "id": "reddit:1xv7jfz",
+  "part": "RX 9070 XT 16GB",
+  "channel": "gpu",
+  "price": 870.0,
+  "title": "[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870",
+  "url": "https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/",
+  "thread": "https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/",
+  "posted": 1794575588.0,
+  "first_seen": 1794578834.2764268,
+  "great": false,
+  "in_store": true
  }
 ]
