@@ -1,5 +1,5 @@
 {
- "checked_at": 1794636433.4396791,
+ "checked_at": 1794643645.99617,
  "great_unacknowledged": [
   {
    "id": "reddit:1xvcrvp",
@@ -12,51 +12,8 @@
    "posted": 1794588197.0,
    "first_seen": 1794593233.2432384,
    "great": true,
-   "last_alerted": 1794622032.3338804
+   "last_alerted": 1794643645.99617
   }
  ],
- "prebuilts_last_day": [
-  {
-   "id": "reddit:1xv1hw7",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1749.99,
-   "title": "[Prebuilt] CyberPowerPC Gaming Desktop AMD Ryzen 7 9800X3D 2024 AMD Radeon RX 9070 16GB 32GB DDR5 Memory 1TB SSD Storage Black - $1749.99",
-   "url": "https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/",
-   "thread": "https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/",
-   "posted": 1794554688.0,
-   "first_seen": 1794557232.5801554,
-   "great": false,
-   "verdict": {
-    "parts_value": 2027,
-    "savings": 277,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
-    ],
-    "great": false
-   }
-  },
-  {
-   "id": "slickdeals:thread-20301549",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1749.99,
-   "title": "CyberPowerPC - Gaming Desktop - AMD Ryzen 7 9800X3D 2024 - AMD Radeon RX 9070 16GB - 32GB DDR5 Memory - 1TB SSD Storage - Black $1749.99",
-   "url": "https://slickdeals.net/f/20301549-cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black-1749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20301549-cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black-1749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1794550123.0,
-   "first_seen": 1794557232.5801554,
-   "great": false,
-   "verdict": {
-    "parts_value": 2027,
-    "savings": 277,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)"
-    ],
-    "great": false
-   }
-  }
- ]
+ "prebuilts_last_day": []
 }
