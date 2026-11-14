@@ -1,5 +1,5 @@
 {
- "checked_at": 1794665231.5302196,
+ "checked_at": 1794672431.9987154,
  "great_unacknowledged": [
   {
    "id": "reddit:1xvcrvp",
@@ -12,7 +12,7 @@
    "posted": 1794588197.0,
    "first_seen": 1794593233.2432384,
    "great": true,
-   "last_alerted": 1794643645.99617
+   "last_alerted": 1794672431.9987154
   }
  ],
  "prebuilts_last_day": []
