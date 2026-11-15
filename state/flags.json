@@ -1,5 +1,5 @@
 {
- "checked_at": 1794715632.0874484,
+ "checked_at": 1794722833.1219926,
  "great_unacknowledged": [
   {
    "id": "reddit:1xvcrvp",
@@ -12,7 +12,7 @@
    "posted": 1794588197.0,
    "first_seen": 1794593233.2432384,
    "great": true,
-   "last_alerted": 1794694032.399812
+   "last_alerted": 1794722833.1219926
   },
   {
    "id": "slickdeals:thread-20310921",
@@ -24,7 +24,8 @@
    "thread": "https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "posted": 1794696275.0,
    "first_seen": 1794701231.743023,
-   "great": true
+   "great": true,
+   "last_alerted": 1794722833.1219926
   }
  ],
  "prebuilts_last_day": []
