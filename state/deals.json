@@ -1345,5 +1345,29 @@
   "posted": 1794591160.0,
   "first_seen": 1794593233.2432384,
   "great": false
+ },
+ {
+  "id": "slickdeals:thread-20310846",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 149.99,
+  "title": "GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99",
+  "url": "https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794694539.0,
+  "first_seen": 1794701231.743023,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20310921",
+  "part": "850W Gold power supply",
+  "channel": "power",
+  "price": 54.99,
+  "title": "$54.99 | 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794696275.0,
+  "first_seen": 1794701231.743023,
+  "great": true
  }
 ]
