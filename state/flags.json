@@ -1,5 +1,5 @@
 {
- "checked_at": 1794744432.5486765,
+ "checked_at": 1794751639.689006,
  "great_unacknowledged": [
   {
    "id": "reddit:1xvcrvp",
@@ -12,7 +12,7 @@
    "posted": 1794588197.0,
    "first_seen": 1794593233.2432384,
    "great": true,
-   "last_alerted": 1794722833.1219926
+   "last_alerted": 1794751639.689006
   },
   {
    "id": "slickdeals:thread-20310921",
@@ -25,7 +25,7 @@
    "posted": 1794696275.0,
    "first_seen": 1794701231.743023,
    "great": true,
-   "last_alerted": 1794722833.1219926
+   "last_alerted": 1794751639.689006
   }
  ],
  "prebuilts_last_day": []
