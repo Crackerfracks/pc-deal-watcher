@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-16 08:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-16 10:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -55,7 +55,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $379.99 | [[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)](https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/) | 6 days ago | live as far as known |
-| ✅ $399.99 | [[AC] $399.99 / AMD Ryzen 7 9800X3D AM5 8-Core Processor at Amazon](https://slickdeals.net/f/20280777-ac-399-99-amd-ryzen-7-9800x3d-am5-8-core-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
+| ✅ $399.99 | [[AC] $399.99 / AMD Ryzen 7 9800X3D AM5 8-Core Processor at Amazon](https://slickdeals.net/f/20280777-ac-399-99-amd-ryzen-7-9800x3d-am5-8-core-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | ✅ $400 | [[CPU] AMD RYZEN 7 9800X3D, Amazon S/S, $400](https://www.reddit.com/r/buildapcsales/comments/1xs6b9z/cpu_amd_ryzen_7_9800x3d_amazon_ss_400/) | 6 days ago | live as far as known |
 
@@ -77,7 +77,7 @@ No recent deals.
 |---|---|---|---|
 | 🚨 $104.99 | [[Motherboard] Gigabyte B650 GAMING X AX V2 AMD AM5 - $104.99 (30% off)](https://www.reddit.com/r/buildapcsales/comments/1xs7xcu/motherboard_gigabyte_b650_gaming_x_ax_v2_amd_am5/) | 6 days ago | expired after ~4h |
 | ✅ $141 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141](https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
-| ✅ $149.99 | [GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99](https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
+| ✅ $149.99 | [GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99](https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 36h ago | live as far as known |
 | $173.99 | [$173.99* / ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20289471-173-99-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
@@ -129,7 +129,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $54.99 | [[PSU] ASRock PRO 850G Power Supply - 850W 80 Plus Gold Certified, ATX 3.1 & PCIe 5.1 Ready, Native 12V-2x6 Connector, 120mm Low-Noise Fan, 3-Year Warranty - $54.99](https://www.reddit.com/r/buildapcsales/comments/1xtjyfd/psu_asrock_pro_850g_power_supply_850w_80_plus/) | 5 days ago | live as far as known |
-| 🚨 $54.99 | [$54.99 / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon + Free Shipping w/ Prime or on $35+](https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
+| 🚨 $54.99 | [$54.99 / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon + Free Shipping w/ Prime or on $35+](https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2) | 35h ago | live as far as known |
 | ✅ $72.99 | [[PSU] Corsair RM850e (2025) 850W 80+ Gold, Fully Modular, ATX 3.1 / PCIe 5.1, Native 12V-2x6 is $72.99 at Amazon](https://www.reddit.com/r/buildapcsales/comments/1xrw23d/psu_corsair_rm850e_2025_850w_80_gold_fully/) | 7 days ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $89.99) — in Only if adding a 3090 later
