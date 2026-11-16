@@ -1369,6 +1369,18 @@
   "posted": 1794696275.0,
   "first_seen": 1794701231.743023,
   "great": true,
-  "last_alerted": 1794823641.598942
+  "last_alerted": 1794848844.0597904
+ },
+ {
+  "id": "slickdeals:thread-20319699",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 399.99,
+  "title": "AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99",
+  "url": "https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1794840194.0,
+  "first_seen": 1794848844.0597904,
+  "great": false
  }
 ]
