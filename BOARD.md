@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-17 12:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-17 14:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -56,7 +56,7 @@ No recent deals.
 |---|---|---|---|
 | 🏬 $379.99 | [[CPU] AMD Ryzen 7 9800x3d - $379.99 (microcenter in store)](https://www.reddit.com/r/buildapcsales/comments/1xsp3bn/cpu_amd_ryzen_7_9800x3d_37999_microcenter_in_store/) | 7 days ago | live as far as known |
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 21h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 23h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -113,7 +113,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 5 days ago | live as far as known |
-| $199.24 | [[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)](https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/) | 6 days ago | live as far as known |
+| $199.24 | [[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)](https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/) | 7 days ago | live as far as known |
 | $199.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### 1TB NVMe SSD (target $90) — in Cheaper start for both builds
