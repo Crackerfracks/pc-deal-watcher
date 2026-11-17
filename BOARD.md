@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-17 16:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-17 18:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -20,8 +20,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 5 days ago | live as far as known |
-| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 5 days ago | live as far as known |
+| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 6 days ago | live as far as known |
+| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 6 days ago | live as far as known |
 | $1058.83 | [[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 – $1,058.83 @ Amazon](https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/) | 4 days ago | live as far as known |
 | $1059 | [MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping](https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
@@ -30,7 +30,6 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $749.99 | [[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)](https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/) | 6 days ago | live as far as known |
-| $799 | [[GPU] - GIGABYTE GIGABYTE Radeon RX 9070 XT Gaming OC - $799 (WOOT)](https://www.reddit.com/r/buildapcsales/comments/1xssulj/gpu_gigabyte_gigabyte_radeon_rx_9070_xt_gaming_oc/) | 7 days ago | expired after ~1h |
 | 🏬 $870 | [[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870](https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/) | 4 days ago | live as far as known |
 | $870 | [[Micro Center] PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 GPU $870 + Free Store Pickup](https://slickdeals.net/f/20304153-micro-center-powercolor-amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-5-0-gpu-870-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
@@ -55,7 +54,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 25h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -139,7 +138,6 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $49.7 | [[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke / 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70](https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/) | 6 days ago | live as far as known |
-| ✅ $54.12 | [[Case] Lian-Li Case LANCOOL 216X Mid Tower Black $54.12](https://www.reddit.com/r/buildapcsales/comments/1xsta2u/case_lianli_case_lancool_216x_mid_tower_black_5412/) | 7 days ago | live as far as known |
 | ✅ $69.99 | [[Case] White CORSAIR iCUE Link 3500X RGB Case $69.99](https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/) | 4 days ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
