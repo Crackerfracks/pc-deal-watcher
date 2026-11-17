@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-17 18:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-17 20:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -54,7 +54,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 29h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -154,5 +154,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 |---|---|---|---|
 | 🏬 $1099.99 | [[Prebuilt] Microcenter In-Store Austin, TX - PowerSpec G538 Gaming PC AMD Ryzen 5 7500X3D 4.0GHz Processor; AMD Radeon RX 9060XT 16GB GDDR6; 16GB DDR5-6000 RAM; 1TB Solid State Drive - $1,099.99 ($600 off) — parts ~$1,459, saves ~$359](https://www.reddit.com/r/buildapcsales/comments/1xtrt3u/prebuilt_microcenter_instore_austin_tx_powerspec/) | 6 days ago | live as far as known |
 | 🚨 $1471.04 | [[Prebuilt] Acer Nitro 60 Gaming Desktop Intel i7-14700F 32GB RAM 2TB SSD RTX 5070 Ti Refurb ($1,471.04 with coupon code) — parts ~$2,503, saves ~$1,032](https://www.reddit.com/r/buildapcsales/comments/1xteul5/prebuilt_acer_nitro_60_gaming_desktop_intel/) | 6 days ago | live as far as known |
-| $1749.99 | [[Prebuilt] CyberPowerPC Gaming Desktop AMD Ryzen 7 9800X3D 2024 AMD Radeon RX 9070 16GB 32GB DDR5 Memory 1TB SSD Storage Black - $1749.99 — parts ~$2,027, saves ~$277](https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/) | 4 days ago | live as far as known |
-| $1749.99 | [CyberPowerPC - Gaming Desktop - AMD Ryzen 7 9800X3D 2024 - AMD Radeon RX 9070 16GB - 32GB DDR5 Memory - 1TB SSD Storage - Black $1749.99 — parts ~$2,027, saves ~$277](https://slickdeals.net/f/20301549-cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black-1749-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| $1749.99 | [[Prebuilt] CyberPowerPC Gaming Desktop AMD Ryzen 7 9800X3D 2024 AMD Radeon RX 9070 16GB 32GB DDR5 Memory 1TB SSD Storage Black - $1749.99 — parts ~$2,027, saves ~$277](https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/) | 5 days ago | live as far as known |
+| $1749.99 | [CyberPowerPC - Gaming Desktop - AMD Ryzen 7 9800X3D 2024 - AMD Radeon RX 9070 16GB - 32GB DDR5 Memory - 1TB SSD Storage - Black $1749.99 — parts ~$2,027, saves ~$277](https://slickdeals.net/f/20301549-cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black-1749-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
