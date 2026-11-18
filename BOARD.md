@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-18 00:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-18 02:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -30,7 +30,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $749.99 | [[GPU] Microcenter In-Store Austin, TX - PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card - $749.99 ($430 off)](https://www.reddit.com/r/buildapcsales/comments/1xtrzid/gpu_microcenter_instore_austin_tx_powercolor_amd/) | 6 days ago | live as far as known |
-| 🏬 $870 | [[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870](https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/) | 4 days ago | live as far as known |
+| 🏬 $870 | [[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870](https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/) | 5 days ago | live as far as known |
 | $870 | [[Micro Center] PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 GPU $870 + Free Store Pickup](https://slickdeals.net/f/20304153-micro-center-powercolor-amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-5-0-gpu-870-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
@@ -54,7 +54,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 35h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -111,7 +111,6 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 5 days ago | live as far as known |
-| $199.24 | [[SSD] Crucial P5 Plus 2TB Gen4 NVMe M.2 SSD with Heatsink - $199.24 (Up to 6600MB/s, PS5 Compatible)](https://www.reddit.com/r/buildapcsales/comments/1xt4grg/ssd_crucial_p5_plus_2tb_gen4_nvme_m2_ssd_with/) | 7 days ago | live as far as known |
 | $199.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### 1TB NVMe SSD (target $90) — in Cheaper start for both builds
