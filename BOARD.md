@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-18 16:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-18 18:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -20,8 +20,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 6 days ago | live as far as known |
-| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 6 days ago | live as far as known |
+| $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 7 days ago | live as far as known |
+| $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 7 days ago | live as far as known |
 | $1058.83 | [[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 – $1,058.83 @ Amazon](https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/) | 5 days ago | live as far as known |
 | $1059 | [MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping](https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
