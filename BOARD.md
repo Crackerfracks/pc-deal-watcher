@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-18 08:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-18 10:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -54,7 +54,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 41h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 43h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
