@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-18 04:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-18 06:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -22,8 +22,8 @@ No recent deals.
 |---|---|---|---|
 | $999 | [[GPU] PNY NVIDIA GeForce RTX™ 5070 Ti OC Triple Fan, Graphics Card 16GB GDDR7, 2.98-Slot - $999](https://www.reddit.com/r/buildapcsales/comments/1xu4iha/gpu_pny_nvidia_geforce_rtx_5070_ti_oc_triple_fan/) | 6 days ago | live as far as known |
 | $999.99 | [[GPU] PNY 5070 Ti 16GB [Walmart] - ($999.99)](https://www.reddit.com/r/buildapcsales/comments/1xu4epg/gpu_pny_5070_ti_16gb_walmart_99999/) | 6 days ago | live as far as known |
-| $1058.83 | [[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 – $1,058.83 @ Amazon](https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/) | 4 days ago | live as far as known |
-| $1059 | [MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping](https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| $1058.83 | [[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 – $1,058.83 @ Amazon](https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/) | 5 days ago | live as far as known |
+| $1059 | [MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping](https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
@@ -54,7 +54,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20289642-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 37h ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 39h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -64,7 +64,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $269 | [[CPU] R7 5800x3d 10th anniversary edition $269.00 Newegg Doorbuster Deal 9am PT](https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/) | 4 days ago | live as far as known |
+| 🚨 $269 | [[CPU] R7 5800x3d 10th anniversary edition $269.00 Newegg Doorbuster Deal 9am PT](https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/) | 5 days ago | live as far as known |
 
 ## Motherboards
 
@@ -72,7 +72,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $141 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141](https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| ✅ $141 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX motherboard with 14+2+1 power stages $141](https://slickdeals.net/f/20298180-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-with-14-2-1-power-stages-141?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 | ✅ $149.99 | [GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99](https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | $173.99 | [$173.99* / ASUS ROG Strix B850-A Gaming WiFi AM5 ATX Motherboard at Amazon](https://slickdeals.net/f/20289471-173-99-asus-rog-strix-b850-a-gaming-wifi-am5-atx-motherboard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 
@@ -108,8 +108,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 5 days ago | live as far as known |
-| $199.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| $199 | [[SSD] Verbatim Vi7000 2TB PCIe 4.0 NVMe M.2 SSD w/ DRAM + Heatsink is $199 at Walmart](https://www.reddit.com/r/buildapcsales/comments/1xugr7q/ssd_verbatim_vi7000_2tb_pcie_40_nvme_m2_ssd_w/) | 6 days ago | live as far as known |
+| $199.99 | [Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD Gen 4 $199.99 1TB for $129.99](https://slickdeals.net/f/20297928-verbatim-2tb-vi7000-pcie-nvme-m-2-2280-internal-ssd-gen-4-199-99-1tb-for-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### 1TB NVMe SSD (target $90) — in Cheaper start for both builds
 
@@ -135,7 +135,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $49.7 | [[Case] CORSAIR 3200D RS ARGB Mid-Tower PC Case – Smoke / 3x RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth - $49.70](https://www.reddit.com/r/buildapcsales/comments/1xtk3wr/case_corsair_3200d_rs_argb_midtower_pc_case_smoke/) | 7 days ago | live as far as known |
-| ✅ $69.99 | [[Case] White CORSAIR iCUE Link 3500X RGB Case $69.99](https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/) | 4 days ago | live as far as known |
+| ✅ $69.99 | [[Case] White CORSAIR iCUE Link 3500X RGB Case $69.99](https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/) | 5 days ago | live as far as known |
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
