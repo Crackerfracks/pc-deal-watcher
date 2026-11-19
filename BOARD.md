@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-18 22:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-19 00:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
