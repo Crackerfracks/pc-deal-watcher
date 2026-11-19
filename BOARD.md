@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-19 06:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-19 08:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -142,5 +142,6 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
+| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
 | $1749.99 | [[Prebuilt] CyberPowerPC Gaming Desktop AMD Ryzen 7 9800X3D 2024 AMD Radeon RX 9070 16GB 32GB DDR5 Memory 1TB SSD Storage Black - $1749.99 — parts ~$2,027, saves ~$277](https://www.reddit.com/r/buildapcsales/comments/1xv1hw7/prebuilt_cyberpowerpc_gaming_desktop_amd_ryzen_7/) | 6 days ago | live as far as known |
 | $1749.99 | [CyberPowerPC - Gaming Desktop - AMD Ryzen 7 9800X3D 2024 - AMD Radeon RX 9070 16GB - 32GB DDR5 Memory - 1TB SSD Storage - Black $1749.99 — parts ~$2,027, saves ~$277](https://slickdeals.net/f/20301549-cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black-1749-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
