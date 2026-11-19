@@ -1,6 +1,19 @@
 {
- "checked_at": 1795075634.1387787,
- "great_unacknowledged": [],
+ "checked_at": 1795082832.1948578,
+ "great_unacknowledged": [
+  {
+   "id": "slickdeals:thread-20340399",
+   "part": "850W Gold power supply",
+   "channel": "power",
+   "price": 59.99,
+   "title": "850W darkFlash PMT850 Fully Modular 80 Plus Gold ATX 3.1 PCIe 5.1 PSU (Black) $59.99 + Free Shipping w/ Prime or $6 Fee per Order",
+   "url": "https://slickdeals.net/f/20340399-850w-darkflash-pmt850-fully-modular-80-plus-gold-atx-3-1-pcie-5-1-psu-black-59-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "thread": "https://slickdeals.net/f/20340399-850w-darkflash-pmt850-fully-modular-80-plus-gold-atx-3-1-pcie-5-1-psu-black-59-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "posted": 1795077050.0,
+   "first_seen": 1795082832.1948578,
+   "great": true
+  }
+ ],
  "prebuilts_last_day": [
   {
    "id": "slickdeals:thread-20339052",
