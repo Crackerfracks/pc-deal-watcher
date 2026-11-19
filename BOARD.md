@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-19 02:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-19 04:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -30,7 +30,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🏬 $870 | [[GPU] MicroCenter In-Store Only - Radeon RX 9070XT Hellhound - $870](https://www.reddit.com/r/buildapcsales/comments/1xv7jfz/gpu_microcenter_instore_only_radeon_rx_9070xt/) | 6 days ago | live as far as known |
-| $870 | [[Micro Center] PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 GPU $870 + Free Store Pickup](https://slickdeals.net/f/20304153-micro-center-powercolor-amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-5-0-gpu-870-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| $870 | [[Micro Center] PowerColor AMD Radeon RX 9070 XT Hellhound Overclocked Triple Fan 16GB GDDR6 PCIe 5.0 GPU $870 + Free Store Pickup](https://slickdeals.net/f/20304153-micro-center-powercolor-amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-5-0-gpu-870-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -52,7 +52,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| ✅ $399.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 360mm Digital ARGB Gaming AIO CPU Cooler $399.99](https://slickdeals.net/f/20319699-amd-ryzen-7-9800x3d-rosewill-frostmax-360mm-digital-argb-gaming-aio-cpu-cooler-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
