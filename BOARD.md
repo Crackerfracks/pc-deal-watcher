@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-20 16:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-20 18:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -18,10 +18,7 @@ No recent deals.
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| $1058.83 | [[GPU] MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 – $1,058.83 @ Amazon](https://www.reddit.com/r/buildapcsales/comments/1xvdtyo/gpu_msi_geforce_rtx_5070_ti_shadow_3x_oc_16gb/) | 7 days ago | live as far as known |
-| $1059 | [MSI GeForce RTX 5070 Ti Shadow 3X OC 16GB GDDR7 Graphics Card $1059 or less + Free Shipping](https://slickdeals.net/f/20304810-msi-geforce-rtx-5070-ti-shadow-3x-oc-16gb-gddr7-graphics-card-1059-or-less-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
+No recent deals.
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
@@ -55,9 +52,7 @@ No recent deals.
 
 ### Ryzen 7 5800X3D (target $300, lowest seen in 90 days $269) — in Build A (AM4) later upgrade
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| 🚨 $269 | [[CPU] R7 5800x3d 10th anniversary edition $269.00 Newegg Doorbuster Deal 9am PT](https://www.reddit.com/r/buildapcsales/comments/1xvcrvp/cpu_r7_5800x3d_10th_anniversary_edition_26900/) | 7 days ago | live as far as known |
+No recent deals.
 
 ## Motherboards
 
@@ -66,7 +61,7 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $149.99 | [GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99](https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| $179 | [GIGABYTE B850 AORUS Elite WIFI7 AMD AM5 ATX Motherboard w/ DDR5, PCIe 5.0 & 3x M.2 $179 + Free Shipping](https://slickdeals.net/f/20340807-gigabyte-b850-aorus-elite-wifi7-amd-am5-atx-motherboard-w-ddr5-pcie-5-0-3x-m-2-179-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 31h ago | live as far as known |
+| $179 | [GIGABYTE B850 AORUS Elite WIFI7 AMD AM5 ATX Motherboard w/ DDR5, PCIe 5.0 & 3x M.2 $179 + Free Shipping](https://slickdeals.net/f/20340807-gigabyte-b850-aorus-elite-wifi7-amd-am5-atx-motherboard-w-ddr5-pcie-5-0-3x-m-2-179-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -111,22 +106,20 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $54.99 | [$54.99 / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon + Free Shipping w/ Prime or on $35+](https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| 🚨 $59.99 | [850W darkFlash PMT850 Fully Modular 80 Plus Gold ATX 3.1 PCIe 5.1 PSU (Black) $59.99 + Free Shipping w/ Prime or $6 Fee per Order](https://slickdeals.net/f/20340399-850w-darkflash-pmt850-fully-modular-80-plus-gold-atx-3-1-pcie-5-1-psu-black-59-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2) | 32h ago | live as far as known |
-| ✅ $74.99 | [Thermaltake Toughpower GT 850W ATX 3.1 Standard Power Supply; 80 Plus Gold Efficiency; Smart Zero Fan; Native 450W PCIe 5.1 Connector $74.99](https://slickdeals.net/f/20341854-thermaltake-toughpower-gt-850w-atx-3-1-standard-power-supply-80-plus-gold-efficiency-smart-zero-fan-native-450w-pcie-5-1-connector-74-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 30h ago | live as far as known |
+| 🚨 $59.99 | [850W darkFlash PMT850 Fully Modular 80 Plus Gold ATX 3.1 PCIe 5.1 PSU (Black) $59.99 + Free Shipping w/ Prime or $6 Fee per Order](https://slickdeals.net/f/20340399-850w-darkflash-pmt850-fully-modular-80-plus-gold-atx-3-1-pcie-5-1-psu-black-59-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2) | 34h ago | live as far as known |
+| ✅ $74.99 | [Thermaltake Toughpower GT 850W ATX 3.1 Standard Power Supply; 80 Plus Gold Efficiency; Smart Zero Fan; Native 450W PCIe 5.1 Connector $74.99](https://slickdeals.net/f/20341854-thermaltake-toughpower-gt-850w-atx-3-1-standard-power-supply-80-plus-gold-efficiency-smart-zero-fan-native-450w-pcie-5-1-connector-74-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 32h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $89.99) — in Only if adding a 3090 later
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $89.99 | [MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 $99.99 - $10 Rebate = $89.99](https://slickdeals.net/f/20340759-msi-mpg-a1000gs-pcie5-ii-fully-modular-gaming-1000w-power-supply-80-gold-atx-3-1-pcie-5-1-99-99-10-rebate-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 31h ago | live as far as known |
+| 🚨 $89.99 | [MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 $99.99 - $10 Rebate = $89.99](https://slickdeals.net/f/20340759-msi-mpg-a1000gs-pcie5-ii-fully-modular-gaming-1000w-power-supply-80-gold-atx-3-1-pcie-5-1-99-99-10-rebate-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
 
 ## Cases and cooling
 
 ### ATX mid-tower case (target $70, lowest seen in 90 days $49.7) — in Build A (AM4), Build B (AM5)
 
-| Price | Deal | Posted | Status |
-|---|---|---|---|
-| ✅ $69.99 | [[Case] White CORSAIR iCUE Link 3500X RGB Case $69.99](https://www.reddit.com/r/buildapcsales/comments/1xvd2cb/case_white_corsair_icue_link_3500x_rgb_case_6999/) | 7 days ago | live as far as known |
+No recent deals.
 
 ### Tower air cooler (target $25, lowest seen in 90 days $17.42) — in Only for an X3D upgrade
 
@@ -140,5 +133,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 33h ago | live as far as known |
-| $1639.99 | [Skytech Gaming - KING95 Gaming Desktop PC - AMD Ryzen 7 9700X (2024) - 16GB Memory - NVIDIA GeForce RTX 5060 Ti 16GB - 1TB NVMe Storage - White 1639.99 at Best Buy $1639.99 — parts ~$1,739, saves ~$99](https://slickdeals.net/f/20345874-skytech-gaming-king95-gaming-desktop-pc-amd-ryzen-7-9700x-2024-16gb-memory-nvidia-geforce-rtx-5060-ti-16gb-1tb-nvme-storage-white-1639-99-at-best-buy-1639-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 25h ago | live as far as known |
+| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 35h ago | live as far as known |
+| $1639.99 | [Skytech Gaming - KING95 Gaming Desktop PC - AMD Ryzen 7 9700X (2024) - 16GB Memory - NVIDIA GeForce RTX 5060 Ti 16GB - 1TB NVMe Storage - White 1639.99 at Best Buy $1639.99 — parts ~$1,739, saves ~$99](https://slickdeals.net/f/20345874-skytech-gaming-king95-gaming-desktop-pc-amd-ryzen-7-9700x-2024-16gb-memory-nvidia-geforce-rtx-5060-ti-16gb-1tb-nvme-storage-white-1639-99-at-best-buy-1639-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
