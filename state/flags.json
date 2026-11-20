@@ -1,5 +1,5 @@
 {
- "checked_at": 1795162032.609182,
+ "checked_at": 1795169233.1425915,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20340399",
@@ -28,28 +28,6 @@
   }
  ],
  "prebuilts_last_day": [
-  {
-   "id": "slickdeals:thread-20339052",
-   "part": "Prebuilt with 16GB+ card",
-   "channel": "prebuilt",
-   "price": 1109.99,
-   "title": "Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99",
-   "url": "https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1795071647.0,
-   "first_seen": 1795075634.1387787,
-   "great": false,
-   "verdict": {
-    "parts_value": 1439,
-    "savings": 329,
-    "suitable": true,
-    "notes": [
-     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
-     "16 GB RAM, add ~$224 to reach 32 GB"
-    ],
-    "great": false
-   }
-  },
   {
    "id": "slickdeals:thread-20345874",
    "part": "Prebuilt with 16GB+ card",
