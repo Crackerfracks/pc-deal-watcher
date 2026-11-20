@@ -1440,7 +1440,7 @@
   "posted": 1795077050.0,
   "first_seen": 1795082832.1948578,
   "great": true,
-  "last_alerted": 1795133234.7174928
+  "last_alerted": 1795162032.609182
  },
  {
   "id": "slickdeals:thread-20345874",
@@ -1463,5 +1463,17 @@
    ],
    "great": false
   }
+ },
+ {
+  "id": "slickdeals:thread-20340759",
+  "part": "1000W Gold power supply",
+  "channel": "power",
+  "price": 89.99,
+  "title": "MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, ATX 3.1 & PCIe 5.1 $99.99 - $10 Rebate = $89.99",
+  "url": "https://slickdeals.net/f/20340759-msi-mpg-a1000gs-pcie5-ii-fully-modular-gaming-1000w-power-supply-80-gold-atx-3-1-pcie-5-1-99-99-10-rebate-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20340759-msi-mpg-a1000gs-pcie5-ii-fully-modular-gaming-1000w-power-supply-80-gold-atx-3-1-pcie-5-1-99-99-10-rebate-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795078153.0,
+  "first_seen": 1795162032.609182,
+  "great": true
  }
 ]
