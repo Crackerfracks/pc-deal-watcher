@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-21 18:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-21 20:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -133,5 +133,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | $1639.99 | [Skytech Gaming - KING95 Gaming Desktop PC - AMD Ryzen 7 9700X (2024) - 16GB Memory - NVIDIA GeForce RTX 5060 Ti 16GB - 1TB NVMe Storage - White 1639.99 at Best Buy $1639.99 — parts ~$1,739, saves ~$99](https://slickdeals.net/f/20345874-skytech-gaming-king95-gaming-desktop-pc-amd-ryzen-7-9700x-2024-16gb-memory-nvidia-geforce-rtx-5060-ti-16gb-1tb-nvme-storage-white-1639-99-at-best-buy-1639-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
