@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-21 22:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-22 00:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -60,7 +60,6 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $149.99 | [GIGABYTE - B650 AORUS ELITE AX (Socket AM5) AMD B650 ATX DDR5 Wi-Fi 6E Motherboard - $149.99](https://slickdeals.net/f/20310846-gigabyte-b650-aorus-elite-ax-socket-am5-amd-b650-atx-ddr5-wi-fi-6e-motherboard-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | $179 | [GIGABYTE B850 AORUS Elite WIFI7 AMD AM5 ATX Motherboard w/ DDR5, PCIe 5.0 & 3x M.2 $179 + Free Shipping](https://slickdeals.net/f/20340807-gigabyte-b850-aorus-elite-wifi7-amd-am5-atx-motherboard-w-ddr5-pcie-5-0-3x-m-2-179-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
@@ -105,7 +104,6 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $54.99 | [$54.99 / 850W ASRock PRO-850G 80 Plus Gold ATX 3.1 Power Supply at Amazon + Free Shipping w/ Prime or on $35+](https://slickdeals.net/f/20310921-54-99-850w-asrock-pro-850g-80-plus-gold-atx-3-1-power-supply-at-amazon-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2) | 7 days ago | live as far as known |
 | 🚨 $59.99 | [850W darkFlash PMT850 Fully Modular 80 Plus Gold ATX 3.1 PCIe 5.1 PSU (Black) $59.99 + Free Shipping w/ Prime or $6 Fee per Order](https://slickdeals.net/f/20340399-850w-darkflash-pmt850-fully-modular-80-plus-gold-atx-3-1-pcie-5-1-psu-black-59-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 | ✅ $74.99 | [Thermaltake Toughpower GT 850W ATX 3.1 Standard Power Supply; 80 Plus Gold Efficiency; Smart Zero Fan; Native 450W PCIe 5.1 Connector $74.99](https://slickdeals.net/f/20341854-thermaltake-toughpower-gt-850w-atx-3-1-standard-power-supply-80-plus-gold-efficiency-smart-zero-fan-native-450w-pcie-5-1-connector-74-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
