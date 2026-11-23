@@ -1476,5 +1476,29 @@
   "first_seen": 1795162032.609182,
   "great": true,
   "last_alerted": 1795306033.2683866
+ },
+ {
+  "id": "slickdeals:thread-20371881",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 399.0,
+  "title": "[AC] $399* | AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon",
+  "url": "https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795384469.0,
+  "first_seen": 1795406831.685706,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20370198",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 173.99,
+  "title": "ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe\u00ae 5.0, USB 20Gbps Type-C - $173.99",
+  "url": "https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795360672.0,
+  "first_seen": 1795406831.685706,
+  "great": false
  }
 ]
