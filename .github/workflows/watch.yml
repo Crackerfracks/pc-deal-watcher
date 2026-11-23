@@ -1,7 +1,7 @@
 name: Watch for PC part deals
 
 on:
-  # No GitHub schedule: it skipped most runs on this private repo and ran the
+  # No GitHub schedule: it skipped most runs and ran the
   # rest hours late. A cron-job.org job starts this workflow every 2 hours
   # (7 past each odd hour, Eastern) through the workflow_dispatch API instead.
   workflow_dispatch:

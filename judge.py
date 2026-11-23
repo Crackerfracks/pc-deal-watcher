@@ -41,8 +41,7 @@ RAM_PER_GB_DDR5 = 14.0  # ~$449 for 32 GB
 SSD_PRICE = {1: 120, 2: 210, 4: 380}
 # Motherboard, power supply, case and cooler together.
 PLATFORM_BASE = 365
-# Stephen's budget is $1,500 to start; a prebuilt far past it isn't a great
-# deal for him however much it saves.
+# A prebuilt far past the budget isn't a great deal however much it saves.
 PREBUILT_GREAT_MAX = 1800
 
 

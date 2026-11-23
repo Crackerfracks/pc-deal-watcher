@@ -43,8 +43,7 @@ PRICE_RE = re.compile(r"\$\s?(\d[\d,]*(?:\.\d{1,2})?)")
 # Single parts shouldn't match whole-computer deals unless the entry says so.
 WHOLE_PC_WORDS = ["prebuilt", "laptop", "gaming desktop", "gaming pc"]
 EXPIRED_FLAIRS = ("Expired", "Out of Stock", "Sold Out")
-# Stephen doesn't drive and the nearest Micro Center is in Cambridge, MA, so
-# in-store-only deals go on the board but don't alert unless the watchlist's
+# In-store-only deals go on the board but don't alert unless the watchlist's
 # "alert_in_store_only" is true.
 # In-store-only deals: "in-store only", "Micro Center in-store", or a store
 # named by city and state, like "In-Store Austin, TX".
