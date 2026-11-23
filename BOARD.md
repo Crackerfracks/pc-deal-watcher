@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-23 18:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-23 20:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -44,7 +44,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $399 | [[AC] $399* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 20h ago | live as far as known |
+| ✅ $399 | [[AC] $399* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 22h ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
 
@@ -60,7 +60,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
+| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 29h ago | live as far as known |
 | $179 | [GIGABYTE B850 AORUS Elite WIFI7 AMD AM5 ATX Motherboard w/ DDR5, PCIe 5.0 & 3x M.2 $179 + Free Shipping](https://slickdeals.net/f/20340807-gigabyte-b850-aorus-elite-wifi7-amd-am5-atx-motherboard-w-ddr5-pcie-5-0-3x-m-2-179-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
@@ -132,5 +132,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 | $1639.99 | [Skytech Gaming - KING95 Gaming Desktop PC - AMD Ryzen 7 9700X (2024) - 16GB Memory - NVIDIA GeForce RTX 5060 Ti 16GB - 1TB NVMe Storage - White 1639.99 at Best Buy $1639.99 — parts ~$1,739, saves ~$99](https://slickdeals.net/f/20345874-skytech-gaming-king95-gaming-desktop-pc-amd-ryzen-7-9700x-2024-16gb-memory-nvidia-geforce-rtx-5060-ti-16gb-1tb-nvme-storage-white-1639-99-at-best-buy-1639-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
