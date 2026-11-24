@@ -1522,5 +1522,17 @@
    ],
    "great": false
   }
+ },
+ {
+  "id": "slickdeals:thread-20386572",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 350.0,
+  "title": "AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350",
+  "url": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795530213.0,
+  "first_seen": 1795536432.5632193,
+  "great": true
  }
 ]
