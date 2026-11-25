@@ -1,5 +1,5 @@
 {
- "checked_at": 1795558032.0116153,
+ "checked_at": 1795565231.356681,
  "great_unacknowledged": [
   {
    "id": "slickdeals:thread-20386572",
@@ -11,7 +11,8 @@
    "thread": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "posted": 1795530213.0,
    "first_seen": 1795536432.5632193,
-   "great": true
+   "great": true,
+   "last_alerted": 1795565231.356681
   }
  ],
  "prebuilts_last_day": [

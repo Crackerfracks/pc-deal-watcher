@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-24 22:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-25 00:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -44,7 +44,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 8h ago | live as far as known |
+| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 10h ago | live as far as known |
 | ✅ $399 | [[AC] $399* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
@@ -134,5 +134,5 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | ✅ $1109.99 | [Acer Nitro 65 Gaming Desktop: AMD Ryzen 7 8700F, Radeon RX 9060 XT 16GB, 16GB DDR5, 1TB SSD $1109.99 — parts ~$1,439, saves ~$329](https://slickdeals.net/f/20339052-acer-nitro-65-gaming-desktop-amd-ryzen-7-8700f-radeon-rx-9060-xt-16gb-16gb-ddr5-1tb-ssd-1109-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
-| $1539.99 | [iBUYPOWER Element Gaming PC: Ryzen 7 8700F, RX 9070 GRE (12GB), 16GB DDR5, 1TB SSD $1539.99 — parts ~$1,489, saves ~$-51](https://slickdeals.net/f/20383539-ibuypower-element-gaming-pc-ryzen-7-8700f-rx-9070-gre-12gb-16gb-ddr5-1tb-ssd-1539-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 17h ago | live as far as known |
+| $1539.99 | [iBUYPOWER Element Gaming PC: Ryzen 7 8700F, RX 9070 GRE (12GB), 16GB DDR5, 1TB SSD $1539.99 — parts ~$1,489, saves ~$-51](https://slickdeals.net/f/20383539-ibuypower-element-gaming-pc-ryzen-7-8700f-rx-9070-gre-12gb-16gb-ddr5-1tb-ssd-1539-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 19h ago | live as far as known |
 | $1639.99 | [Skytech Gaming - KING95 Gaming Desktop PC - AMD Ryzen 7 9700X (2024) - 16GB Memory - NVIDIA GeForce RTX 5060 Ti 16GB - 1TB NVMe Storage - White 1639.99 at Best Buy $1639.99 — parts ~$1,739, saves ~$99](https://slickdeals.net/f/20345874-skytech-gaming-king95-gaming-desktop-pc-amd-ryzen-7-9700x-2024-16gb-memory-nvidia-geforce-rtx-5060-ti-16gb-1tb-nvme-storage-white-1639-99-at-best-buy-1639-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
