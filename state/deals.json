@@ -1534,7 +1534,7 @@
   "posted": 1795530213.0,
   "first_seen": 1795536432.5632193,
   "great": true,
-  "last_alerted": 1795615635.7579744
+  "last_alerted": 1795644433.0421565
  },
  {
   "id": "slickdeals:thread-20395212",
@@ -1546,6 +1546,18 @@
   "thread": "https://slickdeals.net/f/20395212-crucial-p3-1tb-nvme-m-2-ssd-ct1000p3ssd8-71-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1795620601.0,
   "first_seen": 1795622832.4370427,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20397543",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 369.99,
+  "title": "AMD Ryzen 7 9800X3D CPU w/ Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler = $369 @ Newegg $369.99",
+  "url": "https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795637777.0,
+  "first_seen": 1795644433.0421565,
   "great": false
  }
 ]
