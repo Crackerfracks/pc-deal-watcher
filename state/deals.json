@@ -1596,5 +1596,17 @@
   "posted": 1795655372.0,
   "first_seen": 1795658837.2717962,
   "great": false
+ },
+ {
+  "id": "slickdeals:thread-20402367",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 369.99,
+  "title": "[AC] $369.99* | AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon",
+  "url": "https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795680190.0,
+  "first_seen": 1795680432.9706516,
+  "great": false
  }
 ]
