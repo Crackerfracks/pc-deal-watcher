@@ -1571,7 +1571,7 @@
   "posted": 1795645619.0,
   "first_seen": 1795651631.6638062,
   "great": true,
-  "last_alerted": 1795774036.1024537
+  "last_alerted": 1795802831.2468514
  },
  {
   "id": "slickdeals:thread-20399421",
@@ -1668,6 +1668,18 @@
   "thread": "https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "posted": 1795785970.0,
   "first_seen": 1795788437.0585744,
+  "great": false
+ },
+ {
+  "id": "slickdeals:thread-20418477",
+  "part": "B650/B850 ATX Wi-Fi board",
+  "channel": "motherboard",
+  "price": 152.06,
+  "title": "GIGABYTE B850 AORUS Elite WIFI7 ICE AMD AM5 ATX Motherboard $152.06 + Free Shipping",
+  "url": "https://slickdeals.net/f/20418477-gigabyte-b850-aorus-elite-wifi7-ice-amd-am5-atx-motherboard-152-06-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20418477-gigabyte-b850-aorus-elite-wifi7-ice-amd-am5-atx-motherboard-152-06-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795798211.0,
+  "first_seen": 1795802831.2468514,
   "great": false
  }
 ]
