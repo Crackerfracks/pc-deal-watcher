@@ -1657,5 +1657,17 @@
   "posted": 1795780896.0,
   "first_seen": 1795781232.6753209,
   "great": false
+ },
+ {
+  "id": "slickdeals:thread-20415993",
+  "part": "Ryzen 7 9800X3D",
+  "channel": "cpu",
+  "price": 369.99,
+  "title": "AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler $369.99",
+  "url": "https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795785970.0,
+  "first_seen": 1795788437.0585744,
+  "great": false
  }
 ]
