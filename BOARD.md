@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-27 02:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-27 04:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -16,7 +16,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $524.69 | [$524.69 / ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Gaming Graphics Card at Amazon](https://slickdeals.net/f/20399421-524-69-asus-dual-radeon-rx-9060-xt-16gb-gddr6-gaming-graphics-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 26h ago | live as far as known |
+| $524.69 | [$524.69 / ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Gaming Graphics Card at Amazon](https://slickdeals.net/f/20399421-524-69-asus-dual-radeon-rx-9060-xt-16gb-gddr6-gaming-graphics-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 28h ago | live as far as known |
 
 ### RTX 5070 Ti 16GB (target $900, lowest seen in 90 days $990) — in Stretch card
 
@@ -24,7 +24,9 @@ No recent deals.
 
 ### RX 9070 XT 16GB (target $700, lowest seen in 90 days $692.99) — in Stretch card
 
-No recent deals.
+| Price | Deal | Posted | Status |
+|---|---|---|---|
+| 🏬 $800 | [[Central Computers] Black Friday Doorbusters: Ryzen 7 9800X3D CPU $300, Ryzen 5 5600 CPU $79.99, ASUS RX 9070 XT GPU $800 & More (Mostly In-Store Only)](https://slickdeals.net/f/20411196-central-computers-black-friday-doorbusters-ryzen-7-9800x3d-cpu-300-ryzen-5-5600-cpu-79-99-asus-rx-9070-xt-gpu-800-more-mostly-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 0h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -46,9 +48,9 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
-| ✅ $369.99 | [AMD Ryzen 7 9800X3D CPU w/ Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler = $369 @ Newegg $369.99](https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 30h ago | live as far as known |
-| ✅ $369.99 | [[AC] $369.99* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 18h ago | live as far as known |
+| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| ✅ $369.99 | [AMD Ryzen 7 9800X3D CPU w/ Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler = $369 @ Newegg $369.99](https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 32h ago | live as far as known |
+| ✅ $369.99 | [[AC] $369.99* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 20h ago | live as far as known |
 | ✅ $399 | [[AC] $399* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
@@ -65,8 +67,8 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $109.99 | [MSI B650 Gaming Plus WiFi Gaming Motherboard $109.99 + Free Shipping](https://slickdeals.net/f/20398443-msi-b650-gaming-plus-wifi-gaming-motherboard-109-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 28h ago | live as far as known |
-| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
+| 🚨 $109.99 | [MSI B650 Gaming Plus WiFi Gaming Motherboard $109.99 + Free Shipping](https://slickdeals.net/f/20398443-msi-b650-gaming-plus-wifi-gaming-motherboard-109-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 30h ago | live as far as known |
+| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -104,7 +106,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $71.11 | [Crucial P3 1TB NVMe M.2 SSD (CT1000P3SSD8) $71.11 + Free Shipping](https://slickdeals.net/f/20395212-crucial-p3-1tb-nvme-m-2-ssd-ct1000p3ssd8-71-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 35h ago | live as far as known |
+| ✅ $71.11 | [Crucial P3 1TB NVMe M.2 SSD (CT1000P3SSD8) $71.11 + Free Shipping](https://slickdeals.net/f/20395212-crucial-p3-1tb-nvme-m-2-ssd-ct1000p3ssd8-71-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 37h ago | live as far as known |
 
 ## Power supplies
 
@@ -112,7 +114,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $68.99 | [MSI MPG A850GS 850W 80+ Gold Full Modular ATX 3.1 & PCIe 5.1 Gaming Power Supply $68.99 + Free Shipping](https://slickdeals.net/f/20399643-msi-mpg-a850gs-850w-80-gold-full-modular-atx-3-1-pcie-5-1-gaming-power-supply-68-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 25h ago | live as far as known |
+| ✅ $68.99 | [MSI MPG A850GS 850W 80+ Gold Full Modular ATX 3.1 & PCIe 5.1 Gaming Power Supply $68.99 + Free Shipping](https://slickdeals.net/f/20399643-msi-mpg-a850gs-850w-80-gold-full-modular-atx-3-1-pcie-5-1-gaming-power-supply-68-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 27h ago | live as far as known |
 
 ### 1000W Gold power supply (target $140, lowest seen in 90 days $89.99) — in Only if adding a 3090 later
 
