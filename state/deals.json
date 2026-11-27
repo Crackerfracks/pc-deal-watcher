@@ -1645,5 +1645,17 @@
   "posted": 1795767086.0,
   "first_seen": 1795774036.1024537,
   "great": false
+ },
+ {
+  "id": "slickdeals:thread-20415297",
+  "part": "RTX 5060 Ti 16GB",
+  "channel": "gpu",
+  "price": 699.0,
+  "title": "9AM PT: GIGABYTE Eagle GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card GV-N506TEAGLEMAX OC-16GD $699",
+  "url": "https://slickdeals.net/f/20415297-9am-pt-gigabyte-eagle-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-x8-atx-graphics-card-gv-n506teaglemax-oc-16gd-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20415297-9am-pt-gigabyte-eagle-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-x8-atx-graphics-card-gv-n506teaglemax-oc-16gd-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795780896.0,
+  "first_seen": 1795781232.6753209,
+  "great": false
  }
 ]
