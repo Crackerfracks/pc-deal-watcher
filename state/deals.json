@@ -1681,5 +1681,27 @@
   "posted": 1795798211.0,
   "first_seen": 1795802831.2468514,
   "great": false
+ },
+ {
+  "id": "slickdeals:thread-20423259",
+  "part": "Prebuilt with 16GB+ card",
+  "channel": "prebuilt",
+  "price": 1599.99,
+  "title": "STORMCRAFT SIRIUS Gaming PC AMD Ryzen 5 9600X AMD Radeon 9070 16GB - AI Powered 16GB DDR5 6000MHz RGB 1 TB NVMe SSD 650W PSU $1599.99",
+  "url": "https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "thread": "https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "posted": 1795828285.0,
+  "first_seen": 1795831633.465394,
+  "great": false,
+  "verdict": {
+   "parts_value": 1559,
+   "savings": -41,
+   "suitable": true,
+   "notes": [
+    "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
+    "16 GB RAM, add ~$224 to reach 32 GB"
+   ],
+   "great": false
+  }
  }
 ]

@@ -1,19 +1,28 @@
 {
- "checked_at": 1795824430.1242173,
- "great_unacknowledged": [
+ "checked_at": 1795831633.465394,
+ "great_unacknowledged": [],
+ "prebuilts_last_day": [
   {
-   "id": "slickdeals:thread-20398443",
-   "part": "B650/B850 ATX Wi-Fi board",
-   "channel": "motherboard",
-   "price": 109.99,
-   "title": "MSI B650 Gaming Plus WiFi Gaming Motherboard $109.99 + Free Shipping",
-   "url": "https://slickdeals.net/f/20398443-msi-b650-gaming-plus-wifi-gaming-motherboard-109-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "thread": "https://slickdeals.net/f/20398443-msi-b650-gaming-plus-wifi-gaming-motherboard-109-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "posted": 1795645619.0,
-   "first_seen": 1795651631.6638062,
-   "great": true,
-   "last_alerted": 1795802831.2468514
+   "id": "slickdeals:thread-20423259",
+   "part": "Prebuilt with 16GB+ card",
+   "channel": "prebuilt",
+   "price": 1599.99,
+   "title": "STORMCRAFT SIRIUS Gaming PC AMD Ryzen 5 9600X AMD Radeon 9070 16GB - AI Powered 16GB DDR5 6000MHz RGB 1 TB NVMe SSD 650W PSU $1599.99",
+   "url": "https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "thread": "https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "posted": 1795828285.0,
+   "first_seen": 1795831633.465394,
+   "great": false,
+   "verdict": {
+    "parts_value": 1559,
+    "savings": -41,
+    "suitable": true,
+    "notes": [
+     "16 GB graphics card (AMD, fine for games, weaker for AI tools and Blender)",
+     "16 GB RAM, add ~$224 to reach 32 GB"
+    ],
+    "great": false
+   }
   }
- ],
- "prebuilts_last_day": []
+ ]
 }
