@@ -1,6 +1,6 @@
 # Deals board
 
-Updated 2026-11-28 02:07 UTC. Every deal from the last 7 days that matched a part on the
+Updated 2026-11-28 04:07 UTC. Every deal from the last 7 days that matched a part on the
 watch list, cheapest first. ✅ means at or under the target price (those also
 sent a phone alert). 🚨 means a great deal (10%+ and $25+ under target, or a prebuilt
 worth $250+ more than its parts). 🏬 means in-store pickup only (no alert sent).
@@ -12,7 +12,7 @@ Prices come from deal titles, so open the link to confirm.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| $699 | [9AM PT: GIGABYTE Eagle GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card GV-N506TEAGLEMAX OC-16GD $699](https://slickdeals.net/f/20415297-9am-pt-gigabyte-eagle-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-x8-atx-graphics-card-gv-n506teaglemax-oc-16gd-699?utm_source=rss&utm_content=def&utm_medium=RSS2) | 14h ago | live as far as known |
+| $699 | [9AM PT: GIGABYTE Eagle GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card GV-N506TEAGLEMAX OC-16GD $699](https://slickdeals.net/f/20415297-9am-pt-gigabyte-eagle-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-x8-atx-graphics-card-gv-n506teaglemax-oc-16gd-699?utm_source=rss&utm_content=def&utm_medium=RSS2) | 16h ago | live as far as known |
 
 ### RX 9060 XT 16GB (target $430, lowest seen in 90 days $449.99) — in Backup card for both builds
 
@@ -28,7 +28,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🏬 $800 | [[Central Computers] Black Friday Doorbusters: Ryzen 7 9800X3D CPU $300, Ryzen 5 5600 CPU $79.99, ASUS RX 9070 XT GPU $800 & More (Mostly In-Store Only)](https://slickdeals.net/f/20411196-central-computers-black-friday-doorbusters-ryzen-7-9800x3d-cpu-300-ryzen-5-5600-cpu-79-99-asus-rx-9070-xt-gpu-800-more-mostly-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 22h ago | live as far as known |
+| 🏬 $800 | [[Central Computers] Black Friday Doorbusters: Ryzen 7 9800X3D CPU $300, Ryzen 5 5600 CPU $79.99, ASUS RX 9070 XT GPU $800 & More (Mostly In-Store Only)](https://slickdeals.net/f/20411196-central-computers-black-friday-doorbusters-ryzen-7-9800x3d-cpu-300-ryzen-5-5600-cpu-79-99-asus-rx-9070-xt-gpu-800-more-mostly-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2) | 24h ago | live as far as known |
 
 ### RTX 3090 24GB (target $1000) — in Later second card
 
@@ -50,10 +50,10 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
+| 🚨 $350 | [AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350](https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
 | ✅ $369.99 | [AMD Ryzen 7 9800X3D CPU w/ Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler = $369 @ Newegg $369.99](https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
-| ✅ $369.99 | [[AC] $369.99* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 42h ago | live as far as known |
-| ✅ $369.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler $369.99](https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 13h ago | live as far as known |
+| ✅ $369.99 | [[AC] $369.99* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 44h ago | live as far as known |
+| ✅ $369.99 | [AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler $369.99](https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 15h ago | live as far as known |
 | ✅ $399 | [[AC] $399* / AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon](https://slickdeals.net/f/20371881-ac-399-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
 
 ### Ryzen 7 5700G (target $170) — in Build A (AM4)
@@ -71,9 +71,9 @@ No recent deals.
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | 🚨 $109.99 | [MSI B650 Gaming Plus WiFi Gaming Motherboard $109.99 + Free Shipping](https://slickdeals.net/f/20398443-msi-b650-gaming-plus-wifi-gaming-motherboard-109-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
-| ✅ $130.2 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX Motherboard w/ 14+2+1 Power Stages $130.20 + Free Shipping](https://slickdeals.net/f/20413461-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-w-14-2-1-power-stages-130-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 18h ago | live as far as known |
-| $152.06 | [GIGABYTE B850 AORUS Elite WIFI7 ICE AMD AM5 ATX Motherboard $152.06 + Free Shipping](https://slickdeals.net/f/20418477-gigabyte-b850-aorus-elite-wifi7-ice-amd-am5-atx-motherboard-152-06-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 9h ago | live as far as known |
-| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 5 days ago | live as far as known |
+| ✅ $130.2 | [ASUS ROG STRIX B850-A GAMING WIFI R2 AMD AM5 B850 ATX Motherboard w/ 14+2+1 Power Stages $130.20 + Free Shipping](https://slickdeals.net/f/20413461-asus-rog-strix-b850-a-gaming-wifi-r2-amd-am5-b850-atx-motherboard-w-14-2-1-power-stages-130-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 20h ago | live as far as known |
+| $152.06 | [GIGABYTE B850 AORUS Elite WIFI7 ICE AMD AM5 ATX Motherboard $152.06 + Free Shipping](https://slickdeals.net/f/20418477-gigabyte-b850-aorus-elite-wifi7-ice-amd-am5-atx-motherboard-152-06-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 11h ago | live as far as known |
+| $173.99 | [ASUS ROG Strix B850-A Gaming WiFi AMD AM5 B850 ATX Motherboard 14+2+2 Power Stages, DDR5 AEMP, 2.5G LAN, Wi-Fi 7 with Q-Antenna, 4X M.2, PCIe® 5.0, USB 20Gbps Type-C - $173.99](https://slickdeals.net/f/20370198-asus-rog-strix-b850-a-gaming-wifi-amd-am5-b850-atx-motherboard-14-2-2-power-stages-ddr5-aemp-2-5g-lan-wi-fi-7-with-q-antenna-4x-m-2-pcie-5-0-usb-20gbps-type-c-173-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 6 days ago | live as far as known |
 
 ### ASUS ProArt B850-Creator (two x8 slots) (target $260) — in Build B (AM5) two-card option
 
@@ -83,7 +83,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $86.19 | [ASUS TUF GAMING B550-PLUS WIFI II AM4 ATX AMD Motherboard $86.19 + Free Shipping](https://slickdeals.net/f/20413425-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-86-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 18h ago | live as far as known |
+| ✅ $86.19 | [ASUS TUF GAMING B550-PLUS WIFI II AM4 ATX AMD Motherboard $86.19 + Free Shipping](https://slickdeals.net/f/20413425-asus-tuf-gaming-b550-plus-wifi-ii-am4-atx-amd-motherboard-86-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 20h ago | live as far as known |
 
 ## Memory (RAM)
 
@@ -113,7 +113,7 @@ No recent deals.
 
 | Price | Deal | Posted | Status |
 |---|---|---|---|
-| ✅ $71.11 | [Crucial P3 1TB NVMe M.2 SSD (CT1000P3SSD8) $71.11 + Free Shipping](https://slickdeals.net/f/20395212-crucial-p3-1tb-nvme-m-2-ssd-ct1000p3ssd8-71-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 2 days ago | live as far as known |
+| ✅ $71.11 | [Crucial P3 1TB NVMe M.2 SSD (CT1000P3SSD8) $71.11 + Free Shipping](https://slickdeals.net/f/20395212-crucial-p3-1tb-nvme-m-2-ssd-ct1000p3ssd8-71-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3 days ago | live as far as known |
 
 ## Power supplies
 
@@ -146,4 +146,4 @@ _Past cases and cooling deals stayed live about 2h (median of 3)._
 | Price | Deal | Posted | Status |
 |---|---|---|---|
 | $1539.99 | [iBUYPOWER Element Gaming PC: Ryzen 7 8700F, RX 9070 GRE (12GB), 16GB DDR5, 1TB SSD $1539.99 — parts ~$1,489, saves ~$-51](https://slickdeals.net/f/20383539-ibuypower-element-gaming-pc-ryzen-7-8700f-rx-9070-gre-12gb-16gb-ddr5-1tb-ssd-1539-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 4 days ago | live as far as known |
-| $1599.99 | [STORMCRAFT SIRIUS Gaming PC AMD Ryzen 5 9600X AMD Radeon 9070 16GB - AI Powered 16GB DDR5 6000MHz RGB 1 TB NVMe SSD 650W PSU $1599.99 — parts ~$1,559, saves ~$-41](https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 1h ago | live as far as known |
+| $1599.99 | [STORMCRAFT SIRIUS Gaming PC AMD Ryzen 5 9600X AMD Radeon 9070 16GB - AI Powered 16GB DDR5 6000MHz RGB 1 TB NVMe SSD 650W PSU $1599.99 — parts ~$1,559, saves ~$-41](https://slickdeals.net/f/20423259-stormcraft-sirius-gaming-pc-amd-ryzen-5-9600x-amd-radeon-9070-16gb-ai-powered-16gb-ddr5-6000mhz-rgb-1-tb-nvme-ssd-650w-psu-1599-99?utm_source=rss&utm_content=def&utm_medium=RSS2) | 3h ago | live as far as known |
